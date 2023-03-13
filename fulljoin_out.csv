@@ -1,0 +1,2813 @@
+,provider,region,country,city,impact,name,tdp_watts
+0,gcp,asia-east1,Taiwan,Changhua County,557.0,A100 PCIe 40/80GB,250
+1,gcp,asia-east1,Taiwan,Changhua County,557.0,A100 SXM4 80 GB,400
+2,gcp,asia-east1,Taiwan,Changhua County,557.0,AGX Xavier,30
+3,gcp,asia-east1,Taiwan,Changhua County,557.0,AMD RX480,150
+4,gcp,asia-east1,Taiwan,Changhua County,557.0,GTX 1080 Ti,250
+5,gcp,asia-east1,Taiwan,Changhua County,557.0,GTX 1080,180
+6,gcp,asia-east1,Taiwan,Changhua County,557.0,GTX 750,250
+7,gcp,asia-east1,Taiwan,Changhua County,557.0,GTX TITAN X,250
+8,gcp,asia-east1,Taiwan,Changhua County,557.0,Quadro K6000,225
+9,gcp,asia-east1,Taiwan,Changhua County,557.0,Quadro P6000,250
+10,gcp,asia-east1,Taiwan,Changhua County,557.0,RTX 2080 Ti,250
+11,gcp,asia-east1,Taiwan,Changhua County,557.0,RTX 2080,215
+12,gcp,asia-east1,Taiwan,Changhua County,557.0,RTX 8000,260
+13,gcp,asia-east1,Taiwan,Changhua County,557.0,T4,70
+14,gcp,asia-east1,Taiwan,Changhua County,557.0,Tesla K40c,245
+15,gcp,asia-east1,Taiwan,Changhua County,557.0,Tesla K80,300
+16,gcp,asia-east1,Taiwan,Changhua County,557.0,Tesla M40 24GB,250
+17,gcp,asia-east1,Taiwan,Changhua County,557.0,Tesla P100,250
+18,gcp,asia-east1,Taiwan,Changhua County,557.0,Tesla P40,250
+19,gcp,asia-east1,Taiwan,Changhua County,557.0,Tesla V100-PCIE-16GB,300
+20,gcp,asia-east1,Taiwan,Changhua County,557.0,Tesla V100-SXM2-16GB,250
+21,gcp,asia-east1,Taiwan,Changhua County,557.0,Tesla V100-SXM2-32GB,300
+22,gcp,asia-east1,Taiwan,Changhua County,557.0,Titan RTX,280
+23,gcp,asia-east1,Taiwan,Changhua County,557.0,Titan V,250
+24,gcp,asia-east1,Taiwan,Changhua County,557.0,TITAN X Pascal,250
+25,gcp,asia-east1,Taiwan,Changhua County,557.0,Titan Xp,250
+26,gcp,asia-east1,Taiwan,Changhua County,557.0,TPUv2 Chip,221
+27,gcp,asia-east1,Taiwan,Changhua County,557.0,TPUv3 Chip,283
+28,gcp,asia-east1,Taiwan,Changhua County,557.0,RTX 3080,320
+29,gcp,asia-east1,Taiwan,Changhua County,557.0,RTX 3080 TI,350
+30,gcp,asia-east1,Taiwan,Changhua County,557.0,RTX 3090,350
+31,gcp,asia-east1,Taiwan,Changhua County,557.0,RTX A6000,300
+32,gcp,asia-east1,Taiwan,Changhua County,557.0,Intel Xeon E5-2699,145
+33,gcp,asia-east1,Taiwan,Changhua County,557.0,Intel Xeon E5-2630v4,85
+34,gcp,asia-east1,Taiwan,Changhua County,557.0,Intel Xeon E5-2650,105
+35,gcp,asia-east1,Taiwan,Changhua County,557.0,Intel Xeon Gold 5220,125
+36,gcp,asia-east1,Taiwan,Changhua County,557.0,Intel Xeon Gold 6148,150
+37,gcp,asia-east1,Taiwan,Changhua County,557.0,AMD EPYC 7763,280
+38,gcp,asia-east2,China,Hong Kong,702.0,A100 PCIe 40/80GB,250
+39,gcp,asia-east2,China,Hong Kong,702.0,A100 SXM4 80 GB,400
+40,gcp,asia-east2,China,Hong Kong,702.0,AGX Xavier,30
+41,gcp,asia-east2,China,Hong Kong,702.0,AMD RX480,150
+42,gcp,asia-east2,China,Hong Kong,702.0,GTX 1080 Ti,250
+43,gcp,asia-east2,China,Hong Kong,702.0,GTX 1080,180
+44,gcp,asia-east2,China,Hong Kong,702.0,GTX 750,250
+45,gcp,asia-east2,China,Hong Kong,702.0,GTX TITAN X,250
+46,gcp,asia-east2,China,Hong Kong,702.0,Quadro K6000,225
+47,gcp,asia-east2,China,Hong Kong,702.0,Quadro P6000,250
+48,gcp,asia-east2,China,Hong Kong,702.0,RTX 2080 Ti,250
+49,gcp,asia-east2,China,Hong Kong,702.0,RTX 2080,215
+50,gcp,asia-east2,China,Hong Kong,702.0,RTX 8000,260
+51,gcp,asia-east2,China,Hong Kong,702.0,T4,70
+52,gcp,asia-east2,China,Hong Kong,702.0,Tesla K40c,245
+53,gcp,asia-east2,China,Hong Kong,702.0,Tesla K80,300
+54,gcp,asia-east2,China,Hong Kong,702.0,Tesla M40 24GB,250
+55,gcp,asia-east2,China,Hong Kong,702.0,Tesla P100,250
+56,gcp,asia-east2,China,Hong Kong,702.0,Tesla P40,250
+57,gcp,asia-east2,China,Hong Kong,702.0,Tesla V100-PCIE-16GB,300
+58,gcp,asia-east2,China,Hong Kong,702.0,Tesla V100-SXM2-16GB,250
+59,gcp,asia-east2,China,Hong Kong,702.0,Tesla V100-SXM2-32GB,300
+60,gcp,asia-east2,China,Hong Kong,702.0,Titan RTX,280
+61,gcp,asia-east2,China,Hong Kong,702.0,Titan V,250
+62,gcp,asia-east2,China,Hong Kong,702.0,TITAN X Pascal,250
+63,gcp,asia-east2,China,Hong Kong,702.0,Titan Xp,250
+64,gcp,asia-east2,China,Hong Kong,702.0,TPUv2 Chip,221
+65,gcp,asia-east2,China,Hong Kong,702.0,TPUv3 Chip,283
+66,gcp,asia-east2,China,Hong Kong,702.0,RTX 3080,320
+67,gcp,asia-east2,China,Hong Kong,702.0,RTX 3080 TI,350
+68,gcp,asia-east2,China,Hong Kong,702.0,RTX 3090,350
+69,gcp,asia-east2,China,Hong Kong,702.0,RTX A6000,300
+70,gcp,asia-east2,China,Hong Kong,702.0,Intel Xeon E5-2699,145
+71,gcp,asia-east2,China,Hong Kong,702.0,Intel Xeon E5-2630v4,85
+72,gcp,asia-east2,China,Hong Kong,702.0,Intel Xeon E5-2650,105
+73,gcp,asia-east2,China,Hong Kong,702.0,Intel Xeon Gold 5220,125
+74,gcp,asia-east2,China,Hong Kong,702.0,Intel Xeon Gold 6148,150
+75,gcp,asia-east2,China,Hong Kong,702.0,AMD EPYC 7763,280
+76,gcp,asia-northeast1,Japan,Tokyo,516.0,A100 PCIe 40/80GB,250
+77,gcp,asia-northeast1,Japan,Tokyo,516.0,A100 SXM4 80 GB,400
+78,gcp,asia-northeast1,Japan,Tokyo,516.0,AGX Xavier,30
+79,gcp,asia-northeast1,Japan,Tokyo,516.0,AMD RX480,150
+80,gcp,asia-northeast1,Japan,Tokyo,516.0,GTX 1080 Ti,250
+81,gcp,asia-northeast1,Japan,Tokyo,516.0,GTX 1080,180
+82,gcp,asia-northeast1,Japan,Tokyo,516.0,GTX 750,250
+83,gcp,asia-northeast1,Japan,Tokyo,516.0,GTX TITAN X,250
+84,gcp,asia-northeast1,Japan,Tokyo,516.0,Quadro K6000,225
+85,gcp,asia-northeast1,Japan,Tokyo,516.0,Quadro P6000,250
+86,gcp,asia-northeast1,Japan,Tokyo,516.0,RTX 2080 Ti,250
+87,gcp,asia-northeast1,Japan,Tokyo,516.0,RTX 2080,215
+88,gcp,asia-northeast1,Japan,Tokyo,516.0,RTX 8000,260
+89,gcp,asia-northeast1,Japan,Tokyo,516.0,T4,70
+90,gcp,asia-northeast1,Japan,Tokyo,516.0,Tesla K40c,245
+91,gcp,asia-northeast1,Japan,Tokyo,516.0,Tesla K80,300
+92,gcp,asia-northeast1,Japan,Tokyo,516.0,Tesla M40 24GB,250
+93,gcp,asia-northeast1,Japan,Tokyo,516.0,Tesla P100,250
+94,gcp,asia-northeast1,Japan,Tokyo,516.0,Tesla P40,250
+95,gcp,asia-northeast1,Japan,Tokyo,516.0,Tesla V100-PCIE-16GB,300
+96,gcp,asia-northeast1,Japan,Tokyo,516.0,Tesla V100-SXM2-16GB,250
+97,gcp,asia-northeast1,Japan,Tokyo,516.0,Tesla V100-SXM2-32GB,300
+98,gcp,asia-northeast1,Japan,Tokyo,516.0,Titan RTX,280
+99,gcp,asia-northeast1,Japan,Tokyo,516.0,Titan V,250
+100,gcp,asia-northeast1,Japan,Tokyo,516.0,TITAN X Pascal,250
+101,gcp,asia-northeast1,Japan,Tokyo,516.0,Titan Xp,250
+102,gcp,asia-northeast1,Japan,Tokyo,516.0,TPUv2 Chip,221
+103,gcp,asia-northeast1,Japan,Tokyo,516.0,TPUv3 Chip,283
+104,gcp,asia-northeast1,Japan,Tokyo,516.0,RTX 3080,320
+105,gcp,asia-northeast1,Japan,Tokyo,516.0,RTX 3080 TI,350
+106,gcp,asia-northeast1,Japan,Tokyo,516.0,RTX 3090,350
+107,gcp,asia-northeast1,Japan,Tokyo,516.0,RTX A6000,300
+108,gcp,asia-northeast1,Japan,Tokyo,516.0,Intel Xeon E5-2699,145
+109,gcp,asia-northeast1,Japan,Tokyo,516.0,Intel Xeon E5-2630v4,85
+110,gcp,asia-northeast1,Japan,Tokyo,516.0,Intel Xeon E5-2650,105
+111,gcp,asia-northeast1,Japan,Tokyo,516.0,Intel Xeon Gold 5220,125
+112,gcp,asia-northeast1,Japan,Tokyo,516.0,Intel Xeon Gold 6148,150
+113,gcp,asia-northeast1,Japan,Tokyo,516.0,AMD EPYC 7763,280
+114,gcp,asia-northeast2,Japan,Osaka,516.0,A100 PCIe 40/80GB,250
+115,gcp,asia-northeast2,Japan,Osaka,516.0,A100 SXM4 80 GB,400
+116,gcp,asia-northeast2,Japan,Osaka,516.0,AGX Xavier,30
+117,gcp,asia-northeast2,Japan,Osaka,516.0,AMD RX480,150
+118,gcp,asia-northeast2,Japan,Osaka,516.0,GTX 1080 Ti,250
+119,gcp,asia-northeast2,Japan,Osaka,516.0,GTX 1080,180
+120,gcp,asia-northeast2,Japan,Osaka,516.0,GTX 750,250
+121,gcp,asia-northeast2,Japan,Osaka,516.0,GTX TITAN X,250
+122,gcp,asia-northeast2,Japan,Osaka,516.0,Quadro K6000,225
+123,gcp,asia-northeast2,Japan,Osaka,516.0,Quadro P6000,250
+124,gcp,asia-northeast2,Japan,Osaka,516.0,RTX 2080 Ti,250
+125,gcp,asia-northeast2,Japan,Osaka,516.0,RTX 2080,215
+126,gcp,asia-northeast2,Japan,Osaka,516.0,RTX 8000,260
+127,gcp,asia-northeast2,Japan,Osaka,516.0,T4,70
+128,gcp,asia-northeast2,Japan,Osaka,516.0,Tesla K40c,245
+129,gcp,asia-northeast2,Japan,Osaka,516.0,Tesla K80,300
+130,gcp,asia-northeast2,Japan,Osaka,516.0,Tesla M40 24GB,250
+131,gcp,asia-northeast2,Japan,Osaka,516.0,Tesla P100,250
+132,gcp,asia-northeast2,Japan,Osaka,516.0,Tesla P40,250
+133,gcp,asia-northeast2,Japan,Osaka,516.0,Tesla V100-PCIE-16GB,300
+134,gcp,asia-northeast2,Japan,Osaka,516.0,Tesla V100-SXM2-16GB,250
+135,gcp,asia-northeast2,Japan,Osaka,516.0,Tesla V100-SXM2-32GB,300
+136,gcp,asia-northeast2,Japan,Osaka,516.0,Titan RTX,280
+137,gcp,asia-northeast2,Japan,Osaka,516.0,Titan V,250
+138,gcp,asia-northeast2,Japan,Osaka,516.0,TITAN X Pascal,250
+139,gcp,asia-northeast2,Japan,Osaka,516.0,Titan Xp,250
+140,gcp,asia-northeast2,Japan,Osaka,516.0,TPUv2 Chip,221
+141,gcp,asia-northeast2,Japan,Osaka,516.0,TPUv3 Chip,283
+142,gcp,asia-northeast2,Japan,Osaka,516.0,RTX 3080,320
+143,gcp,asia-northeast2,Japan,Osaka,516.0,RTX 3080 TI,350
+144,gcp,asia-northeast2,Japan,Osaka,516.0,RTX 3090,350
+145,gcp,asia-northeast2,Japan,Osaka,516.0,RTX A6000,300
+146,gcp,asia-northeast2,Japan,Osaka,516.0,Intel Xeon E5-2699,145
+147,gcp,asia-northeast2,Japan,Osaka,516.0,Intel Xeon E5-2630v4,85
+148,gcp,asia-northeast2,Japan,Osaka,516.0,Intel Xeon E5-2650,105
+149,gcp,asia-northeast2,Japan,Osaka,516.0,Intel Xeon Gold 5220,125
+150,gcp,asia-northeast2,Japan,Osaka,516.0,Intel Xeon Gold 6148,150
+151,gcp,asia-northeast2,Japan,Osaka,516.0,AMD EPYC 7763,280
+152,gcp,asia-south1,India,Mumbai,920.0,A100 PCIe 40/80GB,250
+153,gcp,asia-south1,India,Mumbai,920.0,A100 SXM4 80 GB,400
+154,gcp,asia-south1,India,Mumbai,920.0,AGX Xavier,30
+155,gcp,asia-south1,India,Mumbai,920.0,AMD RX480,150
+156,gcp,asia-south1,India,Mumbai,920.0,GTX 1080 Ti,250
+157,gcp,asia-south1,India,Mumbai,920.0,GTX 1080,180
+158,gcp,asia-south1,India,Mumbai,920.0,GTX 750,250
+159,gcp,asia-south1,India,Mumbai,920.0,GTX TITAN X,250
+160,gcp,asia-south1,India,Mumbai,920.0,Quadro K6000,225
+161,gcp,asia-south1,India,Mumbai,920.0,Quadro P6000,250
+162,gcp,asia-south1,India,Mumbai,920.0,RTX 2080 Ti,250
+163,gcp,asia-south1,India,Mumbai,920.0,RTX 2080,215
+164,gcp,asia-south1,India,Mumbai,920.0,RTX 8000,260
+165,gcp,asia-south1,India,Mumbai,920.0,T4,70
+166,gcp,asia-south1,India,Mumbai,920.0,Tesla K40c,245
+167,gcp,asia-south1,India,Mumbai,920.0,Tesla K80,300
+168,gcp,asia-south1,India,Mumbai,920.0,Tesla M40 24GB,250
+169,gcp,asia-south1,India,Mumbai,920.0,Tesla P100,250
+170,gcp,asia-south1,India,Mumbai,920.0,Tesla P40,250
+171,gcp,asia-south1,India,Mumbai,920.0,Tesla V100-PCIE-16GB,300
+172,gcp,asia-south1,India,Mumbai,920.0,Tesla V100-SXM2-16GB,250
+173,gcp,asia-south1,India,Mumbai,920.0,Tesla V100-SXM2-32GB,300
+174,gcp,asia-south1,India,Mumbai,920.0,Titan RTX,280
+175,gcp,asia-south1,India,Mumbai,920.0,Titan V,250
+176,gcp,asia-south1,India,Mumbai,920.0,TITAN X Pascal,250
+177,gcp,asia-south1,India,Mumbai,920.0,Titan Xp,250
+178,gcp,asia-south1,India,Mumbai,920.0,TPUv2 Chip,221
+179,gcp,asia-south1,India,Mumbai,920.0,TPUv3 Chip,283
+180,gcp,asia-south1,India,Mumbai,920.0,RTX 3080,320
+181,gcp,asia-south1,India,Mumbai,920.0,RTX 3080 TI,350
+182,gcp,asia-south1,India,Mumbai,920.0,RTX 3090,350
+183,gcp,asia-south1,India,Mumbai,920.0,RTX A6000,300
+184,gcp,asia-south1,India,Mumbai,920.0,Intel Xeon E5-2699,145
+185,gcp,asia-south1,India,Mumbai,920.0,Intel Xeon E5-2630v4,85
+186,gcp,asia-south1,India,Mumbai,920.0,Intel Xeon E5-2650,105
+187,gcp,asia-south1,India,Mumbai,920.0,Intel Xeon Gold 5220,125
+188,gcp,asia-south1,India,Mumbai,920.0,Intel Xeon Gold 6148,150
+189,gcp,asia-south1,India,Mumbai,920.0,AMD EPYC 7763,280
+190,gcp,asia-southeast1,Singapore,Jurong West,419.0,A100 PCIe 40/80GB,250
+191,gcp,asia-southeast1,Singapore,Jurong West,419.0,A100 SXM4 80 GB,400
+192,gcp,asia-southeast1,Singapore,Jurong West,419.0,AGX Xavier,30
+193,gcp,asia-southeast1,Singapore,Jurong West,419.0,AMD RX480,150
+194,gcp,asia-southeast1,Singapore,Jurong West,419.0,GTX 1080 Ti,250
+195,gcp,asia-southeast1,Singapore,Jurong West,419.0,GTX 1080,180
+196,gcp,asia-southeast1,Singapore,Jurong West,419.0,GTX 750,250
+197,gcp,asia-southeast1,Singapore,Jurong West,419.0,GTX TITAN X,250
+198,gcp,asia-southeast1,Singapore,Jurong West,419.0,Quadro K6000,225
+199,gcp,asia-southeast1,Singapore,Jurong West,419.0,Quadro P6000,250
+200,gcp,asia-southeast1,Singapore,Jurong West,419.0,RTX 2080 Ti,250
+201,gcp,asia-southeast1,Singapore,Jurong West,419.0,RTX 2080,215
+202,gcp,asia-southeast1,Singapore,Jurong West,419.0,RTX 8000,260
+203,gcp,asia-southeast1,Singapore,Jurong West,419.0,T4,70
+204,gcp,asia-southeast1,Singapore,Jurong West,419.0,Tesla K40c,245
+205,gcp,asia-southeast1,Singapore,Jurong West,419.0,Tesla K80,300
+206,gcp,asia-southeast1,Singapore,Jurong West,419.0,Tesla M40 24GB,250
+207,gcp,asia-southeast1,Singapore,Jurong West,419.0,Tesla P100,250
+208,gcp,asia-southeast1,Singapore,Jurong West,419.0,Tesla P40,250
+209,gcp,asia-southeast1,Singapore,Jurong West,419.0,Tesla V100-PCIE-16GB,300
+210,gcp,asia-southeast1,Singapore,Jurong West,419.0,Tesla V100-SXM2-16GB,250
+211,gcp,asia-southeast1,Singapore,Jurong West,419.0,Tesla V100-SXM2-32GB,300
+212,gcp,asia-southeast1,Singapore,Jurong West,419.0,Titan RTX,280
+213,gcp,asia-southeast1,Singapore,Jurong West,419.0,Titan V,250
+214,gcp,asia-southeast1,Singapore,Jurong West,419.0,TITAN X Pascal,250
+215,gcp,asia-southeast1,Singapore,Jurong West,419.0,Titan Xp,250
+216,gcp,asia-southeast1,Singapore,Jurong West,419.0,TPUv2 Chip,221
+217,gcp,asia-southeast1,Singapore,Jurong West,419.0,TPUv3 Chip,283
+218,gcp,asia-southeast1,Singapore,Jurong West,419.0,RTX 3080,320
+219,gcp,asia-southeast1,Singapore,Jurong West,419.0,RTX 3080 TI,350
+220,gcp,asia-southeast1,Singapore,Jurong West,419.0,RTX 3090,350
+221,gcp,asia-southeast1,Singapore,Jurong West,419.0,RTX A6000,300
+222,gcp,asia-southeast1,Singapore,Jurong West,419.0,Intel Xeon E5-2699,145
+223,gcp,asia-southeast1,Singapore,Jurong West,419.0,Intel Xeon E5-2630v4,85
+224,gcp,asia-southeast1,Singapore,Jurong West,419.0,Intel Xeon E5-2650,105
+225,gcp,asia-southeast1,Singapore,Jurong West,419.0,Intel Xeon Gold 5220,125
+226,gcp,asia-southeast1,Singapore,Jurong West,419.0,Intel Xeon Gold 6148,150
+227,gcp,asia-southeast1,Singapore,Jurong West,419.0,AMD EPYC 7763,280
+228,gcp,australia-southeast1,Australia,Sydney,802.0,A100 PCIe 40/80GB,250
+229,gcp,australia-southeast1,Australia,Sydney,802.0,A100 SXM4 80 GB,400
+230,gcp,australia-southeast1,Australia,Sydney,802.0,AGX Xavier,30
+231,gcp,australia-southeast1,Australia,Sydney,802.0,AMD RX480,150
+232,gcp,australia-southeast1,Australia,Sydney,802.0,GTX 1080 Ti,250
+233,gcp,australia-southeast1,Australia,Sydney,802.0,GTX 1080,180
+234,gcp,australia-southeast1,Australia,Sydney,802.0,GTX 750,250
+235,gcp,australia-southeast1,Australia,Sydney,802.0,GTX TITAN X,250
+236,gcp,australia-southeast1,Australia,Sydney,802.0,Quadro K6000,225
+237,gcp,australia-southeast1,Australia,Sydney,802.0,Quadro P6000,250
+238,gcp,australia-southeast1,Australia,Sydney,802.0,RTX 2080 Ti,250
+239,gcp,australia-southeast1,Australia,Sydney,802.0,RTX 2080,215
+240,gcp,australia-southeast1,Australia,Sydney,802.0,RTX 8000,260
+241,gcp,australia-southeast1,Australia,Sydney,802.0,T4,70
+242,gcp,australia-southeast1,Australia,Sydney,802.0,Tesla K40c,245
+243,gcp,australia-southeast1,Australia,Sydney,802.0,Tesla K80,300
+244,gcp,australia-southeast1,Australia,Sydney,802.0,Tesla M40 24GB,250
+245,gcp,australia-southeast1,Australia,Sydney,802.0,Tesla P100,250
+246,gcp,australia-southeast1,Australia,Sydney,802.0,Tesla P40,250
+247,gcp,australia-southeast1,Australia,Sydney,802.0,Tesla V100-PCIE-16GB,300
+248,gcp,australia-southeast1,Australia,Sydney,802.0,Tesla V100-SXM2-16GB,250
+249,gcp,australia-southeast1,Australia,Sydney,802.0,Tesla V100-SXM2-32GB,300
+250,gcp,australia-southeast1,Australia,Sydney,802.0,Titan RTX,280
+251,gcp,australia-southeast1,Australia,Sydney,802.0,Titan V,250
+252,gcp,australia-southeast1,Australia,Sydney,802.0,TITAN X Pascal,250
+253,gcp,australia-southeast1,Australia,Sydney,802.0,Titan Xp,250
+254,gcp,australia-southeast1,Australia,Sydney,802.0,TPUv2 Chip,221
+255,gcp,australia-southeast1,Australia,Sydney,802.0,TPUv3 Chip,283
+256,gcp,australia-southeast1,Australia,Sydney,802.0,RTX 3080,320
+257,gcp,australia-southeast1,Australia,Sydney,802.0,RTX 3080 TI,350
+258,gcp,australia-southeast1,Australia,Sydney,802.0,RTX 3090,350
+259,gcp,australia-southeast1,Australia,Sydney,802.0,RTX A6000,300
+260,gcp,australia-southeast1,Australia,Sydney,802.0,Intel Xeon E5-2699,145
+261,gcp,australia-southeast1,Australia,Sydney,802.0,Intel Xeon E5-2630v4,85
+262,gcp,australia-southeast1,Australia,Sydney,802.0,Intel Xeon E5-2650,105
+263,gcp,australia-southeast1,Australia,Sydney,802.0,Intel Xeon Gold 5220,125
+264,gcp,australia-southeast1,Australia,Sydney,802.0,Intel Xeon Gold 6148,150
+265,gcp,australia-southeast1,Australia,Sydney,802.0,AMD EPYC 7763,280
+266,gcp,europe-north1,Finland,Hamina,211.0,A100 PCIe 40/80GB,250
+267,gcp,europe-north1,Finland,Hamina,211.0,A100 SXM4 80 GB,400
+268,gcp,europe-north1,Finland,Hamina,211.0,AGX Xavier,30
+269,gcp,europe-north1,Finland,Hamina,211.0,AMD RX480,150
+270,gcp,europe-north1,Finland,Hamina,211.0,GTX 1080 Ti,250
+271,gcp,europe-north1,Finland,Hamina,211.0,GTX 1080,180
+272,gcp,europe-north1,Finland,Hamina,211.0,GTX 750,250
+273,gcp,europe-north1,Finland,Hamina,211.0,GTX TITAN X,250
+274,gcp,europe-north1,Finland,Hamina,211.0,Quadro K6000,225
+275,gcp,europe-north1,Finland,Hamina,211.0,Quadro P6000,250
+276,gcp,europe-north1,Finland,Hamina,211.0,RTX 2080 Ti,250
+277,gcp,europe-north1,Finland,Hamina,211.0,RTX 2080,215
+278,gcp,europe-north1,Finland,Hamina,211.0,RTX 8000,260
+279,gcp,europe-north1,Finland,Hamina,211.0,T4,70
+280,gcp,europe-north1,Finland,Hamina,211.0,Tesla K40c,245
+281,gcp,europe-north1,Finland,Hamina,211.0,Tesla K80,300
+282,gcp,europe-north1,Finland,Hamina,211.0,Tesla M40 24GB,250
+283,gcp,europe-north1,Finland,Hamina,211.0,Tesla P100,250
+284,gcp,europe-north1,Finland,Hamina,211.0,Tesla P40,250
+285,gcp,europe-north1,Finland,Hamina,211.0,Tesla V100-PCIE-16GB,300
+286,gcp,europe-north1,Finland,Hamina,211.0,Tesla V100-SXM2-16GB,250
+287,gcp,europe-north1,Finland,Hamina,211.0,Tesla V100-SXM2-32GB,300
+288,gcp,europe-north1,Finland,Hamina,211.0,Titan RTX,280
+289,gcp,europe-north1,Finland,Hamina,211.0,Titan V,250
+290,gcp,europe-north1,Finland,Hamina,211.0,TITAN X Pascal,250
+291,gcp,europe-north1,Finland,Hamina,211.0,Titan Xp,250
+292,gcp,europe-north1,Finland,Hamina,211.0,TPUv2 Chip,221
+293,gcp,europe-north1,Finland,Hamina,211.0,TPUv3 Chip,283
+294,gcp,europe-north1,Finland,Hamina,211.0,RTX 3080,320
+295,gcp,europe-north1,Finland,Hamina,211.0,RTX 3080 TI,350
+296,gcp,europe-north1,Finland,Hamina,211.0,RTX 3090,350
+297,gcp,europe-north1,Finland,Hamina,211.0,RTX A6000,300
+298,gcp,europe-north1,Finland,Hamina,211.0,Intel Xeon E5-2699,145
+299,gcp,europe-north1,Finland,Hamina,211.0,Intel Xeon E5-2630v4,85
+300,gcp,europe-north1,Finland,Hamina,211.0,Intel Xeon E5-2650,105
+301,gcp,europe-north1,Finland,Hamina,211.0,Intel Xeon Gold 5220,125
+302,gcp,europe-north1,Finland,Hamina,211.0,Intel Xeon Gold 6148,150
+303,gcp,europe-north1,Finland,Hamina,211.0,AMD EPYC 7763,280
+304,gcp,europe-west1,Belgium,St. Ghislain,267.0,A100 PCIe 40/80GB,250
+305,gcp,europe-west1,Belgium,St. Ghislain,267.0,A100 SXM4 80 GB,400
+306,gcp,europe-west1,Belgium,St. Ghislain,267.0,AGX Xavier,30
+307,gcp,europe-west1,Belgium,St. Ghislain,267.0,AMD RX480,150
+308,gcp,europe-west1,Belgium,St. Ghislain,267.0,GTX 1080 Ti,250
+309,gcp,europe-west1,Belgium,St. Ghislain,267.0,GTX 1080,180
+310,gcp,europe-west1,Belgium,St. Ghislain,267.0,GTX 750,250
+311,gcp,europe-west1,Belgium,St. Ghislain,267.0,GTX TITAN X,250
+312,gcp,europe-west1,Belgium,St. Ghislain,267.0,Quadro K6000,225
+313,gcp,europe-west1,Belgium,St. Ghislain,267.0,Quadro P6000,250
+314,gcp,europe-west1,Belgium,St. Ghislain,267.0,RTX 2080 Ti,250
+315,gcp,europe-west1,Belgium,St. Ghislain,267.0,RTX 2080,215
+316,gcp,europe-west1,Belgium,St. Ghislain,267.0,RTX 8000,260
+317,gcp,europe-west1,Belgium,St. Ghislain,267.0,T4,70
+318,gcp,europe-west1,Belgium,St. Ghislain,267.0,Tesla K40c,245
+319,gcp,europe-west1,Belgium,St. Ghislain,267.0,Tesla K80,300
+320,gcp,europe-west1,Belgium,St. Ghislain,267.0,Tesla M40 24GB,250
+321,gcp,europe-west1,Belgium,St. Ghislain,267.0,Tesla P100,250
+322,gcp,europe-west1,Belgium,St. Ghislain,267.0,Tesla P40,250
+323,gcp,europe-west1,Belgium,St. Ghislain,267.0,Tesla V100-PCIE-16GB,300
+324,gcp,europe-west1,Belgium,St. Ghislain,267.0,Tesla V100-SXM2-16GB,250
+325,gcp,europe-west1,Belgium,St. Ghislain,267.0,Tesla V100-SXM2-32GB,300
+326,gcp,europe-west1,Belgium,St. Ghislain,267.0,Titan RTX,280
+327,gcp,europe-west1,Belgium,St. Ghislain,267.0,Titan V,250
+328,gcp,europe-west1,Belgium,St. Ghislain,267.0,TITAN X Pascal,250
+329,gcp,europe-west1,Belgium,St. Ghislain,267.0,Titan Xp,250
+330,gcp,europe-west1,Belgium,St. Ghislain,267.0,TPUv2 Chip,221
+331,gcp,europe-west1,Belgium,St. Ghislain,267.0,TPUv3 Chip,283
+332,gcp,europe-west1,Belgium,St. Ghislain,267.0,RTX 3080,320
+333,gcp,europe-west1,Belgium,St. Ghislain,267.0,RTX 3080 TI,350
+334,gcp,europe-west1,Belgium,St. Ghislain,267.0,RTX 3090,350
+335,gcp,europe-west1,Belgium,St. Ghislain,267.0,RTX A6000,300
+336,gcp,europe-west1,Belgium,St. Ghislain,267.0,Intel Xeon E5-2699,145
+337,gcp,europe-west1,Belgium,St. Ghislain,267.0,Intel Xeon E5-2630v4,85
+338,gcp,europe-west1,Belgium,St. Ghislain,267.0,Intel Xeon E5-2650,105
+339,gcp,europe-west1,Belgium,St. Ghislain,267.0,Intel Xeon Gold 5220,125
+340,gcp,europe-west1,Belgium,St. Ghislain,267.0,Intel Xeon Gold 6148,150
+341,gcp,europe-west1,Belgium,St. Ghislain,267.0,AMD EPYC 7763,280
+342,gcp,europe-west2,United Kingdom,London,623.0,A100 PCIe 40/80GB,250
+343,gcp,europe-west2,United Kingdom,London,623.0,A100 SXM4 80 GB,400
+344,gcp,europe-west2,United Kingdom,London,623.0,AGX Xavier,30
+345,gcp,europe-west2,United Kingdom,London,623.0,AMD RX480,150
+346,gcp,europe-west2,United Kingdom,London,623.0,GTX 1080 Ti,250
+347,gcp,europe-west2,United Kingdom,London,623.0,GTX 1080,180
+348,gcp,europe-west2,United Kingdom,London,623.0,GTX 750,250
+349,gcp,europe-west2,United Kingdom,London,623.0,GTX TITAN X,250
+350,gcp,europe-west2,United Kingdom,London,623.0,Quadro K6000,225
+351,gcp,europe-west2,United Kingdom,London,623.0,Quadro P6000,250
+352,gcp,europe-west2,United Kingdom,London,623.0,RTX 2080 Ti,250
+353,gcp,europe-west2,United Kingdom,London,623.0,RTX 2080,215
+354,gcp,europe-west2,United Kingdom,London,623.0,RTX 8000,260
+355,gcp,europe-west2,United Kingdom,London,623.0,T4,70
+356,gcp,europe-west2,United Kingdom,London,623.0,Tesla K40c,245
+357,gcp,europe-west2,United Kingdom,London,623.0,Tesla K80,300
+358,gcp,europe-west2,United Kingdom,London,623.0,Tesla M40 24GB,250
+359,gcp,europe-west2,United Kingdom,London,623.0,Tesla P100,250
+360,gcp,europe-west2,United Kingdom,London,623.0,Tesla P40,250
+361,gcp,europe-west2,United Kingdom,London,623.0,Tesla V100-PCIE-16GB,300
+362,gcp,europe-west2,United Kingdom,London,623.0,Tesla V100-SXM2-16GB,250
+363,gcp,europe-west2,United Kingdom,London,623.0,Tesla V100-SXM2-32GB,300
+364,gcp,europe-west2,United Kingdom,London,623.0,Titan RTX,280
+365,gcp,europe-west2,United Kingdom,London,623.0,Titan V,250
+366,gcp,europe-west2,United Kingdom,London,623.0,TITAN X Pascal,250
+367,gcp,europe-west2,United Kingdom,London,623.0,Titan Xp,250
+368,gcp,europe-west2,United Kingdom,London,623.0,TPUv2 Chip,221
+369,gcp,europe-west2,United Kingdom,London,623.0,TPUv3 Chip,283
+370,gcp,europe-west2,United Kingdom,London,623.0,RTX 3080,320
+371,gcp,europe-west2,United Kingdom,London,623.0,RTX 3080 TI,350
+372,gcp,europe-west2,United Kingdom,London,623.0,RTX 3090,350
+373,gcp,europe-west2,United Kingdom,London,623.0,RTX A6000,300
+374,gcp,europe-west2,United Kingdom,London,623.0,Intel Xeon E5-2699,145
+375,gcp,europe-west2,United Kingdom,London,623.0,Intel Xeon E5-2630v4,85
+376,gcp,europe-west2,United Kingdom,London,623.0,Intel Xeon E5-2650,105
+377,gcp,europe-west2,United Kingdom,London,623.0,Intel Xeon Gold 5220,125
+378,gcp,europe-west2,United Kingdom,London,623.0,Intel Xeon Gold 6148,150
+379,gcp,europe-west2,United Kingdom,London,623.0,AMD EPYC 7763,280
+380,gcp,europe-west3,Germany,Frankfurt,615.0,A100 PCIe 40/80GB,250
+381,gcp,europe-west3,Germany,Frankfurt,615.0,A100 SXM4 80 GB,400
+382,gcp,europe-west3,Germany,Frankfurt,615.0,AGX Xavier,30
+383,gcp,europe-west3,Germany,Frankfurt,615.0,AMD RX480,150
+384,gcp,europe-west3,Germany,Frankfurt,615.0,GTX 1080 Ti,250
+385,gcp,europe-west3,Germany,Frankfurt,615.0,GTX 1080,180
+386,gcp,europe-west3,Germany,Frankfurt,615.0,GTX 750,250
+387,gcp,europe-west3,Germany,Frankfurt,615.0,GTX TITAN X,250
+388,gcp,europe-west3,Germany,Frankfurt,615.0,Quadro K6000,225
+389,gcp,europe-west3,Germany,Frankfurt,615.0,Quadro P6000,250
+390,gcp,europe-west3,Germany,Frankfurt,615.0,RTX 2080 Ti,250
+391,gcp,europe-west3,Germany,Frankfurt,615.0,RTX 2080,215
+392,gcp,europe-west3,Germany,Frankfurt,615.0,RTX 8000,260
+393,gcp,europe-west3,Germany,Frankfurt,615.0,T4,70
+394,gcp,europe-west3,Germany,Frankfurt,615.0,Tesla K40c,245
+395,gcp,europe-west3,Germany,Frankfurt,615.0,Tesla K80,300
+396,gcp,europe-west3,Germany,Frankfurt,615.0,Tesla M40 24GB,250
+397,gcp,europe-west3,Germany,Frankfurt,615.0,Tesla P100,250
+398,gcp,europe-west3,Germany,Frankfurt,615.0,Tesla P40,250
+399,gcp,europe-west3,Germany,Frankfurt,615.0,Tesla V100-PCIE-16GB,300
+400,gcp,europe-west3,Germany,Frankfurt,615.0,Tesla V100-SXM2-16GB,250
+401,gcp,europe-west3,Germany,Frankfurt,615.0,Tesla V100-SXM2-32GB,300
+402,gcp,europe-west3,Germany,Frankfurt,615.0,Titan RTX,280
+403,gcp,europe-west3,Germany,Frankfurt,615.0,Titan V,250
+404,gcp,europe-west3,Germany,Frankfurt,615.0,TITAN X Pascal,250
+405,gcp,europe-west3,Germany,Frankfurt,615.0,Titan Xp,250
+406,gcp,europe-west3,Germany,Frankfurt,615.0,TPUv2 Chip,221
+407,gcp,europe-west3,Germany,Frankfurt,615.0,TPUv3 Chip,283
+408,gcp,europe-west3,Germany,Frankfurt,615.0,RTX 3080,320
+409,gcp,europe-west3,Germany,Frankfurt,615.0,RTX 3080 TI,350
+410,gcp,europe-west3,Germany,Frankfurt,615.0,RTX 3090,350
+411,gcp,europe-west3,Germany,Frankfurt,615.0,RTX A6000,300
+412,gcp,europe-west3,Germany,Frankfurt,615.0,Intel Xeon E5-2699,145
+413,gcp,europe-west3,Germany,Frankfurt,615.0,Intel Xeon E5-2630v4,85
+414,gcp,europe-west3,Germany,Frankfurt,615.0,Intel Xeon E5-2650,105
+415,gcp,europe-west3,Germany,Frankfurt,615.0,Intel Xeon Gold 5220,125
+416,gcp,europe-west3,Germany,Frankfurt,615.0,Intel Xeon Gold 6148,150
+417,gcp,europe-west3,Germany,Frankfurt,615.0,AMD EPYC 7763,280
+418,gcp,europe-west4,Netherlands,Eemshaven,569.0,A100 PCIe 40/80GB,250
+419,gcp,europe-west4,Netherlands,Eemshaven,569.0,A100 SXM4 80 GB,400
+420,gcp,europe-west4,Netherlands,Eemshaven,569.0,AGX Xavier,30
+421,gcp,europe-west4,Netherlands,Eemshaven,569.0,AMD RX480,150
+422,gcp,europe-west4,Netherlands,Eemshaven,569.0,GTX 1080 Ti,250
+423,gcp,europe-west4,Netherlands,Eemshaven,569.0,GTX 1080,180
+424,gcp,europe-west4,Netherlands,Eemshaven,569.0,GTX 750,250
+425,gcp,europe-west4,Netherlands,Eemshaven,569.0,GTX TITAN X,250
+426,gcp,europe-west4,Netherlands,Eemshaven,569.0,Quadro K6000,225
+427,gcp,europe-west4,Netherlands,Eemshaven,569.0,Quadro P6000,250
+428,gcp,europe-west4,Netherlands,Eemshaven,569.0,RTX 2080 Ti,250
+429,gcp,europe-west4,Netherlands,Eemshaven,569.0,RTX 2080,215
+430,gcp,europe-west4,Netherlands,Eemshaven,569.0,RTX 8000,260
+431,gcp,europe-west4,Netherlands,Eemshaven,569.0,T4,70
+432,gcp,europe-west4,Netherlands,Eemshaven,569.0,Tesla K40c,245
+433,gcp,europe-west4,Netherlands,Eemshaven,569.0,Tesla K80,300
+434,gcp,europe-west4,Netherlands,Eemshaven,569.0,Tesla M40 24GB,250
+435,gcp,europe-west4,Netherlands,Eemshaven,569.0,Tesla P100,250
+436,gcp,europe-west4,Netherlands,Eemshaven,569.0,Tesla P40,250
+437,gcp,europe-west4,Netherlands,Eemshaven,569.0,Tesla V100-PCIE-16GB,300
+438,gcp,europe-west4,Netherlands,Eemshaven,569.0,Tesla V100-SXM2-16GB,250
+439,gcp,europe-west4,Netherlands,Eemshaven,569.0,Tesla V100-SXM2-32GB,300
+440,gcp,europe-west4,Netherlands,Eemshaven,569.0,Titan RTX,280
+441,gcp,europe-west4,Netherlands,Eemshaven,569.0,Titan V,250
+442,gcp,europe-west4,Netherlands,Eemshaven,569.0,TITAN X Pascal,250
+443,gcp,europe-west4,Netherlands,Eemshaven,569.0,Titan Xp,250
+444,gcp,europe-west4,Netherlands,Eemshaven,569.0,TPUv2 Chip,221
+445,gcp,europe-west4,Netherlands,Eemshaven,569.0,TPUv3 Chip,283
+446,gcp,europe-west4,Netherlands,Eemshaven,569.0,RTX 3080,320
+447,gcp,europe-west4,Netherlands,Eemshaven,569.0,RTX 3080 TI,350
+448,gcp,europe-west4,Netherlands,Eemshaven,569.0,RTX 3090,350
+449,gcp,europe-west4,Netherlands,Eemshaven,569.0,RTX A6000,300
+450,gcp,europe-west4,Netherlands,Eemshaven,569.0,Intel Xeon E5-2699,145
+451,gcp,europe-west4,Netherlands,Eemshaven,569.0,Intel Xeon E5-2630v4,85
+452,gcp,europe-west4,Netherlands,Eemshaven,569.0,Intel Xeon E5-2650,105
+453,gcp,europe-west4,Netherlands,Eemshaven,569.0,Intel Xeon Gold 5220,125
+454,gcp,europe-west4,Netherlands,Eemshaven,569.0,Intel Xeon Gold 6148,150
+455,gcp,europe-west4,Netherlands,Eemshaven,569.0,AMD EPYC 7763,280
+456,gcp,europe-west6,Switzerland,ZÃ¼rich,16.0,A100 PCIe 40/80GB,250
+457,gcp,europe-west6,Switzerland,ZÃ¼rich,16.0,A100 SXM4 80 GB,400
+458,gcp,europe-west6,Switzerland,ZÃ¼rich,16.0,AGX Xavier,30
+459,gcp,europe-west6,Switzerland,ZÃ¼rich,16.0,AMD RX480,150
+460,gcp,europe-west6,Switzerland,ZÃ¼rich,16.0,GTX 1080 Ti,250
+461,gcp,europe-west6,Switzerland,ZÃ¼rich,16.0,GTX 1080,180
+462,gcp,europe-west6,Switzerland,ZÃ¼rich,16.0,GTX 750,250
+463,gcp,europe-west6,Switzerland,ZÃ¼rich,16.0,GTX TITAN X,250
+464,gcp,europe-west6,Switzerland,ZÃ¼rich,16.0,Quadro K6000,225
+465,gcp,europe-west6,Switzerland,ZÃ¼rich,16.0,Quadro P6000,250
+466,gcp,europe-west6,Switzerland,ZÃ¼rich,16.0,RTX 2080 Ti,250
+467,gcp,europe-west6,Switzerland,ZÃ¼rich,16.0,RTX 2080,215
+468,gcp,europe-west6,Switzerland,ZÃ¼rich,16.0,RTX 8000,260
+469,gcp,europe-west6,Switzerland,ZÃ¼rich,16.0,T4,70
+470,gcp,europe-west6,Switzerland,ZÃ¼rich,16.0,Tesla K40c,245
+471,gcp,europe-west6,Switzerland,ZÃ¼rich,16.0,Tesla K80,300
+472,gcp,europe-west6,Switzerland,ZÃ¼rich,16.0,Tesla M40 24GB,250
+473,gcp,europe-west6,Switzerland,ZÃ¼rich,16.0,Tesla P100,250
+474,gcp,europe-west6,Switzerland,ZÃ¼rich,16.0,Tesla P40,250
+475,gcp,europe-west6,Switzerland,ZÃ¼rich,16.0,Tesla V100-PCIE-16GB,300
+476,gcp,europe-west6,Switzerland,ZÃ¼rich,16.0,Tesla V100-SXM2-16GB,250
+477,gcp,europe-west6,Switzerland,ZÃ¼rich,16.0,Tesla V100-SXM2-32GB,300
+478,gcp,europe-west6,Switzerland,ZÃ¼rich,16.0,Titan RTX,280
+479,gcp,europe-west6,Switzerland,ZÃ¼rich,16.0,Titan V,250
+480,gcp,europe-west6,Switzerland,ZÃ¼rich,16.0,TITAN X Pascal,250
+481,gcp,europe-west6,Switzerland,ZÃ¼rich,16.0,Titan Xp,250
+482,gcp,europe-west6,Switzerland,ZÃ¼rich,16.0,TPUv2 Chip,221
+483,gcp,europe-west6,Switzerland,ZÃ¼rich,16.0,TPUv3 Chip,283
+484,gcp,europe-west6,Switzerland,ZÃ¼rich,16.0,RTX 3080,320
+485,gcp,europe-west6,Switzerland,ZÃ¼rich,16.0,RTX 3080 TI,350
+486,gcp,europe-west6,Switzerland,ZÃ¼rich,16.0,RTX 3090,350
+487,gcp,europe-west6,Switzerland,ZÃ¼rich,16.0,RTX A6000,300
+488,gcp,europe-west6,Switzerland,ZÃ¼rich,16.0,Intel Xeon E5-2699,145
+489,gcp,europe-west6,Switzerland,ZÃ¼rich,16.0,Intel Xeon E5-2630v4,85
+490,gcp,europe-west6,Switzerland,ZÃ¼rich,16.0,Intel Xeon E5-2650,105
+491,gcp,europe-west6,Switzerland,ZÃ¼rich,16.0,Intel Xeon Gold 5220,125
+492,gcp,europe-west6,Switzerland,ZÃ¼rich,16.0,Intel Xeon Gold 6148,150
+493,gcp,europe-west6,Switzerland,ZÃ¼rich,16.0,AMD EPYC 7763,280
+494,gcp,northamerica-northeast1,Canada,MontrÃ©al,34.5,A100 PCIe 40/80GB,250
+495,gcp,northamerica-northeast1,Canada,MontrÃ©al,34.5,A100 SXM4 80 GB,400
+496,gcp,northamerica-northeast1,Canada,MontrÃ©al,34.5,AGX Xavier,30
+497,gcp,northamerica-northeast1,Canada,MontrÃ©al,34.5,AMD RX480,150
+498,gcp,northamerica-northeast1,Canada,MontrÃ©al,34.5,GTX 1080 Ti,250
+499,gcp,northamerica-northeast1,Canada,MontrÃ©al,34.5,GTX 1080,180
+500,gcp,northamerica-northeast1,Canada,MontrÃ©al,34.5,GTX 750,250
+501,gcp,northamerica-northeast1,Canada,MontrÃ©al,34.5,GTX TITAN X,250
+502,gcp,northamerica-northeast1,Canada,MontrÃ©al,34.5,Quadro K6000,225
+503,gcp,northamerica-northeast1,Canada,MontrÃ©al,34.5,Quadro P6000,250
+504,gcp,northamerica-northeast1,Canada,MontrÃ©al,34.5,RTX 2080 Ti,250
+505,gcp,northamerica-northeast1,Canada,MontrÃ©al,34.5,RTX 2080,215
+506,gcp,northamerica-northeast1,Canada,MontrÃ©al,34.5,RTX 8000,260
+507,gcp,northamerica-northeast1,Canada,MontrÃ©al,34.5,T4,70
+508,gcp,northamerica-northeast1,Canada,MontrÃ©al,34.5,Tesla K40c,245
+509,gcp,northamerica-northeast1,Canada,MontrÃ©al,34.5,Tesla K80,300
+510,gcp,northamerica-northeast1,Canada,MontrÃ©al,34.5,Tesla M40 24GB,250
+511,gcp,northamerica-northeast1,Canada,MontrÃ©al,34.5,Tesla P100,250
+512,gcp,northamerica-northeast1,Canada,MontrÃ©al,34.5,Tesla P40,250
+513,gcp,northamerica-northeast1,Canada,MontrÃ©al,34.5,Tesla V100-PCIE-16GB,300
+514,gcp,northamerica-northeast1,Canada,MontrÃ©al,34.5,Tesla V100-SXM2-16GB,250
+515,gcp,northamerica-northeast1,Canada,MontrÃ©al,34.5,Tesla V100-SXM2-32GB,300
+516,gcp,northamerica-northeast1,Canada,MontrÃ©al,34.5,Titan RTX,280
+517,gcp,northamerica-northeast1,Canada,MontrÃ©al,34.5,Titan V,250
+518,gcp,northamerica-northeast1,Canada,MontrÃ©al,34.5,TITAN X Pascal,250
+519,gcp,northamerica-northeast1,Canada,MontrÃ©al,34.5,Titan Xp,250
+520,gcp,northamerica-northeast1,Canada,MontrÃ©al,34.5,TPUv2 Chip,221
+521,gcp,northamerica-northeast1,Canada,MontrÃ©al,34.5,TPUv3 Chip,283
+522,gcp,northamerica-northeast1,Canada,MontrÃ©al,34.5,RTX 3080,320
+523,gcp,northamerica-northeast1,Canada,MontrÃ©al,34.5,RTX 3080 TI,350
+524,gcp,northamerica-northeast1,Canada,MontrÃ©al,34.5,RTX 3090,350
+525,gcp,northamerica-northeast1,Canada,MontrÃ©al,34.5,RTX A6000,300
+526,gcp,northamerica-northeast1,Canada,MontrÃ©al,34.5,Intel Xeon E5-2699,145
+527,gcp,northamerica-northeast1,Canada,MontrÃ©al,34.5,Intel Xeon E5-2630v4,85
+528,gcp,northamerica-northeast1,Canada,MontrÃ©al,34.5,Intel Xeon E5-2650,105
+529,gcp,northamerica-northeast1,Canada,MontrÃ©al,34.5,Intel Xeon Gold 5220,125
+530,gcp,northamerica-northeast1,Canada,MontrÃ©al,34.5,Intel Xeon Gold 6148,150
+531,gcp,northamerica-northeast1,Canada,MontrÃ©al,34.5,AMD EPYC 7763,280
+532,gcp,southamerica-east1,Brazil,SÃ£o Paulo,205.0,A100 PCIe 40/80GB,250
+533,gcp,southamerica-east1,Brazil,SÃ£o Paulo,205.0,A100 SXM4 80 GB,400
+534,gcp,southamerica-east1,Brazil,SÃ£o Paulo,205.0,AGX Xavier,30
+535,gcp,southamerica-east1,Brazil,SÃ£o Paulo,205.0,AMD RX480,150
+536,gcp,southamerica-east1,Brazil,SÃ£o Paulo,205.0,GTX 1080 Ti,250
+537,gcp,southamerica-east1,Brazil,SÃ£o Paulo,205.0,GTX 1080,180
+538,gcp,southamerica-east1,Brazil,SÃ£o Paulo,205.0,GTX 750,250
+539,gcp,southamerica-east1,Brazil,SÃ£o Paulo,205.0,GTX TITAN X,250
+540,gcp,southamerica-east1,Brazil,SÃ£o Paulo,205.0,Quadro K6000,225
+541,gcp,southamerica-east1,Brazil,SÃ£o Paulo,205.0,Quadro P6000,250
+542,gcp,southamerica-east1,Brazil,SÃ£o Paulo,205.0,RTX 2080 Ti,250
+543,gcp,southamerica-east1,Brazil,SÃ£o Paulo,205.0,RTX 2080,215
+544,gcp,southamerica-east1,Brazil,SÃ£o Paulo,205.0,RTX 8000,260
+545,gcp,southamerica-east1,Brazil,SÃ£o Paulo,205.0,T4,70
+546,gcp,southamerica-east1,Brazil,SÃ£o Paulo,205.0,Tesla K40c,245
+547,gcp,southamerica-east1,Brazil,SÃ£o Paulo,205.0,Tesla K80,300
+548,gcp,southamerica-east1,Brazil,SÃ£o Paulo,205.0,Tesla M40 24GB,250
+549,gcp,southamerica-east1,Brazil,SÃ£o Paulo,205.0,Tesla P100,250
+550,gcp,southamerica-east1,Brazil,SÃ£o Paulo,205.0,Tesla P40,250
+551,gcp,southamerica-east1,Brazil,SÃ£o Paulo,205.0,Tesla V100-PCIE-16GB,300
+552,gcp,southamerica-east1,Brazil,SÃ£o Paulo,205.0,Tesla V100-SXM2-16GB,250
+553,gcp,southamerica-east1,Brazil,SÃ£o Paulo,205.0,Tesla V100-SXM2-32GB,300
+554,gcp,southamerica-east1,Brazil,SÃ£o Paulo,205.0,Titan RTX,280
+555,gcp,southamerica-east1,Brazil,SÃ£o Paulo,205.0,Titan V,250
+556,gcp,southamerica-east1,Brazil,SÃ£o Paulo,205.0,TITAN X Pascal,250
+557,gcp,southamerica-east1,Brazil,SÃ£o Paulo,205.0,Titan Xp,250
+558,gcp,southamerica-east1,Brazil,SÃ£o Paulo,205.0,TPUv2 Chip,221
+559,gcp,southamerica-east1,Brazil,SÃ£o Paulo,205.0,TPUv3 Chip,283
+560,gcp,southamerica-east1,Brazil,SÃ£o Paulo,205.0,RTX 3080,320
+561,gcp,southamerica-east1,Brazil,SÃ£o Paulo,205.0,RTX 3080 TI,350
+562,gcp,southamerica-east1,Brazil,SÃ£o Paulo,205.0,RTX 3090,350
+563,gcp,southamerica-east1,Brazil,SÃ£o Paulo,205.0,RTX A6000,300
+564,gcp,southamerica-east1,Brazil,SÃ£o Paulo,205.0,Intel Xeon E5-2699,145
+565,gcp,southamerica-east1,Brazil,SÃ£o Paulo,205.0,Intel Xeon E5-2630v4,85
+566,gcp,southamerica-east1,Brazil,SÃ£o Paulo,205.0,Intel Xeon E5-2650,105
+567,gcp,southamerica-east1,Brazil,SÃ£o Paulo,205.0,Intel Xeon Gold 5220,125
+568,gcp,southamerica-east1,Brazil,SÃ£o Paulo,205.0,Intel Xeon Gold 6148,150
+569,gcp,southamerica-east1,Brazil,SÃ£o Paulo,205.0,AMD EPYC 7763,280
+570,gcp,us-central1,USA,Council Bluffs,566.3,A100 PCIe 40/80GB,250
+571,gcp,us-central1,USA,Council Bluffs,566.3,A100 SXM4 80 GB,400
+572,gcp,us-central1,USA,Council Bluffs,566.3,AGX Xavier,30
+573,gcp,us-central1,USA,Council Bluffs,566.3,AMD RX480,150
+574,gcp,us-central1,USA,Council Bluffs,566.3,GTX 1080 Ti,250
+575,gcp,us-central1,USA,Council Bluffs,566.3,GTX 1080,180
+576,gcp,us-central1,USA,Council Bluffs,566.3,GTX 750,250
+577,gcp,us-central1,USA,Council Bluffs,566.3,GTX TITAN X,250
+578,gcp,us-central1,USA,Council Bluffs,566.3,Quadro K6000,225
+579,gcp,us-central1,USA,Council Bluffs,566.3,Quadro P6000,250
+580,gcp,us-central1,USA,Council Bluffs,566.3,RTX 2080 Ti,250
+581,gcp,us-central1,USA,Council Bluffs,566.3,RTX 2080,215
+582,gcp,us-central1,USA,Council Bluffs,566.3,RTX 8000,260
+583,gcp,us-central1,USA,Council Bluffs,566.3,T4,70
+584,gcp,us-central1,USA,Council Bluffs,566.3,Tesla K40c,245
+585,gcp,us-central1,USA,Council Bluffs,566.3,Tesla K80,300
+586,gcp,us-central1,USA,Council Bluffs,566.3,Tesla M40 24GB,250
+587,gcp,us-central1,USA,Council Bluffs,566.3,Tesla P100,250
+588,gcp,us-central1,USA,Council Bluffs,566.3,Tesla P40,250
+589,gcp,us-central1,USA,Council Bluffs,566.3,Tesla V100-PCIE-16GB,300
+590,gcp,us-central1,USA,Council Bluffs,566.3,Tesla V100-SXM2-16GB,250
+591,gcp,us-central1,USA,Council Bluffs,566.3,Tesla V100-SXM2-32GB,300
+592,gcp,us-central1,USA,Council Bluffs,566.3,Titan RTX,280
+593,gcp,us-central1,USA,Council Bluffs,566.3,Titan V,250
+594,gcp,us-central1,USA,Council Bluffs,566.3,TITAN X Pascal,250
+595,gcp,us-central1,USA,Council Bluffs,566.3,Titan Xp,250
+596,gcp,us-central1,USA,Council Bluffs,566.3,TPUv2 Chip,221
+597,gcp,us-central1,USA,Council Bluffs,566.3,TPUv3 Chip,283
+598,gcp,us-central1,USA,Council Bluffs,566.3,RTX 3080,320
+599,gcp,us-central1,USA,Council Bluffs,566.3,RTX 3080 TI,350
+600,gcp,us-central1,USA,Council Bluffs,566.3,RTX 3090,350
+601,gcp,us-central1,USA,Council Bluffs,566.3,RTX A6000,300
+602,gcp,us-central1,USA,Council Bluffs,566.3,Intel Xeon E5-2699,145
+603,gcp,us-central1,USA,Council Bluffs,566.3,Intel Xeon E5-2630v4,85
+604,gcp,us-central1,USA,Council Bluffs,566.3,Intel Xeon E5-2650,105
+605,gcp,us-central1,USA,Council Bluffs,566.3,Intel Xeon Gold 5220,125
+606,gcp,us-central1,USA,Council Bluffs,566.3,Intel Xeon Gold 6148,150
+607,gcp,us-central1,USA,Council Bluffs,566.3,AMD EPYC 7763,280
+608,gcp,us-east1,USA,Moncks Corner,367.8,A100 PCIe 40/80GB,250
+609,gcp,us-east1,USA,Moncks Corner,367.8,A100 SXM4 80 GB,400
+610,gcp,us-east1,USA,Moncks Corner,367.8,AGX Xavier,30
+611,gcp,us-east1,USA,Moncks Corner,367.8,AMD RX480,150
+612,gcp,us-east1,USA,Moncks Corner,367.8,GTX 1080 Ti,250
+613,gcp,us-east1,USA,Moncks Corner,367.8,GTX 1080,180
+614,gcp,us-east1,USA,Moncks Corner,367.8,GTX 750,250
+615,gcp,us-east1,USA,Moncks Corner,367.8,GTX TITAN X,250
+616,gcp,us-east1,USA,Moncks Corner,367.8,Quadro K6000,225
+617,gcp,us-east1,USA,Moncks Corner,367.8,Quadro P6000,250
+618,gcp,us-east1,USA,Moncks Corner,367.8,RTX 2080 Ti,250
+619,gcp,us-east1,USA,Moncks Corner,367.8,RTX 2080,215
+620,gcp,us-east1,USA,Moncks Corner,367.8,RTX 8000,260
+621,gcp,us-east1,USA,Moncks Corner,367.8,T4,70
+622,gcp,us-east1,USA,Moncks Corner,367.8,Tesla K40c,245
+623,gcp,us-east1,USA,Moncks Corner,367.8,Tesla K80,300
+624,gcp,us-east1,USA,Moncks Corner,367.8,Tesla M40 24GB,250
+625,gcp,us-east1,USA,Moncks Corner,367.8,Tesla P100,250
+626,gcp,us-east1,USA,Moncks Corner,367.8,Tesla P40,250
+627,gcp,us-east1,USA,Moncks Corner,367.8,Tesla V100-PCIE-16GB,300
+628,gcp,us-east1,USA,Moncks Corner,367.8,Tesla V100-SXM2-16GB,250
+629,gcp,us-east1,USA,Moncks Corner,367.8,Tesla V100-SXM2-32GB,300
+630,gcp,us-east1,USA,Moncks Corner,367.8,Titan RTX,280
+631,gcp,us-east1,USA,Moncks Corner,367.8,Titan V,250
+632,gcp,us-east1,USA,Moncks Corner,367.8,TITAN X Pascal,250
+633,gcp,us-east1,USA,Moncks Corner,367.8,Titan Xp,250
+634,gcp,us-east1,USA,Moncks Corner,367.8,TPUv2 Chip,221
+635,gcp,us-east1,USA,Moncks Corner,367.8,TPUv3 Chip,283
+636,gcp,us-east1,USA,Moncks Corner,367.8,RTX 3080,320
+637,gcp,us-east1,USA,Moncks Corner,367.8,RTX 3080 TI,350
+638,gcp,us-east1,USA,Moncks Corner,367.8,RTX 3090,350
+639,gcp,us-east1,USA,Moncks Corner,367.8,RTX A6000,300
+640,gcp,us-east1,USA,Moncks Corner,367.8,Intel Xeon E5-2699,145
+641,gcp,us-east1,USA,Moncks Corner,367.8,Intel Xeon E5-2630v4,85
+642,gcp,us-east1,USA,Moncks Corner,367.8,Intel Xeon E5-2650,105
+643,gcp,us-east1,USA,Moncks Corner,367.8,Intel Xeon Gold 5220,125
+644,gcp,us-east1,USA,Moncks Corner,367.8,Intel Xeon Gold 6148,150
+645,gcp,us-east1,USA,Moncks Corner,367.8,AMD EPYC 7763,280
+646,gcp,us-east4,USA,Ashburn,367.8,A100 PCIe 40/80GB,250
+647,gcp,us-east4,USA,Ashburn,367.8,A100 SXM4 80 GB,400
+648,gcp,us-east4,USA,Ashburn,367.8,AGX Xavier,30
+649,gcp,us-east4,USA,Ashburn,367.8,AMD RX480,150
+650,gcp,us-east4,USA,Ashburn,367.8,GTX 1080 Ti,250
+651,gcp,us-east4,USA,Ashburn,367.8,GTX 1080,180
+652,gcp,us-east4,USA,Ashburn,367.8,GTX 750,250
+653,gcp,us-east4,USA,Ashburn,367.8,GTX TITAN X,250
+654,gcp,us-east4,USA,Ashburn,367.8,Quadro K6000,225
+655,gcp,us-east4,USA,Ashburn,367.8,Quadro P6000,250
+656,gcp,us-east4,USA,Ashburn,367.8,RTX 2080 Ti,250
+657,gcp,us-east4,USA,Ashburn,367.8,RTX 2080,215
+658,gcp,us-east4,USA,Ashburn,367.8,RTX 8000,260
+659,gcp,us-east4,USA,Ashburn,367.8,T4,70
+660,gcp,us-east4,USA,Ashburn,367.8,Tesla K40c,245
+661,gcp,us-east4,USA,Ashburn,367.8,Tesla K80,300
+662,gcp,us-east4,USA,Ashburn,367.8,Tesla M40 24GB,250
+663,gcp,us-east4,USA,Ashburn,367.8,Tesla P100,250
+664,gcp,us-east4,USA,Ashburn,367.8,Tesla P40,250
+665,gcp,us-east4,USA,Ashburn,367.8,Tesla V100-PCIE-16GB,300
+666,gcp,us-east4,USA,Ashburn,367.8,Tesla V100-SXM2-16GB,250
+667,gcp,us-east4,USA,Ashburn,367.8,Tesla V100-SXM2-32GB,300
+668,gcp,us-east4,USA,Ashburn,367.8,Titan RTX,280
+669,gcp,us-east4,USA,Ashburn,367.8,Titan V,250
+670,gcp,us-east4,USA,Ashburn,367.8,TITAN X Pascal,250
+671,gcp,us-east4,USA,Ashburn,367.8,Titan Xp,250
+672,gcp,us-east4,USA,Ashburn,367.8,TPUv2 Chip,221
+673,gcp,us-east4,USA,Ashburn,367.8,TPUv3 Chip,283
+674,gcp,us-east4,USA,Ashburn,367.8,RTX 3080,320
+675,gcp,us-east4,USA,Ashburn,367.8,RTX 3080 TI,350
+676,gcp,us-east4,USA,Ashburn,367.8,RTX 3090,350
+677,gcp,us-east4,USA,Ashburn,367.8,RTX A6000,300
+678,gcp,us-east4,USA,Ashburn,367.8,Intel Xeon E5-2699,145
+679,gcp,us-east4,USA,Ashburn,367.8,Intel Xeon E5-2630v4,85
+680,gcp,us-east4,USA,Ashburn,367.8,Intel Xeon E5-2650,105
+681,gcp,us-east4,USA,Ashburn,367.8,Intel Xeon Gold 5220,125
+682,gcp,us-east4,USA,Ashburn,367.8,Intel Xeon Gold 6148,150
+683,gcp,us-east4,USA,Ashburn,367.8,AMD EPYC 7763,280
+684,gcp,us-west1,USA,The Dalles,297.6,A100 PCIe 40/80GB,250
+685,gcp,us-west1,USA,The Dalles,297.6,A100 SXM4 80 GB,400
+686,gcp,us-west1,USA,The Dalles,297.6,AGX Xavier,30
+687,gcp,us-west1,USA,The Dalles,297.6,AMD RX480,150
+688,gcp,us-west1,USA,The Dalles,297.6,GTX 1080 Ti,250
+689,gcp,us-west1,USA,The Dalles,297.6,GTX 1080,180
+690,gcp,us-west1,USA,The Dalles,297.6,GTX 750,250
+691,gcp,us-west1,USA,The Dalles,297.6,GTX TITAN X,250
+692,gcp,us-west1,USA,The Dalles,297.6,Quadro K6000,225
+693,gcp,us-west1,USA,The Dalles,297.6,Quadro P6000,250
+694,gcp,us-west1,USA,The Dalles,297.6,RTX 2080 Ti,250
+695,gcp,us-west1,USA,The Dalles,297.6,RTX 2080,215
+696,gcp,us-west1,USA,The Dalles,297.6,RTX 8000,260
+697,gcp,us-west1,USA,The Dalles,297.6,T4,70
+698,gcp,us-west1,USA,The Dalles,297.6,Tesla K40c,245
+699,gcp,us-west1,USA,The Dalles,297.6,Tesla K80,300
+700,gcp,us-west1,USA,The Dalles,297.6,Tesla M40 24GB,250
+701,gcp,us-west1,USA,The Dalles,297.6,Tesla P100,250
+702,gcp,us-west1,USA,The Dalles,297.6,Tesla P40,250
+703,gcp,us-west1,USA,The Dalles,297.6,Tesla V100-PCIE-16GB,300
+704,gcp,us-west1,USA,The Dalles,297.6,Tesla V100-SXM2-16GB,250
+705,gcp,us-west1,USA,The Dalles,297.6,Tesla V100-SXM2-32GB,300
+706,gcp,us-west1,USA,The Dalles,297.6,Titan RTX,280
+707,gcp,us-west1,USA,The Dalles,297.6,Titan V,250
+708,gcp,us-west1,USA,The Dalles,297.6,TITAN X Pascal,250
+709,gcp,us-west1,USA,The Dalles,297.6,Titan Xp,250
+710,gcp,us-west1,USA,The Dalles,297.6,TPUv2 Chip,221
+711,gcp,us-west1,USA,The Dalles,297.6,TPUv3 Chip,283
+712,gcp,us-west1,USA,The Dalles,297.6,RTX 3080,320
+713,gcp,us-west1,USA,The Dalles,297.6,RTX 3080 TI,350
+714,gcp,us-west1,USA,The Dalles,297.6,RTX 3090,350
+715,gcp,us-west1,USA,The Dalles,297.6,RTX A6000,300
+716,gcp,us-west1,USA,The Dalles,297.6,Intel Xeon E5-2699,145
+717,gcp,us-west1,USA,The Dalles,297.6,Intel Xeon E5-2630v4,85
+718,gcp,us-west1,USA,The Dalles,297.6,Intel Xeon E5-2650,105
+719,gcp,us-west1,USA,The Dalles,297.6,Intel Xeon Gold 5220,125
+720,gcp,us-west1,USA,The Dalles,297.6,Intel Xeon Gold 6148,150
+721,gcp,us-west1,USA,The Dalles,297.6,AMD EPYC 7763,280
+722,gcp,us-west2,USA,Los Angeles,240.6,A100 PCIe 40/80GB,250
+723,gcp,us-west2,USA,Los Angeles,240.6,A100 SXM4 80 GB,400
+724,gcp,us-west2,USA,Los Angeles,240.6,AGX Xavier,30
+725,gcp,us-west2,USA,Los Angeles,240.6,AMD RX480,150
+726,gcp,us-west2,USA,Los Angeles,240.6,GTX 1080 Ti,250
+727,gcp,us-west2,USA,Los Angeles,240.6,GTX 1080,180
+728,gcp,us-west2,USA,Los Angeles,240.6,GTX 750,250
+729,gcp,us-west2,USA,Los Angeles,240.6,GTX TITAN X,250
+730,gcp,us-west2,USA,Los Angeles,240.6,Quadro K6000,225
+731,gcp,us-west2,USA,Los Angeles,240.6,Quadro P6000,250
+732,gcp,us-west2,USA,Los Angeles,240.6,RTX 2080 Ti,250
+733,gcp,us-west2,USA,Los Angeles,240.6,RTX 2080,215
+734,gcp,us-west2,USA,Los Angeles,240.6,RTX 8000,260
+735,gcp,us-west2,USA,Los Angeles,240.6,T4,70
+736,gcp,us-west2,USA,Los Angeles,240.6,Tesla K40c,245
+737,gcp,us-west2,USA,Los Angeles,240.6,Tesla K80,300
+738,gcp,us-west2,USA,Los Angeles,240.6,Tesla M40 24GB,250
+739,gcp,us-west2,USA,Los Angeles,240.6,Tesla P100,250
+740,gcp,us-west2,USA,Los Angeles,240.6,Tesla P40,250
+741,gcp,us-west2,USA,Los Angeles,240.6,Tesla V100-PCIE-16GB,300
+742,gcp,us-west2,USA,Los Angeles,240.6,Tesla V100-SXM2-16GB,250
+743,gcp,us-west2,USA,Los Angeles,240.6,Tesla V100-SXM2-32GB,300
+744,gcp,us-west2,USA,Los Angeles,240.6,Titan RTX,280
+745,gcp,us-west2,USA,Los Angeles,240.6,Titan V,250
+746,gcp,us-west2,USA,Los Angeles,240.6,TITAN X Pascal,250
+747,gcp,us-west2,USA,Los Angeles,240.6,Titan Xp,250
+748,gcp,us-west2,USA,Los Angeles,240.6,TPUv2 Chip,221
+749,gcp,us-west2,USA,Los Angeles,240.6,TPUv3 Chip,283
+750,gcp,us-west2,USA,Los Angeles,240.6,RTX 3080,320
+751,gcp,us-west2,USA,Los Angeles,240.6,RTX 3080 TI,350
+752,gcp,us-west2,USA,Los Angeles,240.6,RTX 3090,350
+753,gcp,us-west2,USA,Los Angeles,240.6,RTX A6000,300
+754,gcp,us-west2,USA,Los Angeles,240.6,Intel Xeon E5-2699,145
+755,gcp,us-west2,USA,Los Angeles,240.6,Intel Xeon E5-2630v4,85
+756,gcp,us-west2,USA,Los Angeles,240.6,Intel Xeon E5-2650,105
+757,gcp,us-west2,USA,Los Angeles,240.6,Intel Xeon Gold 5220,125
+758,gcp,us-west2,USA,Los Angeles,240.6,Intel Xeon Gold 6148,150
+759,gcp,us-west2,USA,Los Angeles,240.6,AMD EPYC 7763,280
+760,aws,us-east-2,USA,Columbus,568.2,A100 PCIe 40/80GB,250
+761,aws,us-east-2,USA,Columbus,568.2,A100 SXM4 80 GB,400
+762,aws,us-east-2,USA,Columbus,568.2,AGX Xavier,30
+763,aws,us-east-2,USA,Columbus,568.2,AMD RX480,150
+764,aws,us-east-2,USA,Columbus,568.2,GTX 1080 Ti,250
+765,aws,us-east-2,USA,Columbus,568.2,GTX 1080,180
+766,aws,us-east-2,USA,Columbus,568.2,GTX 750,250
+767,aws,us-east-2,USA,Columbus,568.2,GTX TITAN X,250
+768,aws,us-east-2,USA,Columbus,568.2,Quadro K6000,225
+769,aws,us-east-2,USA,Columbus,568.2,Quadro P6000,250
+770,aws,us-east-2,USA,Columbus,568.2,RTX 2080 Ti,250
+771,aws,us-east-2,USA,Columbus,568.2,RTX 2080,215
+772,aws,us-east-2,USA,Columbus,568.2,RTX 8000,260
+773,aws,us-east-2,USA,Columbus,568.2,T4,70
+774,aws,us-east-2,USA,Columbus,568.2,Tesla K40c,245
+775,aws,us-east-2,USA,Columbus,568.2,Tesla K80,300
+776,aws,us-east-2,USA,Columbus,568.2,Tesla M40 24GB,250
+777,aws,us-east-2,USA,Columbus,568.2,Tesla P100,250
+778,aws,us-east-2,USA,Columbus,568.2,Tesla P40,250
+779,aws,us-east-2,USA,Columbus,568.2,Tesla V100-PCIE-16GB,300
+780,aws,us-east-2,USA,Columbus,568.2,Tesla V100-SXM2-16GB,250
+781,aws,us-east-2,USA,Columbus,568.2,Tesla V100-SXM2-32GB,300
+782,aws,us-east-2,USA,Columbus,568.2,Titan RTX,280
+783,aws,us-east-2,USA,Columbus,568.2,Titan V,250
+784,aws,us-east-2,USA,Columbus,568.2,TITAN X Pascal,250
+785,aws,us-east-2,USA,Columbus,568.2,Titan Xp,250
+786,aws,us-east-2,USA,Columbus,568.2,TPUv2 Chip,221
+787,aws,us-east-2,USA,Columbus,568.2,TPUv3 Chip,283
+788,aws,us-east-2,USA,Columbus,568.2,RTX 3080,320
+789,aws,us-east-2,USA,Columbus,568.2,RTX 3080 TI,350
+790,aws,us-east-2,USA,Columbus,568.2,RTX 3090,350
+791,aws,us-east-2,USA,Columbus,568.2,RTX A6000,300
+792,aws,us-east-2,USA,Columbus,568.2,Intel Xeon E5-2699,145
+793,aws,us-east-2,USA,Columbus,568.2,Intel Xeon E5-2630v4,85
+794,aws,us-east-2,USA,Columbus,568.2,Intel Xeon E5-2650,105
+795,aws,us-east-2,USA,Columbus,568.2,Intel Xeon Gold 5220,125
+796,aws,us-east-2,USA,Columbus,568.2,Intel Xeon Gold 6148,150
+797,aws,us-east-2,USA,Columbus,568.2,AMD EPYC 7763,280
+798,aws,us-east-1,USA,Ashburn,367.8,A100 PCIe 40/80GB,250
+799,aws,us-east-1,USA,Ashburn,367.8,A100 SXM4 80 GB,400
+800,aws,us-east-1,USA,Ashburn,367.8,AGX Xavier,30
+801,aws,us-east-1,USA,Ashburn,367.8,AMD RX480,150
+802,aws,us-east-1,USA,Ashburn,367.8,GTX 1080 Ti,250
+803,aws,us-east-1,USA,Ashburn,367.8,GTX 1080,180
+804,aws,us-east-1,USA,Ashburn,367.8,GTX 750,250
+805,aws,us-east-1,USA,Ashburn,367.8,GTX TITAN X,250
+806,aws,us-east-1,USA,Ashburn,367.8,Quadro K6000,225
+807,aws,us-east-1,USA,Ashburn,367.8,Quadro P6000,250
+808,aws,us-east-1,USA,Ashburn,367.8,RTX 2080 Ti,250
+809,aws,us-east-1,USA,Ashburn,367.8,RTX 2080,215
+810,aws,us-east-1,USA,Ashburn,367.8,RTX 8000,260
+811,aws,us-east-1,USA,Ashburn,367.8,T4,70
+812,aws,us-east-1,USA,Ashburn,367.8,Tesla K40c,245
+813,aws,us-east-1,USA,Ashburn,367.8,Tesla K80,300
+814,aws,us-east-1,USA,Ashburn,367.8,Tesla M40 24GB,250
+815,aws,us-east-1,USA,Ashburn,367.8,Tesla P100,250
+816,aws,us-east-1,USA,Ashburn,367.8,Tesla P40,250
+817,aws,us-east-1,USA,Ashburn,367.8,Tesla V100-PCIE-16GB,300
+818,aws,us-east-1,USA,Ashburn,367.8,Tesla V100-SXM2-16GB,250
+819,aws,us-east-1,USA,Ashburn,367.8,Tesla V100-SXM2-32GB,300
+820,aws,us-east-1,USA,Ashburn,367.8,Titan RTX,280
+821,aws,us-east-1,USA,Ashburn,367.8,Titan V,250
+822,aws,us-east-1,USA,Ashburn,367.8,TITAN X Pascal,250
+823,aws,us-east-1,USA,Ashburn,367.8,Titan Xp,250
+824,aws,us-east-1,USA,Ashburn,367.8,TPUv2 Chip,221
+825,aws,us-east-1,USA,Ashburn,367.8,TPUv3 Chip,283
+826,aws,us-east-1,USA,Ashburn,367.8,RTX 3080,320
+827,aws,us-east-1,USA,Ashburn,367.8,RTX 3080 TI,350
+828,aws,us-east-1,USA,Ashburn,367.8,RTX 3090,350
+829,aws,us-east-1,USA,Ashburn,367.8,RTX A6000,300
+830,aws,us-east-1,USA,Ashburn,367.8,Intel Xeon E5-2699,145
+831,aws,us-east-1,USA,Ashburn,367.8,Intel Xeon E5-2630v4,85
+832,aws,us-east-1,USA,Ashburn,367.8,Intel Xeon E5-2650,105
+833,aws,us-east-1,USA,Ashburn,367.8,Intel Xeon Gold 5220,125
+834,aws,us-east-1,USA,Ashburn,367.8,Intel Xeon Gold 6148,150
+835,aws,us-east-1,USA,Ashburn,367.8,AMD EPYC 7763,280
+836,aws,us-west-1,USA,San Francisco,240.6,A100 PCIe 40/80GB,250
+837,aws,us-west-1,USA,San Francisco,240.6,A100 SXM4 80 GB,400
+838,aws,us-west-1,USA,San Francisco,240.6,AGX Xavier,30
+839,aws,us-west-1,USA,San Francisco,240.6,AMD RX480,150
+840,aws,us-west-1,USA,San Francisco,240.6,GTX 1080 Ti,250
+841,aws,us-west-1,USA,San Francisco,240.6,GTX 1080,180
+842,aws,us-west-1,USA,San Francisco,240.6,GTX 750,250
+843,aws,us-west-1,USA,San Francisco,240.6,GTX TITAN X,250
+844,aws,us-west-1,USA,San Francisco,240.6,Quadro K6000,225
+845,aws,us-west-1,USA,San Francisco,240.6,Quadro P6000,250
+846,aws,us-west-1,USA,San Francisco,240.6,RTX 2080 Ti,250
+847,aws,us-west-1,USA,San Francisco,240.6,RTX 2080,215
+848,aws,us-west-1,USA,San Francisco,240.6,RTX 8000,260
+849,aws,us-west-1,USA,San Francisco,240.6,T4,70
+850,aws,us-west-1,USA,San Francisco,240.6,Tesla K40c,245
+851,aws,us-west-1,USA,San Francisco,240.6,Tesla K80,300
+852,aws,us-west-1,USA,San Francisco,240.6,Tesla M40 24GB,250
+853,aws,us-west-1,USA,San Francisco,240.6,Tesla P100,250
+854,aws,us-west-1,USA,San Francisco,240.6,Tesla P40,250
+855,aws,us-west-1,USA,San Francisco,240.6,Tesla V100-PCIE-16GB,300
+856,aws,us-west-1,USA,San Francisco,240.6,Tesla V100-SXM2-16GB,250
+857,aws,us-west-1,USA,San Francisco,240.6,Tesla V100-SXM2-32GB,300
+858,aws,us-west-1,USA,San Francisco,240.6,Titan RTX,280
+859,aws,us-west-1,USA,San Francisco,240.6,Titan V,250
+860,aws,us-west-1,USA,San Francisco,240.6,TITAN X Pascal,250
+861,aws,us-west-1,USA,San Francisco,240.6,Titan Xp,250
+862,aws,us-west-1,USA,San Francisco,240.6,TPUv2 Chip,221
+863,aws,us-west-1,USA,San Francisco,240.6,TPUv3 Chip,283
+864,aws,us-west-1,USA,San Francisco,240.6,RTX 3080,320
+865,aws,us-west-1,USA,San Francisco,240.6,RTX 3080 TI,350
+866,aws,us-west-1,USA,San Francisco,240.6,RTX 3090,350
+867,aws,us-west-1,USA,San Francisco,240.6,RTX A6000,300
+868,aws,us-west-1,USA,San Francisco,240.6,Intel Xeon E5-2699,145
+869,aws,us-west-1,USA,San Francisco,240.6,Intel Xeon E5-2630v4,85
+870,aws,us-west-1,USA,San Francisco,240.6,Intel Xeon E5-2650,105
+871,aws,us-west-1,USA,San Francisco,240.6,Intel Xeon Gold 5220,125
+872,aws,us-west-1,USA,San Francisco,240.6,Intel Xeon Gold 6148,150
+873,aws,us-west-1,USA,San Francisco,240.6,AMD EPYC 7763,280
+874,aws,us-west-2,USA,Portland,297.6,A100 PCIe 40/80GB,250
+875,aws,us-west-2,USA,Portland,297.6,A100 SXM4 80 GB,400
+876,aws,us-west-2,USA,Portland,297.6,AGX Xavier,30
+877,aws,us-west-2,USA,Portland,297.6,AMD RX480,150
+878,aws,us-west-2,USA,Portland,297.6,GTX 1080 Ti,250
+879,aws,us-west-2,USA,Portland,297.6,GTX 1080,180
+880,aws,us-west-2,USA,Portland,297.6,GTX 750,250
+881,aws,us-west-2,USA,Portland,297.6,GTX TITAN X,250
+882,aws,us-west-2,USA,Portland,297.6,Quadro K6000,225
+883,aws,us-west-2,USA,Portland,297.6,Quadro P6000,250
+884,aws,us-west-2,USA,Portland,297.6,RTX 2080 Ti,250
+885,aws,us-west-2,USA,Portland,297.6,RTX 2080,215
+886,aws,us-west-2,USA,Portland,297.6,RTX 8000,260
+887,aws,us-west-2,USA,Portland,297.6,T4,70
+888,aws,us-west-2,USA,Portland,297.6,Tesla K40c,245
+889,aws,us-west-2,USA,Portland,297.6,Tesla K80,300
+890,aws,us-west-2,USA,Portland,297.6,Tesla M40 24GB,250
+891,aws,us-west-2,USA,Portland,297.6,Tesla P100,250
+892,aws,us-west-2,USA,Portland,297.6,Tesla P40,250
+893,aws,us-west-2,USA,Portland,297.6,Tesla V100-PCIE-16GB,300
+894,aws,us-west-2,USA,Portland,297.6,Tesla V100-SXM2-16GB,250
+895,aws,us-west-2,USA,Portland,297.6,Tesla V100-SXM2-32GB,300
+896,aws,us-west-2,USA,Portland,297.6,Titan RTX,280
+897,aws,us-west-2,USA,Portland,297.6,Titan V,250
+898,aws,us-west-2,USA,Portland,297.6,TITAN X Pascal,250
+899,aws,us-west-2,USA,Portland,297.6,Titan Xp,250
+900,aws,us-west-2,USA,Portland,297.6,TPUv2 Chip,221
+901,aws,us-west-2,USA,Portland,297.6,TPUv3 Chip,283
+902,aws,us-west-2,USA,Portland,297.6,RTX 3080,320
+903,aws,us-west-2,USA,Portland,297.6,RTX 3080 TI,350
+904,aws,us-west-2,USA,Portland,297.6,RTX 3090,350
+905,aws,us-west-2,USA,Portland,297.6,RTX A6000,300
+906,aws,us-west-2,USA,Portland,297.6,Intel Xeon E5-2699,145
+907,aws,us-west-2,USA,Portland,297.6,Intel Xeon E5-2630v4,85
+908,aws,us-west-2,USA,Portland,297.6,Intel Xeon E5-2650,105
+909,aws,us-west-2,USA,Portland,297.6,Intel Xeon Gold 5220,125
+910,aws,us-west-2,USA,Portland,297.6,Intel Xeon Gold 6148,150
+911,aws,us-west-2,USA,Portland,297.6,AMD EPYC 7763,280
+912,aws,ap-east-1,China,Hong Kong,702.0,A100 PCIe 40/80GB,250
+913,aws,ap-east-1,China,Hong Kong,702.0,A100 SXM4 80 GB,400
+914,aws,ap-east-1,China,Hong Kong,702.0,AGX Xavier,30
+915,aws,ap-east-1,China,Hong Kong,702.0,AMD RX480,150
+916,aws,ap-east-1,China,Hong Kong,702.0,GTX 1080 Ti,250
+917,aws,ap-east-1,China,Hong Kong,702.0,GTX 1080,180
+918,aws,ap-east-1,China,Hong Kong,702.0,GTX 750,250
+919,aws,ap-east-1,China,Hong Kong,702.0,GTX TITAN X,250
+920,aws,ap-east-1,China,Hong Kong,702.0,Quadro K6000,225
+921,aws,ap-east-1,China,Hong Kong,702.0,Quadro P6000,250
+922,aws,ap-east-1,China,Hong Kong,702.0,RTX 2080 Ti,250
+923,aws,ap-east-1,China,Hong Kong,702.0,RTX 2080,215
+924,aws,ap-east-1,China,Hong Kong,702.0,RTX 8000,260
+925,aws,ap-east-1,China,Hong Kong,702.0,T4,70
+926,aws,ap-east-1,China,Hong Kong,702.0,Tesla K40c,245
+927,aws,ap-east-1,China,Hong Kong,702.0,Tesla K80,300
+928,aws,ap-east-1,China,Hong Kong,702.0,Tesla M40 24GB,250
+929,aws,ap-east-1,China,Hong Kong,702.0,Tesla P100,250
+930,aws,ap-east-1,China,Hong Kong,702.0,Tesla P40,250
+931,aws,ap-east-1,China,Hong Kong,702.0,Tesla V100-PCIE-16GB,300
+932,aws,ap-east-1,China,Hong Kong,702.0,Tesla V100-SXM2-16GB,250
+933,aws,ap-east-1,China,Hong Kong,702.0,Tesla V100-SXM2-32GB,300
+934,aws,ap-east-1,China,Hong Kong,702.0,Titan RTX,280
+935,aws,ap-east-1,China,Hong Kong,702.0,Titan V,250
+936,aws,ap-east-1,China,Hong Kong,702.0,TITAN X Pascal,250
+937,aws,ap-east-1,China,Hong Kong,702.0,Titan Xp,250
+938,aws,ap-east-1,China,Hong Kong,702.0,TPUv2 Chip,221
+939,aws,ap-east-1,China,Hong Kong,702.0,TPUv3 Chip,283
+940,aws,ap-east-1,China,Hong Kong,702.0,RTX 3080,320
+941,aws,ap-east-1,China,Hong Kong,702.0,RTX 3080 TI,350
+942,aws,ap-east-1,China,Hong Kong,702.0,RTX 3090,350
+943,aws,ap-east-1,China,Hong Kong,702.0,RTX A6000,300
+944,aws,ap-east-1,China,Hong Kong,702.0,Intel Xeon E5-2699,145
+945,aws,ap-east-1,China,Hong Kong,702.0,Intel Xeon E5-2630v4,85
+946,aws,ap-east-1,China,Hong Kong,702.0,Intel Xeon E5-2650,105
+947,aws,ap-east-1,China,Hong Kong,702.0,Intel Xeon Gold 5220,125
+948,aws,ap-east-1,China,Hong Kong,702.0,Intel Xeon Gold 6148,150
+949,aws,ap-east-1,China,Hong Kong,702.0,AMD EPYC 7763,280
+950,aws,ap-south-1,India,Mumbai,920.0,A100 PCIe 40/80GB,250
+951,aws,ap-south-1,India,Mumbai,920.0,A100 SXM4 80 GB,400
+952,aws,ap-south-1,India,Mumbai,920.0,AGX Xavier,30
+953,aws,ap-south-1,India,Mumbai,920.0,AMD RX480,150
+954,aws,ap-south-1,India,Mumbai,920.0,GTX 1080 Ti,250
+955,aws,ap-south-1,India,Mumbai,920.0,GTX 1080,180
+956,aws,ap-south-1,India,Mumbai,920.0,GTX 750,250
+957,aws,ap-south-1,India,Mumbai,920.0,GTX TITAN X,250
+958,aws,ap-south-1,India,Mumbai,920.0,Quadro K6000,225
+959,aws,ap-south-1,India,Mumbai,920.0,Quadro P6000,250
+960,aws,ap-south-1,India,Mumbai,920.0,RTX 2080 Ti,250
+961,aws,ap-south-1,India,Mumbai,920.0,RTX 2080,215
+962,aws,ap-south-1,India,Mumbai,920.0,RTX 8000,260
+963,aws,ap-south-1,India,Mumbai,920.0,T4,70
+964,aws,ap-south-1,India,Mumbai,920.0,Tesla K40c,245
+965,aws,ap-south-1,India,Mumbai,920.0,Tesla K80,300
+966,aws,ap-south-1,India,Mumbai,920.0,Tesla M40 24GB,250
+967,aws,ap-south-1,India,Mumbai,920.0,Tesla P100,250
+968,aws,ap-south-1,India,Mumbai,920.0,Tesla P40,250
+969,aws,ap-south-1,India,Mumbai,920.0,Tesla V100-PCIE-16GB,300
+970,aws,ap-south-1,India,Mumbai,920.0,Tesla V100-SXM2-16GB,250
+971,aws,ap-south-1,India,Mumbai,920.0,Tesla V100-SXM2-32GB,300
+972,aws,ap-south-1,India,Mumbai,920.0,Titan RTX,280
+973,aws,ap-south-1,India,Mumbai,920.0,Titan V,250
+974,aws,ap-south-1,India,Mumbai,920.0,TITAN X Pascal,250
+975,aws,ap-south-1,India,Mumbai,920.0,Titan Xp,250
+976,aws,ap-south-1,India,Mumbai,920.0,TPUv2 Chip,221
+977,aws,ap-south-1,India,Mumbai,920.0,TPUv3 Chip,283
+978,aws,ap-south-1,India,Mumbai,920.0,RTX 3080,320
+979,aws,ap-south-1,India,Mumbai,920.0,RTX 3080 TI,350
+980,aws,ap-south-1,India,Mumbai,920.0,RTX 3090,350
+981,aws,ap-south-1,India,Mumbai,920.0,RTX A6000,300
+982,aws,ap-south-1,India,Mumbai,920.0,Intel Xeon E5-2699,145
+983,aws,ap-south-1,India,Mumbai,920.0,Intel Xeon E5-2630v4,85
+984,aws,ap-south-1,India,Mumbai,920.0,Intel Xeon E5-2650,105
+985,aws,ap-south-1,India,Mumbai,920.0,Intel Xeon Gold 5220,125
+986,aws,ap-south-1,India,Mumbai,920.0,Intel Xeon Gold 6148,150
+987,aws,ap-south-1,India,Mumbai,920.0,AMD EPYC 7763,280
+988,aws,ap-northeast-3,Japan,Osaka,516.0,A100 PCIe 40/80GB,250
+989,aws,ap-northeast-3,Japan,Osaka,516.0,A100 SXM4 80 GB,400
+990,aws,ap-northeast-3,Japan,Osaka,516.0,AGX Xavier,30
+991,aws,ap-northeast-3,Japan,Osaka,516.0,AMD RX480,150
+992,aws,ap-northeast-3,Japan,Osaka,516.0,GTX 1080 Ti,250
+993,aws,ap-northeast-3,Japan,Osaka,516.0,GTX 1080,180
+994,aws,ap-northeast-3,Japan,Osaka,516.0,GTX 750,250
+995,aws,ap-northeast-3,Japan,Osaka,516.0,GTX TITAN X,250
+996,aws,ap-northeast-3,Japan,Osaka,516.0,Quadro K6000,225
+997,aws,ap-northeast-3,Japan,Osaka,516.0,Quadro P6000,250
+998,aws,ap-northeast-3,Japan,Osaka,516.0,RTX 2080 Ti,250
+999,aws,ap-northeast-3,Japan,Osaka,516.0,RTX 2080,215
+1000,aws,ap-northeast-3,Japan,Osaka,516.0,RTX 8000,260
+1001,aws,ap-northeast-3,Japan,Osaka,516.0,T4,70
+1002,aws,ap-northeast-3,Japan,Osaka,516.0,Tesla K40c,245
+1003,aws,ap-northeast-3,Japan,Osaka,516.0,Tesla K80,300
+1004,aws,ap-northeast-3,Japan,Osaka,516.0,Tesla M40 24GB,250
+1005,aws,ap-northeast-3,Japan,Osaka,516.0,Tesla P100,250
+1006,aws,ap-northeast-3,Japan,Osaka,516.0,Tesla P40,250
+1007,aws,ap-northeast-3,Japan,Osaka,516.0,Tesla V100-PCIE-16GB,300
+1008,aws,ap-northeast-3,Japan,Osaka,516.0,Tesla V100-SXM2-16GB,250
+1009,aws,ap-northeast-3,Japan,Osaka,516.0,Tesla V100-SXM2-32GB,300
+1010,aws,ap-northeast-3,Japan,Osaka,516.0,Titan RTX,280
+1011,aws,ap-northeast-3,Japan,Osaka,516.0,Titan V,250
+1012,aws,ap-northeast-3,Japan,Osaka,516.0,TITAN X Pascal,250
+1013,aws,ap-northeast-3,Japan,Osaka,516.0,Titan Xp,250
+1014,aws,ap-northeast-3,Japan,Osaka,516.0,TPUv2 Chip,221
+1015,aws,ap-northeast-3,Japan,Osaka,516.0,TPUv3 Chip,283
+1016,aws,ap-northeast-3,Japan,Osaka,516.0,RTX 3080,320
+1017,aws,ap-northeast-3,Japan,Osaka,516.0,RTX 3080 TI,350
+1018,aws,ap-northeast-3,Japan,Osaka,516.0,RTX 3090,350
+1019,aws,ap-northeast-3,Japan,Osaka,516.0,RTX A6000,300
+1020,aws,ap-northeast-3,Japan,Osaka,516.0,Intel Xeon E5-2699,145
+1021,aws,ap-northeast-3,Japan,Osaka,516.0,Intel Xeon E5-2630v4,85
+1022,aws,ap-northeast-3,Japan,Osaka,516.0,Intel Xeon E5-2650,105
+1023,aws,ap-northeast-3,Japan,Osaka,516.0,Intel Xeon Gold 5220,125
+1024,aws,ap-northeast-3,Japan,Osaka,516.0,Intel Xeon Gold 6148,150
+1025,aws,ap-northeast-3,Japan,Osaka,516.0,AMD EPYC 7763,280
+1026,aws,ap-northeast-2,South Korea,Seoul,517.0,A100 PCIe 40/80GB,250
+1027,aws,ap-northeast-2,South Korea,Seoul,517.0,A100 SXM4 80 GB,400
+1028,aws,ap-northeast-2,South Korea,Seoul,517.0,AGX Xavier,30
+1029,aws,ap-northeast-2,South Korea,Seoul,517.0,AMD RX480,150
+1030,aws,ap-northeast-2,South Korea,Seoul,517.0,GTX 1080 Ti,250
+1031,aws,ap-northeast-2,South Korea,Seoul,517.0,GTX 1080,180
+1032,aws,ap-northeast-2,South Korea,Seoul,517.0,GTX 750,250
+1033,aws,ap-northeast-2,South Korea,Seoul,517.0,GTX TITAN X,250
+1034,aws,ap-northeast-2,South Korea,Seoul,517.0,Quadro K6000,225
+1035,aws,ap-northeast-2,South Korea,Seoul,517.0,Quadro P6000,250
+1036,aws,ap-northeast-2,South Korea,Seoul,517.0,RTX 2080 Ti,250
+1037,aws,ap-northeast-2,South Korea,Seoul,517.0,RTX 2080,215
+1038,aws,ap-northeast-2,South Korea,Seoul,517.0,RTX 8000,260
+1039,aws,ap-northeast-2,South Korea,Seoul,517.0,T4,70
+1040,aws,ap-northeast-2,South Korea,Seoul,517.0,Tesla K40c,245
+1041,aws,ap-northeast-2,South Korea,Seoul,517.0,Tesla K80,300
+1042,aws,ap-northeast-2,South Korea,Seoul,517.0,Tesla M40 24GB,250
+1043,aws,ap-northeast-2,South Korea,Seoul,517.0,Tesla P100,250
+1044,aws,ap-northeast-2,South Korea,Seoul,517.0,Tesla P40,250
+1045,aws,ap-northeast-2,South Korea,Seoul,517.0,Tesla V100-PCIE-16GB,300
+1046,aws,ap-northeast-2,South Korea,Seoul,517.0,Tesla V100-SXM2-16GB,250
+1047,aws,ap-northeast-2,South Korea,Seoul,517.0,Tesla V100-SXM2-32GB,300
+1048,aws,ap-northeast-2,South Korea,Seoul,517.0,Titan RTX,280
+1049,aws,ap-northeast-2,South Korea,Seoul,517.0,Titan V,250
+1050,aws,ap-northeast-2,South Korea,Seoul,517.0,TITAN X Pascal,250
+1051,aws,ap-northeast-2,South Korea,Seoul,517.0,Titan Xp,250
+1052,aws,ap-northeast-2,South Korea,Seoul,517.0,TPUv2 Chip,221
+1053,aws,ap-northeast-2,South Korea,Seoul,517.0,TPUv3 Chip,283
+1054,aws,ap-northeast-2,South Korea,Seoul,517.0,RTX 3080,320
+1055,aws,ap-northeast-2,South Korea,Seoul,517.0,RTX 3080 TI,350
+1056,aws,ap-northeast-2,South Korea,Seoul,517.0,RTX 3090,350
+1057,aws,ap-northeast-2,South Korea,Seoul,517.0,RTX A6000,300
+1058,aws,ap-northeast-2,South Korea,Seoul,517.0,Intel Xeon E5-2699,145
+1059,aws,ap-northeast-2,South Korea,Seoul,517.0,Intel Xeon E5-2630v4,85
+1060,aws,ap-northeast-2,South Korea,Seoul,517.0,Intel Xeon E5-2650,105
+1061,aws,ap-northeast-2,South Korea,Seoul,517.0,Intel Xeon Gold 5220,125
+1062,aws,ap-northeast-2,South Korea,Seoul,517.0,Intel Xeon Gold 6148,150
+1063,aws,ap-northeast-2,South Korea,Seoul,517.0,AMD EPYC 7763,280
+1064,aws,ap-southeast-1,Singapore,Singapore,419.0,A100 PCIe 40/80GB,250
+1065,aws,ap-southeast-1,Singapore,Singapore,419.0,A100 SXM4 80 GB,400
+1066,aws,ap-southeast-1,Singapore,Singapore,419.0,AGX Xavier,30
+1067,aws,ap-southeast-1,Singapore,Singapore,419.0,AMD RX480,150
+1068,aws,ap-southeast-1,Singapore,Singapore,419.0,GTX 1080 Ti,250
+1069,aws,ap-southeast-1,Singapore,Singapore,419.0,GTX 1080,180
+1070,aws,ap-southeast-1,Singapore,Singapore,419.0,GTX 750,250
+1071,aws,ap-southeast-1,Singapore,Singapore,419.0,GTX TITAN X,250
+1072,aws,ap-southeast-1,Singapore,Singapore,419.0,Quadro K6000,225
+1073,aws,ap-southeast-1,Singapore,Singapore,419.0,Quadro P6000,250
+1074,aws,ap-southeast-1,Singapore,Singapore,419.0,RTX 2080 Ti,250
+1075,aws,ap-southeast-1,Singapore,Singapore,419.0,RTX 2080,215
+1076,aws,ap-southeast-1,Singapore,Singapore,419.0,RTX 8000,260
+1077,aws,ap-southeast-1,Singapore,Singapore,419.0,T4,70
+1078,aws,ap-southeast-1,Singapore,Singapore,419.0,Tesla K40c,245
+1079,aws,ap-southeast-1,Singapore,Singapore,419.0,Tesla K80,300
+1080,aws,ap-southeast-1,Singapore,Singapore,419.0,Tesla M40 24GB,250
+1081,aws,ap-southeast-1,Singapore,Singapore,419.0,Tesla P100,250
+1082,aws,ap-southeast-1,Singapore,Singapore,419.0,Tesla P40,250
+1083,aws,ap-southeast-1,Singapore,Singapore,419.0,Tesla V100-PCIE-16GB,300
+1084,aws,ap-southeast-1,Singapore,Singapore,419.0,Tesla V100-SXM2-16GB,250
+1085,aws,ap-southeast-1,Singapore,Singapore,419.0,Tesla V100-SXM2-32GB,300
+1086,aws,ap-southeast-1,Singapore,Singapore,419.0,Titan RTX,280
+1087,aws,ap-southeast-1,Singapore,Singapore,419.0,Titan V,250
+1088,aws,ap-southeast-1,Singapore,Singapore,419.0,TITAN X Pascal,250
+1089,aws,ap-southeast-1,Singapore,Singapore,419.0,Titan Xp,250
+1090,aws,ap-southeast-1,Singapore,Singapore,419.0,TPUv2 Chip,221
+1091,aws,ap-southeast-1,Singapore,Singapore,419.0,TPUv3 Chip,283
+1092,aws,ap-southeast-1,Singapore,Singapore,419.0,RTX 3080,320
+1093,aws,ap-southeast-1,Singapore,Singapore,419.0,RTX 3080 TI,350
+1094,aws,ap-southeast-1,Singapore,Singapore,419.0,RTX 3090,350
+1095,aws,ap-southeast-1,Singapore,Singapore,419.0,RTX A6000,300
+1096,aws,ap-southeast-1,Singapore,Singapore,419.0,Intel Xeon E5-2699,145
+1097,aws,ap-southeast-1,Singapore,Singapore,419.0,Intel Xeon E5-2630v4,85
+1098,aws,ap-southeast-1,Singapore,Singapore,419.0,Intel Xeon E5-2650,105
+1099,aws,ap-southeast-1,Singapore,Singapore,419.0,Intel Xeon Gold 5220,125
+1100,aws,ap-southeast-1,Singapore,Singapore,419.0,Intel Xeon Gold 6148,150
+1101,aws,ap-southeast-1,Singapore,Singapore,419.0,AMD EPYC 7763,280
+1102,aws,ap-southeast-2,Australia,Sydney,802.0,A100 PCIe 40/80GB,250
+1103,aws,ap-southeast-2,Australia,Sydney,802.0,A100 SXM4 80 GB,400
+1104,aws,ap-southeast-2,Australia,Sydney,802.0,AGX Xavier,30
+1105,aws,ap-southeast-2,Australia,Sydney,802.0,AMD RX480,150
+1106,aws,ap-southeast-2,Australia,Sydney,802.0,GTX 1080 Ti,250
+1107,aws,ap-southeast-2,Australia,Sydney,802.0,GTX 1080,180
+1108,aws,ap-southeast-2,Australia,Sydney,802.0,GTX 750,250
+1109,aws,ap-southeast-2,Australia,Sydney,802.0,GTX TITAN X,250
+1110,aws,ap-southeast-2,Australia,Sydney,802.0,Quadro K6000,225
+1111,aws,ap-southeast-2,Australia,Sydney,802.0,Quadro P6000,250
+1112,aws,ap-southeast-2,Australia,Sydney,802.0,RTX 2080 Ti,250
+1113,aws,ap-southeast-2,Australia,Sydney,802.0,RTX 2080,215
+1114,aws,ap-southeast-2,Australia,Sydney,802.0,RTX 8000,260
+1115,aws,ap-southeast-2,Australia,Sydney,802.0,T4,70
+1116,aws,ap-southeast-2,Australia,Sydney,802.0,Tesla K40c,245
+1117,aws,ap-southeast-2,Australia,Sydney,802.0,Tesla K80,300
+1118,aws,ap-southeast-2,Australia,Sydney,802.0,Tesla M40 24GB,250
+1119,aws,ap-southeast-2,Australia,Sydney,802.0,Tesla P100,250
+1120,aws,ap-southeast-2,Australia,Sydney,802.0,Tesla P40,250
+1121,aws,ap-southeast-2,Australia,Sydney,802.0,Tesla V100-PCIE-16GB,300
+1122,aws,ap-southeast-2,Australia,Sydney,802.0,Tesla V100-SXM2-16GB,250
+1123,aws,ap-southeast-2,Australia,Sydney,802.0,Tesla V100-SXM2-32GB,300
+1124,aws,ap-southeast-2,Australia,Sydney,802.0,Titan RTX,280
+1125,aws,ap-southeast-2,Australia,Sydney,802.0,Titan V,250
+1126,aws,ap-southeast-2,Australia,Sydney,802.0,TITAN X Pascal,250
+1127,aws,ap-southeast-2,Australia,Sydney,802.0,Titan Xp,250
+1128,aws,ap-southeast-2,Australia,Sydney,802.0,TPUv2 Chip,221
+1129,aws,ap-southeast-2,Australia,Sydney,802.0,TPUv3 Chip,283
+1130,aws,ap-southeast-2,Australia,Sydney,802.0,RTX 3080,320
+1131,aws,ap-southeast-2,Australia,Sydney,802.0,RTX 3080 TI,350
+1132,aws,ap-southeast-2,Australia,Sydney,802.0,RTX 3090,350
+1133,aws,ap-southeast-2,Australia,Sydney,802.0,RTX A6000,300
+1134,aws,ap-southeast-2,Australia,Sydney,802.0,Intel Xeon E5-2699,145
+1135,aws,ap-southeast-2,Australia,Sydney,802.0,Intel Xeon E5-2630v4,85
+1136,aws,ap-southeast-2,Australia,Sydney,802.0,Intel Xeon E5-2650,105
+1137,aws,ap-southeast-2,Australia,Sydney,802.0,Intel Xeon Gold 5220,125
+1138,aws,ap-southeast-2,Australia,Sydney,802.0,Intel Xeon Gold 6148,150
+1139,aws,ap-southeast-2,Australia,Sydney,802.0,AMD EPYC 7763,280
+1140,aws,ap-northeast-1,Japan,Tokyo,516.0,A100 PCIe 40/80GB,250
+1141,aws,ap-northeast-1,Japan,Tokyo,516.0,A100 SXM4 80 GB,400
+1142,aws,ap-northeast-1,Japan,Tokyo,516.0,AGX Xavier,30
+1143,aws,ap-northeast-1,Japan,Tokyo,516.0,AMD RX480,150
+1144,aws,ap-northeast-1,Japan,Tokyo,516.0,GTX 1080 Ti,250
+1145,aws,ap-northeast-1,Japan,Tokyo,516.0,GTX 1080,180
+1146,aws,ap-northeast-1,Japan,Tokyo,516.0,GTX 750,250
+1147,aws,ap-northeast-1,Japan,Tokyo,516.0,GTX TITAN X,250
+1148,aws,ap-northeast-1,Japan,Tokyo,516.0,Quadro K6000,225
+1149,aws,ap-northeast-1,Japan,Tokyo,516.0,Quadro P6000,250
+1150,aws,ap-northeast-1,Japan,Tokyo,516.0,RTX 2080 Ti,250
+1151,aws,ap-northeast-1,Japan,Tokyo,516.0,RTX 2080,215
+1152,aws,ap-northeast-1,Japan,Tokyo,516.0,RTX 8000,260
+1153,aws,ap-northeast-1,Japan,Tokyo,516.0,T4,70
+1154,aws,ap-northeast-1,Japan,Tokyo,516.0,Tesla K40c,245
+1155,aws,ap-northeast-1,Japan,Tokyo,516.0,Tesla K80,300
+1156,aws,ap-northeast-1,Japan,Tokyo,516.0,Tesla M40 24GB,250
+1157,aws,ap-northeast-1,Japan,Tokyo,516.0,Tesla P100,250
+1158,aws,ap-northeast-1,Japan,Tokyo,516.0,Tesla P40,250
+1159,aws,ap-northeast-1,Japan,Tokyo,516.0,Tesla V100-PCIE-16GB,300
+1160,aws,ap-northeast-1,Japan,Tokyo,516.0,Tesla V100-SXM2-16GB,250
+1161,aws,ap-northeast-1,Japan,Tokyo,516.0,Tesla V100-SXM2-32GB,300
+1162,aws,ap-northeast-1,Japan,Tokyo,516.0,Titan RTX,280
+1163,aws,ap-northeast-1,Japan,Tokyo,516.0,Titan V,250
+1164,aws,ap-northeast-1,Japan,Tokyo,516.0,TITAN X Pascal,250
+1165,aws,ap-northeast-1,Japan,Tokyo,516.0,Titan Xp,250
+1166,aws,ap-northeast-1,Japan,Tokyo,516.0,TPUv2 Chip,221
+1167,aws,ap-northeast-1,Japan,Tokyo,516.0,TPUv3 Chip,283
+1168,aws,ap-northeast-1,Japan,Tokyo,516.0,RTX 3080,320
+1169,aws,ap-northeast-1,Japan,Tokyo,516.0,RTX 3080 TI,350
+1170,aws,ap-northeast-1,Japan,Tokyo,516.0,RTX 3090,350
+1171,aws,ap-northeast-1,Japan,Tokyo,516.0,RTX A6000,300
+1172,aws,ap-northeast-1,Japan,Tokyo,516.0,Intel Xeon E5-2699,145
+1173,aws,ap-northeast-1,Japan,Tokyo,516.0,Intel Xeon E5-2630v4,85
+1174,aws,ap-northeast-1,Japan,Tokyo,516.0,Intel Xeon E5-2650,105
+1175,aws,ap-northeast-1,Japan,Tokyo,516.0,Intel Xeon Gold 5220,125
+1176,aws,ap-northeast-1,Japan,Tokyo,516.0,Intel Xeon Gold 6148,150
+1177,aws,ap-northeast-1,Japan,Tokyo,516.0,AMD EPYC 7763,280
+1178,aws,ca-central-1,Canada,Montreal,20.0,A100 PCIe 40/80GB,250
+1179,aws,ca-central-1,Canada,Montreal,20.0,A100 SXM4 80 GB,400
+1180,aws,ca-central-1,Canada,Montreal,20.0,AGX Xavier,30
+1181,aws,ca-central-1,Canada,Montreal,20.0,AMD RX480,150
+1182,aws,ca-central-1,Canada,Montreal,20.0,GTX 1080 Ti,250
+1183,aws,ca-central-1,Canada,Montreal,20.0,GTX 1080,180
+1184,aws,ca-central-1,Canada,Montreal,20.0,GTX 750,250
+1185,aws,ca-central-1,Canada,Montreal,20.0,GTX TITAN X,250
+1186,aws,ca-central-1,Canada,Montreal,20.0,Quadro K6000,225
+1187,aws,ca-central-1,Canada,Montreal,20.0,Quadro P6000,250
+1188,aws,ca-central-1,Canada,Montreal,20.0,RTX 2080 Ti,250
+1189,aws,ca-central-1,Canada,Montreal,20.0,RTX 2080,215
+1190,aws,ca-central-1,Canada,Montreal,20.0,RTX 8000,260
+1191,aws,ca-central-1,Canada,Montreal,20.0,T4,70
+1192,aws,ca-central-1,Canada,Montreal,20.0,Tesla K40c,245
+1193,aws,ca-central-1,Canada,Montreal,20.0,Tesla K80,300
+1194,aws,ca-central-1,Canada,Montreal,20.0,Tesla M40 24GB,250
+1195,aws,ca-central-1,Canada,Montreal,20.0,Tesla P100,250
+1196,aws,ca-central-1,Canada,Montreal,20.0,Tesla P40,250
+1197,aws,ca-central-1,Canada,Montreal,20.0,Tesla V100-PCIE-16GB,300
+1198,aws,ca-central-1,Canada,Montreal,20.0,Tesla V100-SXM2-16GB,250
+1199,aws,ca-central-1,Canada,Montreal,20.0,Tesla V100-SXM2-32GB,300
+1200,aws,ca-central-1,Canada,Montreal,20.0,Titan RTX,280
+1201,aws,ca-central-1,Canada,Montreal,20.0,Titan V,250
+1202,aws,ca-central-1,Canada,Montreal,20.0,TITAN X Pascal,250
+1203,aws,ca-central-1,Canada,Montreal,20.0,Titan Xp,250
+1204,aws,ca-central-1,Canada,Montreal,20.0,TPUv2 Chip,221
+1205,aws,ca-central-1,Canada,Montreal,20.0,TPUv3 Chip,283
+1206,aws,ca-central-1,Canada,Montreal,20.0,RTX 3080,320
+1207,aws,ca-central-1,Canada,Montreal,20.0,RTX 3080 TI,350
+1208,aws,ca-central-1,Canada,Montreal,20.0,RTX 3090,350
+1209,aws,ca-central-1,Canada,Montreal,20.0,RTX A6000,300
+1210,aws,ca-central-1,Canada,Montreal,20.0,Intel Xeon E5-2699,145
+1211,aws,ca-central-1,Canada,Montreal,20.0,Intel Xeon E5-2630v4,85
+1212,aws,ca-central-1,Canada,Montreal,20.0,Intel Xeon E5-2650,105
+1213,aws,ca-central-1,Canada,Montreal,20.0,Intel Xeon Gold 5220,125
+1214,aws,ca-central-1,Canada,Montreal,20.0,Intel Xeon Gold 6148,150
+1215,aws,ca-central-1,Canada,Montreal,20.0,AMD EPYC 7763,280
+1216,aws,cn-north-1,China,Beijing,680.0,A100 PCIe 40/80GB,250
+1217,aws,cn-north-1,China,Beijing,680.0,A100 SXM4 80 GB,400
+1218,aws,cn-north-1,China,Beijing,680.0,AGX Xavier,30
+1219,aws,cn-north-1,China,Beijing,680.0,AMD RX480,150
+1220,aws,cn-north-1,China,Beijing,680.0,GTX 1080 Ti,250
+1221,aws,cn-north-1,China,Beijing,680.0,GTX 1080,180
+1222,aws,cn-north-1,China,Beijing,680.0,GTX 750,250
+1223,aws,cn-north-1,China,Beijing,680.0,GTX TITAN X,250
+1224,aws,cn-north-1,China,Beijing,680.0,Quadro K6000,225
+1225,aws,cn-north-1,China,Beijing,680.0,Quadro P6000,250
+1226,aws,cn-north-1,China,Beijing,680.0,RTX 2080 Ti,250
+1227,aws,cn-north-1,China,Beijing,680.0,RTX 2080,215
+1228,aws,cn-north-1,China,Beijing,680.0,RTX 8000,260
+1229,aws,cn-north-1,China,Beijing,680.0,T4,70
+1230,aws,cn-north-1,China,Beijing,680.0,Tesla K40c,245
+1231,aws,cn-north-1,China,Beijing,680.0,Tesla K80,300
+1232,aws,cn-north-1,China,Beijing,680.0,Tesla M40 24GB,250
+1233,aws,cn-north-1,China,Beijing,680.0,Tesla P100,250
+1234,aws,cn-north-1,China,Beijing,680.0,Tesla P40,250
+1235,aws,cn-north-1,China,Beijing,680.0,Tesla V100-PCIE-16GB,300
+1236,aws,cn-north-1,China,Beijing,680.0,Tesla V100-SXM2-16GB,250
+1237,aws,cn-north-1,China,Beijing,680.0,Tesla V100-SXM2-32GB,300
+1238,aws,cn-north-1,China,Beijing,680.0,Titan RTX,280
+1239,aws,cn-north-1,China,Beijing,680.0,Titan V,250
+1240,aws,cn-north-1,China,Beijing,680.0,TITAN X Pascal,250
+1241,aws,cn-north-1,China,Beijing,680.0,Titan Xp,250
+1242,aws,cn-north-1,China,Beijing,680.0,TPUv2 Chip,221
+1243,aws,cn-north-1,China,Beijing,680.0,TPUv3 Chip,283
+1244,aws,cn-north-1,China,Beijing,680.0,RTX 3080,320
+1245,aws,cn-north-1,China,Beijing,680.0,RTX 3080 TI,350
+1246,aws,cn-north-1,China,Beijing,680.0,RTX 3090,350
+1247,aws,cn-north-1,China,Beijing,680.0,RTX A6000,300
+1248,aws,cn-north-1,China,Beijing,680.0,Intel Xeon E5-2699,145
+1249,aws,cn-north-1,China,Beijing,680.0,Intel Xeon E5-2630v4,85
+1250,aws,cn-north-1,China,Beijing,680.0,Intel Xeon E5-2650,105
+1251,aws,cn-north-1,China,Beijing,680.0,Intel Xeon Gold 5220,125
+1252,aws,cn-north-1,China,Beijing,680.0,Intel Xeon Gold 6148,150
+1253,aws,cn-north-1,China,Beijing,680.0,AMD EPYC 7763,280
+1254,aws,cn-northwest-1,China,Zhongwei,680.0,A100 PCIe 40/80GB,250
+1255,aws,cn-northwest-1,China,Zhongwei,680.0,A100 SXM4 80 GB,400
+1256,aws,cn-northwest-1,China,Zhongwei,680.0,AGX Xavier,30
+1257,aws,cn-northwest-1,China,Zhongwei,680.0,AMD RX480,150
+1258,aws,cn-northwest-1,China,Zhongwei,680.0,GTX 1080 Ti,250
+1259,aws,cn-northwest-1,China,Zhongwei,680.0,GTX 1080,180
+1260,aws,cn-northwest-1,China,Zhongwei,680.0,GTX 750,250
+1261,aws,cn-northwest-1,China,Zhongwei,680.0,GTX TITAN X,250
+1262,aws,cn-northwest-1,China,Zhongwei,680.0,Quadro K6000,225
+1263,aws,cn-northwest-1,China,Zhongwei,680.0,Quadro P6000,250
+1264,aws,cn-northwest-1,China,Zhongwei,680.0,RTX 2080 Ti,250
+1265,aws,cn-northwest-1,China,Zhongwei,680.0,RTX 2080,215
+1266,aws,cn-northwest-1,China,Zhongwei,680.0,RTX 8000,260
+1267,aws,cn-northwest-1,China,Zhongwei,680.0,T4,70
+1268,aws,cn-northwest-1,China,Zhongwei,680.0,Tesla K40c,245
+1269,aws,cn-northwest-1,China,Zhongwei,680.0,Tesla K80,300
+1270,aws,cn-northwest-1,China,Zhongwei,680.0,Tesla M40 24GB,250
+1271,aws,cn-northwest-1,China,Zhongwei,680.0,Tesla P100,250
+1272,aws,cn-northwest-1,China,Zhongwei,680.0,Tesla P40,250
+1273,aws,cn-northwest-1,China,Zhongwei,680.0,Tesla V100-PCIE-16GB,300
+1274,aws,cn-northwest-1,China,Zhongwei,680.0,Tesla V100-SXM2-16GB,250
+1275,aws,cn-northwest-1,China,Zhongwei,680.0,Tesla V100-SXM2-32GB,300
+1276,aws,cn-northwest-1,China,Zhongwei,680.0,Titan RTX,280
+1277,aws,cn-northwest-1,China,Zhongwei,680.0,Titan V,250
+1278,aws,cn-northwest-1,China,Zhongwei,680.0,TITAN X Pascal,250
+1279,aws,cn-northwest-1,China,Zhongwei,680.0,Titan Xp,250
+1280,aws,cn-northwest-1,China,Zhongwei,680.0,TPUv2 Chip,221
+1281,aws,cn-northwest-1,China,Zhongwei,680.0,TPUv3 Chip,283
+1282,aws,cn-northwest-1,China,Zhongwei,680.0,RTX 3080,320
+1283,aws,cn-northwest-1,China,Zhongwei,680.0,RTX 3080 TI,350
+1284,aws,cn-northwest-1,China,Zhongwei,680.0,RTX 3090,350
+1285,aws,cn-northwest-1,China,Zhongwei,680.0,RTX A6000,300
+1286,aws,cn-northwest-1,China,Zhongwei,680.0,Intel Xeon E5-2699,145
+1287,aws,cn-northwest-1,China,Zhongwei,680.0,Intel Xeon E5-2630v4,85
+1288,aws,cn-northwest-1,China,Zhongwei,680.0,Intel Xeon E5-2650,105
+1289,aws,cn-northwest-1,China,Zhongwei,680.0,Intel Xeon Gold 5220,125
+1290,aws,cn-northwest-1,China,Zhongwei,680.0,Intel Xeon Gold 6148,150
+1291,aws,cn-northwest-1,China,Zhongwei,680.0,AMD EPYC 7763,280
+1292,aws,eu-central-1,Germany,Frankfurt am Main,615.0,A100 PCIe 40/80GB,250
+1293,aws,eu-central-1,Germany,Frankfurt am Main,615.0,A100 SXM4 80 GB,400
+1294,aws,eu-central-1,Germany,Frankfurt am Main,615.0,AGX Xavier,30
+1295,aws,eu-central-1,Germany,Frankfurt am Main,615.0,AMD RX480,150
+1296,aws,eu-central-1,Germany,Frankfurt am Main,615.0,GTX 1080 Ti,250
+1297,aws,eu-central-1,Germany,Frankfurt am Main,615.0,GTX 1080,180
+1298,aws,eu-central-1,Germany,Frankfurt am Main,615.0,GTX 750,250
+1299,aws,eu-central-1,Germany,Frankfurt am Main,615.0,GTX TITAN X,250
+1300,aws,eu-central-1,Germany,Frankfurt am Main,615.0,Quadro K6000,225
+1301,aws,eu-central-1,Germany,Frankfurt am Main,615.0,Quadro P6000,250
+1302,aws,eu-central-1,Germany,Frankfurt am Main,615.0,RTX 2080 Ti,250
+1303,aws,eu-central-1,Germany,Frankfurt am Main,615.0,RTX 2080,215
+1304,aws,eu-central-1,Germany,Frankfurt am Main,615.0,RTX 8000,260
+1305,aws,eu-central-1,Germany,Frankfurt am Main,615.0,T4,70
+1306,aws,eu-central-1,Germany,Frankfurt am Main,615.0,Tesla K40c,245
+1307,aws,eu-central-1,Germany,Frankfurt am Main,615.0,Tesla K80,300
+1308,aws,eu-central-1,Germany,Frankfurt am Main,615.0,Tesla M40 24GB,250
+1309,aws,eu-central-1,Germany,Frankfurt am Main,615.0,Tesla P100,250
+1310,aws,eu-central-1,Germany,Frankfurt am Main,615.0,Tesla P40,250
+1311,aws,eu-central-1,Germany,Frankfurt am Main,615.0,Tesla V100-PCIE-16GB,300
+1312,aws,eu-central-1,Germany,Frankfurt am Main,615.0,Tesla V100-SXM2-16GB,250
+1313,aws,eu-central-1,Germany,Frankfurt am Main,615.0,Tesla V100-SXM2-32GB,300
+1314,aws,eu-central-1,Germany,Frankfurt am Main,615.0,Titan RTX,280
+1315,aws,eu-central-1,Germany,Frankfurt am Main,615.0,Titan V,250
+1316,aws,eu-central-1,Germany,Frankfurt am Main,615.0,TITAN X Pascal,250
+1317,aws,eu-central-1,Germany,Frankfurt am Main,615.0,Titan Xp,250
+1318,aws,eu-central-1,Germany,Frankfurt am Main,615.0,TPUv2 Chip,221
+1319,aws,eu-central-1,Germany,Frankfurt am Main,615.0,TPUv3 Chip,283
+1320,aws,eu-central-1,Germany,Frankfurt am Main,615.0,RTX 3080,320
+1321,aws,eu-central-1,Germany,Frankfurt am Main,615.0,RTX 3080 TI,350
+1322,aws,eu-central-1,Germany,Frankfurt am Main,615.0,RTX 3090,350
+1323,aws,eu-central-1,Germany,Frankfurt am Main,615.0,RTX A6000,300
+1324,aws,eu-central-1,Germany,Frankfurt am Main,615.0,Intel Xeon E5-2699,145
+1325,aws,eu-central-1,Germany,Frankfurt am Main,615.0,Intel Xeon E5-2630v4,85
+1326,aws,eu-central-1,Germany,Frankfurt am Main,615.0,Intel Xeon E5-2650,105
+1327,aws,eu-central-1,Germany,Frankfurt am Main,615.0,Intel Xeon Gold 5220,125
+1328,aws,eu-central-1,Germany,Frankfurt am Main,615.0,Intel Xeon Gold 6148,150
+1329,aws,eu-central-1,Germany,Frankfurt am Main,615.0,AMD EPYC 7763,280
+1330,aws,eu-west-1,Ireland,Dublin,617.0,A100 PCIe 40/80GB,250
+1331,aws,eu-west-1,Ireland,Dublin,617.0,A100 SXM4 80 GB,400
+1332,aws,eu-west-1,Ireland,Dublin,617.0,AGX Xavier,30
+1333,aws,eu-west-1,Ireland,Dublin,617.0,AMD RX480,150
+1334,aws,eu-west-1,Ireland,Dublin,617.0,GTX 1080 Ti,250
+1335,aws,eu-west-1,Ireland,Dublin,617.0,GTX 1080,180
+1336,aws,eu-west-1,Ireland,Dublin,617.0,GTX 750,250
+1337,aws,eu-west-1,Ireland,Dublin,617.0,GTX TITAN X,250
+1338,aws,eu-west-1,Ireland,Dublin,617.0,Quadro K6000,225
+1339,aws,eu-west-1,Ireland,Dublin,617.0,Quadro P6000,250
+1340,aws,eu-west-1,Ireland,Dublin,617.0,RTX 2080 Ti,250
+1341,aws,eu-west-1,Ireland,Dublin,617.0,RTX 2080,215
+1342,aws,eu-west-1,Ireland,Dublin,617.0,RTX 8000,260
+1343,aws,eu-west-1,Ireland,Dublin,617.0,T4,70
+1344,aws,eu-west-1,Ireland,Dublin,617.0,Tesla K40c,245
+1345,aws,eu-west-1,Ireland,Dublin,617.0,Tesla K80,300
+1346,aws,eu-west-1,Ireland,Dublin,617.0,Tesla M40 24GB,250
+1347,aws,eu-west-1,Ireland,Dublin,617.0,Tesla P100,250
+1348,aws,eu-west-1,Ireland,Dublin,617.0,Tesla P40,250
+1349,aws,eu-west-1,Ireland,Dublin,617.0,Tesla V100-PCIE-16GB,300
+1350,aws,eu-west-1,Ireland,Dublin,617.0,Tesla V100-SXM2-16GB,250
+1351,aws,eu-west-1,Ireland,Dublin,617.0,Tesla V100-SXM2-32GB,300
+1352,aws,eu-west-1,Ireland,Dublin,617.0,Titan RTX,280
+1353,aws,eu-west-1,Ireland,Dublin,617.0,Titan V,250
+1354,aws,eu-west-1,Ireland,Dublin,617.0,TITAN X Pascal,250
+1355,aws,eu-west-1,Ireland,Dublin,617.0,Titan Xp,250
+1356,aws,eu-west-1,Ireland,Dublin,617.0,TPUv2 Chip,221
+1357,aws,eu-west-1,Ireland,Dublin,617.0,TPUv3 Chip,283
+1358,aws,eu-west-1,Ireland,Dublin,617.0,RTX 3080,320
+1359,aws,eu-west-1,Ireland,Dublin,617.0,RTX 3080 TI,350
+1360,aws,eu-west-1,Ireland,Dublin,617.0,RTX 3090,350
+1361,aws,eu-west-1,Ireland,Dublin,617.0,RTX A6000,300
+1362,aws,eu-west-1,Ireland,Dublin,617.0,Intel Xeon E5-2699,145
+1363,aws,eu-west-1,Ireland,Dublin,617.0,Intel Xeon E5-2630v4,85
+1364,aws,eu-west-1,Ireland,Dublin,617.0,Intel Xeon E5-2650,105
+1365,aws,eu-west-1,Ireland,Dublin,617.0,Intel Xeon Gold 5220,125
+1366,aws,eu-west-1,Ireland,Dublin,617.0,Intel Xeon Gold 6148,150
+1367,aws,eu-west-1,Ireland,Dublin,617.0,AMD EPYC 7763,280
+1368,aws,eu-west-2,United Kingdom,London,623.0,A100 PCIe 40/80GB,250
+1369,aws,eu-west-2,United Kingdom,London,623.0,A100 SXM4 80 GB,400
+1370,aws,eu-west-2,United Kingdom,London,623.0,AGX Xavier,30
+1371,aws,eu-west-2,United Kingdom,London,623.0,AMD RX480,150
+1372,aws,eu-west-2,United Kingdom,London,623.0,GTX 1080 Ti,250
+1373,aws,eu-west-2,United Kingdom,London,623.0,GTX 1080,180
+1374,aws,eu-west-2,United Kingdom,London,623.0,GTX 750,250
+1375,aws,eu-west-2,United Kingdom,London,623.0,GTX TITAN X,250
+1376,aws,eu-west-2,United Kingdom,London,623.0,Quadro K6000,225
+1377,aws,eu-west-2,United Kingdom,London,623.0,Quadro P6000,250
+1378,aws,eu-west-2,United Kingdom,London,623.0,RTX 2080 Ti,250
+1379,aws,eu-west-2,United Kingdom,London,623.0,RTX 2080,215
+1380,aws,eu-west-2,United Kingdom,London,623.0,RTX 8000,260
+1381,aws,eu-west-2,United Kingdom,London,623.0,T4,70
+1382,aws,eu-west-2,United Kingdom,London,623.0,Tesla K40c,245
+1383,aws,eu-west-2,United Kingdom,London,623.0,Tesla K80,300
+1384,aws,eu-west-2,United Kingdom,London,623.0,Tesla M40 24GB,250
+1385,aws,eu-west-2,United Kingdom,London,623.0,Tesla P100,250
+1386,aws,eu-west-2,United Kingdom,London,623.0,Tesla P40,250
+1387,aws,eu-west-2,United Kingdom,London,623.0,Tesla V100-PCIE-16GB,300
+1388,aws,eu-west-2,United Kingdom,London,623.0,Tesla V100-SXM2-16GB,250
+1389,aws,eu-west-2,United Kingdom,London,623.0,Tesla V100-SXM2-32GB,300
+1390,aws,eu-west-2,United Kingdom,London,623.0,Titan RTX,280
+1391,aws,eu-west-2,United Kingdom,London,623.0,Titan V,250
+1392,aws,eu-west-2,United Kingdom,London,623.0,TITAN X Pascal,250
+1393,aws,eu-west-2,United Kingdom,London,623.0,Titan Xp,250
+1394,aws,eu-west-2,United Kingdom,London,623.0,TPUv2 Chip,221
+1395,aws,eu-west-2,United Kingdom,London,623.0,TPUv3 Chip,283
+1396,aws,eu-west-2,United Kingdom,London,623.0,RTX 3080,320
+1397,aws,eu-west-2,United Kingdom,London,623.0,RTX 3080 TI,350
+1398,aws,eu-west-2,United Kingdom,London,623.0,RTX 3090,350
+1399,aws,eu-west-2,United Kingdom,London,623.0,RTX A6000,300
+1400,aws,eu-west-2,United Kingdom,London,623.0,Intel Xeon E5-2699,145
+1401,aws,eu-west-2,United Kingdom,London,623.0,Intel Xeon E5-2630v4,85
+1402,aws,eu-west-2,United Kingdom,London,623.0,Intel Xeon E5-2650,105
+1403,aws,eu-west-2,United Kingdom,London,623.0,Intel Xeon Gold 5220,125
+1404,aws,eu-west-2,United Kingdom,London,623.0,Intel Xeon Gold 6148,150
+1405,aws,eu-west-2,United Kingdom,London,623.0,AMD EPYC 7763,280
+1406,aws,eu-west-3,France,Paris,105.0,A100 PCIe 40/80GB,250
+1407,aws,eu-west-3,France,Paris,105.0,A100 SXM4 80 GB,400
+1408,aws,eu-west-3,France,Paris,105.0,AGX Xavier,30
+1409,aws,eu-west-3,France,Paris,105.0,AMD RX480,150
+1410,aws,eu-west-3,France,Paris,105.0,GTX 1080 Ti,250
+1411,aws,eu-west-3,France,Paris,105.0,GTX 1080,180
+1412,aws,eu-west-3,France,Paris,105.0,GTX 750,250
+1413,aws,eu-west-3,France,Paris,105.0,GTX TITAN X,250
+1414,aws,eu-west-3,France,Paris,105.0,Quadro K6000,225
+1415,aws,eu-west-3,France,Paris,105.0,Quadro P6000,250
+1416,aws,eu-west-3,France,Paris,105.0,RTX 2080 Ti,250
+1417,aws,eu-west-3,France,Paris,105.0,RTX 2080,215
+1418,aws,eu-west-3,France,Paris,105.0,RTX 8000,260
+1419,aws,eu-west-3,France,Paris,105.0,T4,70
+1420,aws,eu-west-3,France,Paris,105.0,Tesla K40c,245
+1421,aws,eu-west-3,France,Paris,105.0,Tesla K80,300
+1422,aws,eu-west-3,France,Paris,105.0,Tesla M40 24GB,250
+1423,aws,eu-west-3,France,Paris,105.0,Tesla P100,250
+1424,aws,eu-west-3,France,Paris,105.0,Tesla P40,250
+1425,aws,eu-west-3,France,Paris,105.0,Tesla V100-PCIE-16GB,300
+1426,aws,eu-west-3,France,Paris,105.0,Tesla V100-SXM2-16GB,250
+1427,aws,eu-west-3,France,Paris,105.0,Tesla V100-SXM2-32GB,300
+1428,aws,eu-west-3,France,Paris,105.0,Titan RTX,280
+1429,aws,eu-west-3,France,Paris,105.0,Titan V,250
+1430,aws,eu-west-3,France,Paris,105.0,TITAN X Pascal,250
+1431,aws,eu-west-3,France,Paris,105.0,Titan Xp,250
+1432,aws,eu-west-3,France,Paris,105.0,TPUv2 Chip,221
+1433,aws,eu-west-3,France,Paris,105.0,TPUv3 Chip,283
+1434,aws,eu-west-3,France,Paris,105.0,RTX 3080,320
+1435,aws,eu-west-3,France,Paris,105.0,RTX 3080 TI,350
+1436,aws,eu-west-3,France,Paris,105.0,RTX 3090,350
+1437,aws,eu-west-3,France,Paris,105.0,RTX A6000,300
+1438,aws,eu-west-3,France,Paris,105.0,Intel Xeon E5-2699,145
+1439,aws,eu-west-3,France,Paris,105.0,Intel Xeon E5-2630v4,85
+1440,aws,eu-west-3,France,Paris,105.0,Intel Xeon E5-2650,105
+1441,aws,eu-west-3,France,Paris,105.0,Intel Xeon Gold 5220,125
+1442,aws,eu-west-3,France,Paris,105.0,Intel Xeon Gold 6148,150
+1443,aws,eu-west-3,France,Paris,105.0,AMD EPYC 7763,280
+1444,aws,eu-north-1,Sweden,Stockholm,47.0,A100 PCIe 40/80GB,250
+1445,aws,eu-north-1,Sweden,Stockholm,47.0,A100 SXM4 80 GB,400
+1446,aws,eu-north-1,Sweden,Stockholm,47.0,AGX Xavier,30
+1447,aws,eu-north-1,Sweden,Stockholm,47.0,AMD RX480,150
+1448,aws,eu-north-1,Sweden,Stockholm,47.0,GTX 1080 Ti,250
+1449,aws,eu-north-1,Sweden,Stockholm,47.0,GTX 1080,180
+1450,aws,eu-north-1,Sweden,Stockholm,47.0,GTX 750,250
+1451,aws,eu-north-1,Sweden,Stockholm,47.0,GTX TITAN X,250
+1452,aws,eu-north-1,Sweden,Stockholm,47.0,Quadro K6000,225
+1453,aws,eu-north-1,Sweden,Stockholm,47.0,Quadro P6000,250
+1454,aws,eu-north-1,Sweden,Stockholm,47.0,RTX 2080 Ti,250
+1455,aws,eu-north-1,Sweden,Stockholm,47.0,RTX 2080,215
+1456,aws,eu-north-1,Sweden,Stockholm,47.0,RTX 8000,260
+1457,aws,eu-north-1,Sweden,Stockholm,47.0,T4,70
+1458,aws,eu-north-1,Sweden,Stockholm,47.0,Tesla K40c,245
+1459,aws,eu-north-1,Sweden,Stockholm,47.0,Tesla K80,300
+1460,aws,eu-north-1,Sweden,Stockholm,47.0,Tesla M40 24GB,250
+1461,aws,eu-north-1,Sweden,Stockholm,47.0,Tesla P100,250
+1462,aws,eu-north-1,Sweden,Stockholm,47.0,Tesla P40,250
+1463,aws,eu-north-1,Sweden,Stockholm,47.0,Tesla V100-PCIE-16GB,300
+1464,aws,eu-north-1,Sweden,Stockholm,47.0,Tesla V100-SXM2-16GB,250
+1465,aws,eu-north-1,Sweden,Stockholm,47.0,Tesla V100-SXM2-32GB,300
+1466,aws,eu-north-1,Sweden,Stockholm,47.0,Titan RTX,280
+1467,aws,eu-north-1,Sweden,Stockholm,47.0,Titan V,250
+1468,aws,eu-north-1,Sweden,Stockholm,47.0,TITAN X Pascal,250
+1469,aws,eu-north-1,Sweden,Stockholm,47.0,Titan Xp,250
+1470,aws,eu-north-1,Sweden,Stockholm,47.0,TPUv2 Chip,221
+1471,aws,eu-north-1,Sweden,Stockholm,47.0,TPUv3 Chip,283
+1472,aws,eu-north-1,Sweden,Stockholm,47.0,RTX 3080,320
+1473,aws,eu-north-1,Sweden,Stockholm,47.0,RTX 3080 TI,350
+1474,aws,eu-north-1,Sweden,Stockholm,47.0,RTX 3090,350
+1475,aws,eu-north-1,Sweden,Stockholm,47.0,RTX A6000,300
+1476,aws,eu-north-1,Sweden,Stockholm,47.0,Intel Xeon E5-2699,145
+1477,aws,eu-north-1,Sweden,Stockholm,47.0,Intel Xeon E5-2630v4,85
+1478,aws,eu-north-1,Sweden,Stockholm,47.0,Intel Xeon E5-2650,105
+1479,aws,eu-north-1,Sweden,Stockholm,47.0,Intel Xeon Gold 5220,125
+1480,aws,eu-north-1,Sweden,Stockholm,47.0,Intel Xeon Gold 6148,150
+1481,aws,eu-north-1,Sweden,Stockholm,47.0,AMD EPYC 7763,280
+1482,aws,sa-east-1,Brazil,Sao Paulo,205.0,A100 PCIe 40/80GB,250
+1483,aws,sa-east-1,Brazil,Sao Paulo,205.0,A100 SXM4 80 GB,400
+1484,aws,sa-east-1,Brazil,Sao Paulo,205.0,AGX Xavier,30
+1485,aws,sa-east-1,Brazil,Sao Paulo,205.0,AMD RX480,150
+1486,aws,sa-east-1,Brazil,Sao Paulo,205.0,GTX 1080 Ti,250
+1487,aws,sa-east-1,Brazil,Sao Paulo,205.0,GTX 1080,180
+1488,aws,sa-east-1,Brazil,Sao Paulo,205.0,GTX 750,250
+1489,aws,sa-east-1,Brazil,Sao Paulo,205.0,GTX TITAN X,250
+1490,aws,sa-east-1,Brazil,Sao Paulo,205.0,Quadro K6000,225
+1491,aws,sa-east-1,Brazil,Sao Paulo,205.0,Quadro P6000,250
+1492,aws,sa-east-1,Brazil,Sao Paulo,205.0,RTX 2080 Ti,250
+1493,aws,sa-east-1,Brazil,Sao Paulo,205.0,RTX 2080,215
+1494,aws,sa-east-1,Brazil,Sao Paulo,205.0,RTX 8000,260
+1495,aws,sa-east-1,Brazil,Sao Paulo,205.0,T4,70
+1496,aws,sa-east-1,Brazil,Sao Paulo,205.0,Tesla K40c,245
+1497,aws,sa-east-1,Brazil,Sao Paulo,205.0,Tesla K80,300
+1498,aws,sa-east-1,Brazil,Sao Paulo,205.0,Tesla M40 24GB,250
+1499,aws,sa-east-1,Brazil,Sao Paulo,205.0,Tesla P100,250
+1500,aws,sa-east-1,Brazil,Sao Paulo,205.0,Tesla P40,250
+1501,aws,sa-east-1,Brazil,Sao Paulo,205.0,Tesla V100-PCIE-16GB,300
+1502,aws,sa-east-1,Brazil,Sao Paulo,205.0,Tesla V100-SXM2-16GB,250
+1503,aws,sa-east-1,Brazil,Sao Paulo,205.0,Tesla V100-SXM2-32GB,300
+1504,aws,sa-east-1,Brazil,Sao Paulo,205.0,Titan RTX,280
+1505,aws,sa-east-1,Brazil,Sao Paulo,205.0,Titan V,250
+1506,aws,sa-east-1,Brazil,Sao Paulo,205.0,TITAN X Pascal,250
+1507,aws,sa-east-1,Brazil,Sao Paulo,205.0,Titan Xp,250
+1508,aws,sa-east-1,Brazil,Sao Paulo,205.0,TPUv2 Chip,221
+1509,aws,sa-east-1,Brazil,Sao Paulo,205.0,TPUv3 Chip,283
+1510,aws,sa-east-1,Brazil,Sao Paulo,205.0,RTX 3080,320
+1511,aws,sa-east-1,Brazil,Sao Paulo,205.0,RTX 3080 TI,350
+1512,aws,sa-east-1,Brazil,Sao Paulo,205.0,RTX 3090,350
+1513,aws,sa-east-1,Brazil,Sao Paulo,205.0,RTX A6000,300
+1514,aws,sa-east-1,Brazil,Sao Paulo,205.0,Intel Xeon E5-2699,145
+1515,aws,sa-east-1,Brazil,Sao Paulo,205.0,Intel Xeon E5-2630v4,85
+1516,aws,sa-east-1,Brazil,Sao Paulo,205.0,Intel Xeon E5-2650,105
+1517,aws,sa-east-1,Brazil,Sao Paulo,205.0,Intel Xeon Gold 5220,125
+1518,aws,sa-east-1,Brazil,Sao Paulo,205.0,Intel Xeon Gold 6148,150
+1519,aws,sa-east-1,Brazil,Sao Paulo,205.0,AMD EPYC 7763,280
+1520,aws,us-gov-east-1,USA,Dublin,568.2,A100 PCIe 40/80GB,250
+1521,aws,us-gov-east-1,USA,Dublin,568.2,A100 SXM4 80 GB,400
+1522,aws,us-gov-east-1,USA,Dublin,568.2,AGX Xavier,30
+1523,aws,us-gov-east-1,USA,Dublin,568.2,AMD RX480,150
+1524,aws,us-gov-east-1,USA,Dublin,568.2,GTX 1080 Ti,250
+1525,aws,us-gov-east-1,USA,Dublin,568.2,GTX 1080,180
+1526,aws,us-gov-east-1,USA,Dublin,568.2,GTX 750,250
+1527,aws,us-gov-east-1,USA,Dublin,568.2,GTX TITAN X,250
+1528,aws,us-gov-east-1,USA,Dublin,568.2,Quadro K6000,225
+1529,aws,us-gov-east-1,USA,Dublin,568.2,Quadro P6000,250
+1530,aws,us-gov-east-1,USA,Dublin,568.2,RTX 2080 Ti,250
+1531,aws,us-gov-east-1,USA,Dublin,568.2,RTX 2080,215
+1532,aws,us-gov-east-1,USA,Dublin,568.2,RTX 8000,260
+1533,aws,us-gov-east-1,USA,Dublin,568.2,T4,70
+1534,aws,us-gov-east-1,USA,Dublin,568.2,Tesla K40c,245
+1535,aws,us-gov-east-1,USA,Dublin,568.2,Tesla K80,300
+1536,aws,us-gov-east-1,USA,Dublin,568.2,Tesla M40 24GB,250
+1537,aws,us-gov-east-1,USA,Dublin,568.2,Tesla P100,250
+1538,aws,us-gov-east-1,USA,Dublin,568.2,Tesla P40,250
+1539,aws,us-gov-east-1,USA,Dublin,568.2,Tesla V100-PCIE-16GB,300
+1540,aws,us-gov-east-1,USA,Dublin,568.2,Tesla V100-SXM2-16GB,250
+1541,aws,us-gov-east-1,USA,Dublin,568.2,Tesla V100-SXM2-32GB,300
+1542,aws,us-gov-east-1,USA,Dublin,568.2,Titan RTX,280
+1543,aws,us-gov-east-1,USA,Dublin,568.2,Titan V,250
+1544,aws,us-gov-east-1,USA,Dublin,568.2,TITAN X Pascal,250
+1545,aws,us-gov-east-1,USA,Dublin,568.2,Titan Xp,250
+1546,aws,us-gov-east-1,USA,Dublin,568.2,TPUv2 Chip,221
+1547,aws,us-gov-east-1,USA,Dublin,568.2,TPUv3 Chip,283
+1548,aws,us-gov-east-1,USA,Dublin,568.2,RTX 3080,320
+1549,aws,us-gov-east-1,USA,Dublin,568.2,RTX 3080 TI,350
+1550,aws,us-gov-east-1,USA,Dublin,568.2,RTX 3090,350
+1551,aws,us-gov-east-1,USA,Dublin,568.2,RTX A6000,300
+1552,aws,us-gov-east-1,USA,Dublin,568.2,Intel Xeon E5-2699,145
+1553,aws,us-gov-east-1,USA,Dublin,568.2,Intel Xeon E5-2630v4,85
+1554,aws,us-gov-east-1,USA,Dublin,568.2,Intel Xeon E5-2650,105
+1555,aws,us-gov-east-1,USA,Dublin,568.2,Intel Xeon Gold 5220,125
+1556,aws,us-gov-east-1,USA,Dublin,568.2,Intel Xeon Gold 6148,150
+1557,aws,us-gov-east-1,USA,Dublin,568.2,AMD EPYC 7763,280
+1558,aws,us-gov-west-1,USA,Seattle,297.6,A100 PCIe 40/80GB,250
+1559,aws,us-gov-west-1,USA,Seattle,297.6,A100 SXM4 80 GB,400
+1560,aws,us-gov-west-1,USA,Seattle,297.6,AGX Xavier,30
+1561,aws,us-gov-west-1,USA,Seattle,297.6,AMD RX480,150
+1562,aws,us-gov-west-1,USA,Seattle,297.6,GTX 1080 Ti,250
+1563,aws,us-gov-west-1,USA,Seattle,297.6,GTX 1080,180
+1564,aws,us-gov-west-1,USA,Seattle,297.6,GTX 750,250
+1565,aws,us-gov-west-1,USA,Seattle,297.6,GTX TITAN X,250
+1566,aws,us-gov-west-1,USA,Seattle,297.6,Quadro K6000,225
+1567,aws,us-gov-west-1,USA,Seattle,297.6,Quadro P6000,250
+1568,aws,us-gov-west-1,USA,Seattle,297.6,RTX 2080 Ti,250
+1569,aws,us-gov-west-1,USA,Seattle,297.6,RTX 2080,215
+1570,aws,us-gov-west-1,USA,Seattle,297.6,RTX 8000,260
+1571,aws,us-gov-west-1,USA,Seattle,297.6,T4,70
+1572,aws,us-gov-west-1,USA,Seattle,297.6,Tesla K40c,245
+1573,aws,us-gov-west-1,USA,Seattle,297.6,Tesla K80,300
+1574,aws,us-gov-west-1,USA,Seattle,297.6,Tesla M40 24GB,250
+1575,aws,us-gov-west-1,USA,Seattle,297.6,Tesla P100,250
+1576,aws,us-gov-west-1,USA,Seattle,297.6,Tesla P40,250
+1577,aws,us-gov-west-1,USA,Seattle,297.6,Tesla V100-PCIE-16GB,300
+1578,aws,us-gov-west-1,USA,Seattle,297.6,Tesla V100-SXM2-16GB,250
+1579,aws,us-gov-west-1,USA,Seattle,297.6,Tesla V100-SXM2-32GB,300
+1580,aws,us-gov-west-1,USA,Seattle,297.6,Titan RTX,280
+1581,aws,us-gov-west-1,USA,Seattle,297.6,Titan V,250
+1582,aws,us-gov-west-1,USA,Seattle,297.6,TITAN X Pascal,250
+1583,aws,us-gov-west-1,USA,Seattle,297.6,Titan Xp,250
+1584,aws,us-gov-west-1,USA,Seattle,297.6,TPUv2 Chip,221
+1585,aws,us-gov-west-1,USA,Seattle,297.6,TPUv3 Chip,283
+1586,aws,us-gov-west-1,USA,Seattle,297.6,RTX 3080,320
+1587,aws,us-gov-west-1,USA,Seattle,297.6,RTX 3080 TI,350
+1588,aws,us-gov-west-1,USA,Seattle,297.6,RTX 3090,350
+1589,aws,us-gov-west-1,USA,Seattle,297.6,RTX A6000,300
+1590,aws,us-gov-west-1,USA,Seattle,297.6,Intel Xeon E5-2699,145
+1591,aws,us-gov-west-1,USA,Seattle,297.6,Intel Xeon E5-2630v4,85
+1592,aws,us-gov-west-1,USA,Seattle,297.6,Intel Xeon E5-2650,105
+1593,aws,us-gov-west-1,USA,Seattle,297.6,Intel Xeon Gold 5220,125
+1594,aws,us-gov-west-1,USA,Seattle,297.6,Intel Xeon Gold 6148,150
+1595,aws,us-gov-west-1,USA,Seattle,297.6,AMD EPYC 7763,280
+1596,azure,eastasia,Hong Kong,Wan Chai,702.0,A100 PCIe 40/80GB,250
+1597,azure,eastasia,Hong Kong,Wan Chai,702.0,A100 SXM4 80 GB,400
+1598,azure,eastasia,Hong Kong,Wan Chai,702.0,AGX Xavier,30
+1599,azure,eastasia,Hong Kong,Wan Chai,702.0,AMD RX480,150
+1600,azure,eastasia,Hong Kong,Wan Chai,702.0,GTX 1080 Ti,250
+1601,azure,eastasia,Hong Kong,Wan Chai,702.0,GTX 1080,180
+1602,azure,eastasia,Hong Kong,Wan Chai,702.0,GTX 750,250
+1603,azure,eastasia,Hong Kong,Wan Chai,702.0,GTX TITAN X,250
+1604,azure,eastasia,Hong Kong,Wan Chai,702.0,Quadro K6000,225
+1605,azure,eastasia,Hong Kong,Wan Chai,702.0,Quadro P6000,250
+1606,azure,eastasia,Hong Kong,Wan Chai,702.0,RTX 2080 Ti,250
+1607,azure,eastasia,Hong Kong,Wan Chai,702.0,RTX 2080,215
+1608,azure,eastasia,Hong Kong,Wan Chai,702.0,RTX 8000,260
+1609,azure,eastasia,Hong Kong,Wan Chai,702.0,T4,70
+1610,azure,eastasia,Hong Kong,Wan Chai,702.0,Tesla K40c,245
+1611,azure,eastasia,Hong Kong,Wan Chai,702.0,Tesla K80,300
+1612,azure,eastasia,Hong Kong,Wan Chai,702.0,Tesla M40 24GB,250
+1613,azure,eastasia,Hong Kong,Wan Chai,702.0,Tesla P100,250
+1614,azure,eastasia,Hong Kong,Wan Chai,702.0,Tesla P40,250
+1615,azure,eastasia,Hong Kong,Wan Chai,702.0,Tesla V100-PCIE-16GB,300
+1616,azure,eastasia,Hong Kong,Wan Chai,702.0,Tesla V100-SXM2-16GB,250
+1617,azure,eastasia,Hong Kong,Wan Chai,702.0,Tesla V100-SXM2-32GB,300
+1618,azure,eastasia,Hong Kong,Wan Chai,702.0,Titan RTX,280
+1619,azure,eastasia,Hong Kong,Wan Chai,702.0,Titan V,250
+1620,azure,eastasia,Hong Kong,Wan Chai,702.0,TITAN X Pascal,250
+1621,azure,eastasia,Hong Kong,Wan Chai,702.0,Titan Xp,250
+1622,azure,eastasia,Hong Kong,Wan Chai,702.0,TPUv2 Chip,221
+1623,azure,eastasia,Hong Kong,Wan Chai,702.0,TPUv3 Chip,283
+1624,azure,eastasia,Hong Kong,Wan Chai,702.0,RTX 3080,320
+1625,azure,eastasia,Hong Kong,Wan Chai,702.0,RTX 3080 TI,350
+1626,azure,eastasia,Hong Kong,Wan Chai,702.0,RTX 3090,350
+1627,azure,eastasia,Hong Kong,Wan Chai,702.0,RTX A6000,300
+1628,azure,eastasia,Hong Kong,Wan Chai,702.0,Intel Xeon E5-2699,145
+1629,azure,eastasia,Hong Kong,Wan Chai,702.0,Intel Xeon E5-2630v4,85
+1630,azure,eastasia,Hong Kong,Wan Chai,702.0,Intel Xeon E5-2650,105
+1631,azure,eastasia,Hong Kong,Wan Chai,702.0,Intel Xeon Gold 5220,125
+1632,azure,eastasia,Hong Kong,Wan Chai,702.0,Intel Xeon Gold 6148,150
+1633,azure,eastasia,Hong Kong,Wan Chai,702.0,AMD EPYC 7763,280
+1634,azure,southeastasia,Singapore,Singapore,419.0,A100 PCIe 40/80GB,250
+1635,azure,southeastasia,Singapore,Singapore,419.0,A100 SXM4 80 GB,400
+1636,azure,southeastasia,Singapore,Singapore,419.0,AGX Xavier,30
+1637,azure,southeastasia,Singapore,Singapore,419.0,AMD RX480,150
+1638,azure,southeastasia,Singapore,Singapore,419.0,GTX 1080 Ti,250
+1639,azure,southeastasia,Singapore,Singapore,419.0,GTX 1080,180
+1640,azure,southeastasia,Singapore,Singapore,419.0,GTX 750,250
+1641,azure,southeastasia,Singapore,Singapore,419.0,GTX TITAN X,250
+1642,azure,southeastasia,Singapore,Singapore,419.0,Quadro K6000,225
+1643,azure,southeastasia,Singapore,Singapore,419.0,Quadro P6000,250
+1644,azure,southeastasia,Singapore,Singapore,419.0,RTX 2080 Ti,250
+1645,azure,southeastasia,Singapore,Singapore,419.0,RTX 2080,215
+1646,azure,southeastasia,Singapore,Singapore,419.0,RTX 8000,260
+1647,azure,southeastasia,Singapore,Singapore,419.0,T4,70
+1648,azure,southeastasia,Singapore,Singapore,419.0,Tesla K40c,245
+1649,azure,southeastasia,Singapore,Singapore,419.0,Tesla K80,300
+1650,azure,southeastasia,Singapore,Singapore,419.0,Tesla M40 24GB,250
+1651,azure,southeastasia,Singapore,Singapore,419.0,Tesla P100,250
+1652,azure,southeastasia,Singapore,Singapore,419.0,Tesla P40,250
+1653,azure,southeastasia,Singapore,Singapore,419.0,Tesla V100-PCIE-16GB,300
+1654,azure,southeastasia,Singapore,Singapore,419.0,Tesla V100-SXM2-16GB,250
+1655,azure,southeastasia,Singapore,Singapore,419.0,Tesla V100-SXM2-32GB,300
+1656,azure,southeastasia,Singapore,Singapore,419.0,Titan RTX,280
+1657,azure,southeastasia,Singapore,Singapore,419.0,Titan V,250
+1658,azure,southeastasia,Singapore,Singapore,419.0,TITAN X Pascal,250
+1659,azure,southeastasia,Singapore,Singapore,419.0,Titan Xp,250
+1660,azure,southeastasia,Singapore,Singapore,419.0,TPUv2 Chip,221
+1661,azure,southeastasia,Singapore,Singapore,419.0,TPUv3 Chip,283
+1662,azure,southeastasia,Singapore,Singapore,419.0,RTX 3080,320
+1663,azure,southeastasia,Singapore,Singapore,419.0,RTX 3080 TI,350
+1664,azure,southeastasia,Singapore,Singapore,419.0,RTX 3090,350
+1665,azure,southeastasia,Singapore,Singapore,419.0,RTX A6000,300
+1666,azure,southeastasia,Singapore,Singapore,419.0,Intel Xeon E5-2699,145
+1667,azure,southeastasia,Singapore,Singapore,419.0,Intel Xeon E5-2630v4,85
+1668,azure,southeastasia,Singapore,Singapore,419.0,Intel Xeon E5-2650,105
+1669,azure,southeastasia,Singapore,Singapore,419.0,Intel Xeon Gold 5220,125
+1670,azure,southeastasia,Singapore,Singapore,419.0,Intel Xeon Gold 6148,150
+1671,azure,southeastasia,Singapore,Singapore,419.0,AMD EPYC 7763,280
+1672,azure,centralus,USA,Des Moines,736.6,A100 PCIe 40/80GB,250
+1673,azure,centralus,USA,Des Moines,736.6,A100 SXM4 80 GB,400
+1674,azure,centralus,USA,Des Moines,736.6,AGX Xavier,30
+1675,azure,centralus,USA,Des Moines,736.6,AMD RX480,150
+1676,azure,centralus,USA,Des Moines,736.6,GTX 1080 Ti,250
+1677,azure,centralus,USA,Des Moines,736.6,GTX 1080,180
+1678,azure,centralus,USA,Des Moines,736.6,GTX 750,250
+1679,azure,centralus,USA,Des Moines,736.6,GTX TITAN X,250
+1680,azure,centralus,USA,Des Moines,736.6,Quadro K6000,225
+1681,azure,centralus,USA,Des Moines,736.6,Quadro P6000,250
+1682,azure,centralus,USA,Des Moines,736.6,RTX 2080 Ti,250
+1683,azure,centralus,USA,Des Moines,736.6,RTX 2080,215
+1684,azure,centralus,USA,Des Moines,736.6,RTX 8000,260
+1685,azure,centralus,USA,Des Moines,736.6,T4,70
+1686,azure,centralus,USA,Des Moines,736.6,Tesla K40c,245
+1687,azure,centralus,USA,Des Moines,736.6,Tesla K80,300
+1688,azure,centralus,USA,Des Moines,736.6,Tesla M40 24GB,250
+1689,azure,centralus,USA,Des Moines,736.6,Tesla P100,250
+1690,azure,centralus,USA,Des Moines,736.6,Tesla P40,250
+1691,azure,centralus,USA,Des Moines,736.6,Tesla V100-PCIE-16GB,300
+1692,azure,centralus,USA,Des Moines,736.6,Tesla V100-SXM2-16GB,250
+1693,azure,centralus,USA,Des Moines,736.6,Tesla V100-SXM2-32GB,300
+1694,azure,centralus,USA,Des Moines,736.6,Titan RTX,280
+1695,azure,centralus,USA,Des Moines,736.6,Titan V,250
+1696,azure,centralus,USA,Des Moines,736.6,TITAN X Pascal,250
+1697,azure,centralus,USA,Des Moines,736.6,Titan Xp,250
+1698,azure,centralus,USA,Des Moines,736.6,TPUv2 Chip,221
+1699,azure,centralus,USA,Des Moines,736.6,TPUv3 Chip,283
+1700,azure,centralus,USA,Des Moines,736.6,RTX 3080,320
+1701,azure,centralus,USA,Des Moines,736.6,RTX 3080 TI,350
+1702,azure,centralus,USA,Des Moines,736.6,RTX 3090,350
+1703,azure,centralus,USA,Des Moines,736.6,RTX A6000,300
+1704,azure,centralus,USA,Des Moines,736.6,Intel Xeon E5-2699,145
+1705,azure,centralus,USA,Des Moines,736.6,Intel Xeon E5-2630v4,85
+1706,azure,centralus,USA,Des Moines,736.6,Intel Xeon E5-2650,105
+1707,azure,centralus,USA,Des Moines,736.6,Intel Xeon Gold 5220,125
+1708,azure,centralus,USA,Des Moines,736.6,Intel Xeon Gold 6148,150
+1709,azure,centralus,USA,Des Moines,736.6,AMD EPYC 7763,280
+1710,azure,eastus,USA,Blue Ridge,367.8,A100 PCIe 40/80GB,250
+1711,azure,eastus,USA,Blue Ridge,367.8,A100 SXM4 80 GB,400
+1712,azure,eastus,USA,Blue Ridge,367.8,AGX Xavier,30
+1713,azure,eastus,USA,Blue Ridge,367.8,AMD RX480,150
+1714,azure,eastus,USA,Blue Ridge,367.8,GTX 1080 Ti,250
+1715,azure,eastus,USA,Blue Ridge,367.8,GTX 1080,180
+1716,azure,eastus,USA,Blue Ridge,367.8,GTX 750,250
+1717,azure,eastus,USA,Blue Ridge,367.8,GTX TITAN X,250
+1718,azure,eastus,USA,Blue Ridge,367.8,Quadro K6000,225
+1719,azure,eastus,USA,Blue Ridge,367.8,Quadro P6000,250
+1720,azure,eastus,USA,Blue Ridge,367.8,RTX 2080 Ti,250
+1721,azure,eastus,USA,Blue Ridge,367.8,RTX 2080,215
+1722,azure,eastus,USA,Blue Ridge,367.8,RTX 8000,260
+1723,azure,eastus,USA,Blue Ridge,367.8,T4,70
+1724,azure,eastus,USA,Blue Ridge,367.8,Tesla K40c,245
+1725,azure,eastus,USA,Blue Ridge,367.8,Tesla K80,300
+1726,azure,eastus,USA,Blue Ridge,367.8,Tesla M40 24GB,250
+1727,azure,eastus,USA,Blue Ridge,367.8,Tesla P100,250
+1728,azure,eastus,USA,Blue Ridge,367.8,Tesla P40,250
+1729,azure,eastus,USA,Blue Ridge,367.8,Tesla V100-PCIE-16GB,300
+1730,azure,eastus,USA,Blue Ridge,367.8,Tesla V100-SXM2-16GB,250
+1731,azure,eastus,USA,Blue Ridge,367.8,Tesla V100-SXM2-32GB,300
+1732,azure,eastus,USA,Blue Ridge,367.8,Titan RTX,280
+1733,azure,eastus,USA,Blue Ridge,367.8,Titan V,250
+1734,azure,eastus,USA,Blue Ridge,367.8,TITAN X Pascal,250
+1735,azure,eastus,USA,Blue Ridge,367.8,Titan Xp,250
+1736,azure,eastus,USA,Blue Ridge,367.8,TPUv2 Chip,221
+1737,azure,eastus,USA,Blue Ridge,367.8,TPUv3 Chip,283
+1738,azure,eastus,USA,Blue Ridge,367.8,RTX 3080,320
+1739,azure,eastus,USA,Blue Ridge,367.8,RTX 3080 TI,350
+1740,azure,eastus,USA,Blue Ridge,367.8,RTX 3090,350
+1741,azure,eastus,USA,Blue Ridge,367.8,RTX A6000,300
+1742,azure,eastus,USA,Blue Ridge,367.8,Intel Xeon E5-2699,145
+1743,azure,eastus,USA,Blue Ridge,367.8,Intel Xeon E5-2630v4,85
+1744,azure,eastus,USA,Blue Ridge,367.8,Intel Xeon E5-2650,105
+1745,azure,eastus,USA,Blue Ridge,367.8,Intel Xeon Gold 5220,125
+1746,azure,eastus,USA,Blue Ridge,367.8,Intel Xeon Gold 6148,150
+1747,azure,eastus,USA,Blue Ridge,367.8,AMD EPYC 7763,280
+1748,azure,eastus2,USA,Boydton,367.8,A100 PCIe 40/80GB,250
+1749,azure,eastus2,USA,Boydton,367.8,A100 SXM4 80 GB,400
+1750,azure,eastus2,USA,Boydton,367.8,AGX Xavier,30
+1751,azure,eastus2,USA,Boydton,367.8,AMD RX480,150
+1752,azure,eastus2,USA,Boydton,367.8,GTX 1080 Ti,250
+1753,azure,eastus2,USA,Boydton,367.8,GTX 1080,180
+1754,azure,eastus2,USA,Boydton,367.8,GTX 750,250
+1755,azure,eastus2,USA,Boydton,367.8,GTX TITAN X,250
+1756,azure,eastus2,USA,Boydton,367.8,Quadro K6000,225
+1757,azure,eastus2,USA,Boydton,367.8,Quadro P6000,250
+1758,azure,eastus2,USA,Boydton,367.8,RTX 2080 Ti,250
+1759,azure,eastus2,USA,Boydton,367.8,RTX 2080,215
+1760,azure,eastus2,USA,Boydton,367.8,RTX 8000,260
+1761,azure,eastus2,USA,Boydton,367.8,T4,70
+1762,azure,eastus2,USA,Boydton,367.8,Tesla K40c,245
+1763,azure,eastus2,USA,Boydton,367.8,Tesla K80,300
+1764,azure,eastus2,USA,Boydton,367.8,Tesla M40 24GB,250
+1765,azure,eastus2,USA,Boydton,367.8,Tesla P100,250
+1766,azure,eastus2,USA,Boydton,367.8,Tesla P40,250
+1767,azure,eastus2,USA,Boydton,367.8,Tesla V100-PCIE-16GB,300
+1768,azure,eastus2,USA,Boydton,367.8,Tesla V100-SXM2-16GB,250
+1769,azure,eastus2,USA,Boydton,367.8,Tesla V100-SXM2-32GB,300
+1770,azure,eastus2,USA,Boydton,367.8,Titan RTX,280
+1771,azure,eastus2,USA,Boydton,367.8,Titan V,250
+1772,azure,eastus2,USA,Boydton,367.8,TITAN X Pascal,250
+1773,azure,eastus2,USA,Boydton,367.8,Titan Xp,250
+1774,azure,eastus2,USA,Boydton,367.8,TPUv2 Chip,221
+1775,azure,eastus2,USA,Boydton,367.8,TPUv3 Chip,283
+1776,azure,eastus2,USA,Boydton,367.8,RTX 3080,320
+1777,azure,eastus2,USA,Boydton,367.8,RTX 3080 TI,350
+1778,azure,eastus2,USA,Boydton,367.8,RTX 3090,350
+1779,azure,eastus2,USA,Boydton,367.8,RTX A6000,300
+1780,azure,eastus2,USA,Boydton,367.8,Intel Xeon E5-2699,145
+1781,azure,eastus2,USA,Boydton,367.8,Intel Xeon E5-2630v4,85
+1782,azure,eastus2,USA,Boydton,367.8,Intel Xeon E5-2650,105
+1783,azure,eastus2,USA,Boydton,367.8,Intel Xeon Gold 5220,125
+1784,azure,eastus2,USA,Boydton,367.8,Intel Xeon Gold 6148,150
+1785,azure,eastus2,USA,Boydton,367.8,AMD EPYC 7763,280
+1786,azure,westus,USA,San Francisco,240.6,A100 PCIe 40/80GB,250
+1787,azure,westus,USA,San Francisco,240.6,A100 SXM4 80 GB,400
+1788,azure,westus,USA,San Francisco,240.6,AGX Xavier,30
+1789,azure,westus,USA,San Francisco,240.6,AMD RX480,150
+1790,azure,westus,USA,San Francisco,240.6,GTX 1080 Ti,250
+1791,azure,westus,USA,San Francisco,240.6,GTX 1080,180
+1792,azure,westus,USA,San Francisco,240.6,GTX 750,250
+1793,azure,westus,USA,San Francisco,240.6,GTX TITAN X,250
+1794,azure,westus,USA,San Francisco,240.6,Quadro K6000,225
+1795,azure,westus,USA,San Francisco,240.6,Quadro P6000,250
+1796,azure,westus,USA,San Francisco,240.6,RTX 2080 Ti,250
+1797,azure,westus,USA,San Francisco,240.6,RTX 2080,215
+1798,azure,westus,USA,San Francisco,240.6,RTX 8000,260
+1799,azure,westus,USA,San Francisco,240.6,T4,70
+1800,azure,westus,USA,San Francisco,240.6,Tesla K40c,245
+1801,azure,westus,USA,San Francisco,240.6,Tesla K80,300
+1802,azure,westus,USA,San Francisco,240.6,Tesla M40 24GB,250
+1803,azure,westus,USA,San Francisco,240.6,Tesla P100,250
+1804,azure,westus,USA,San Francisco,240.6,Tesla P40,250
+1805,azure,westus,USA,San Francisco,240.6,Tesla V100-PCIE-16GB,300
+1806,azure,westus,USA,San Francisco,240.6,Tesla V100-SXM2-16GB,250
+1807,azure,westus,USA,San Francisco,240.6,Tesla V100-SXM2-32GB,300
+1808,azure,westus,USA,San Francisco,240.6,Titan RTX,280
+1809,azure,westus,USA,San Francisco,240.6,Titan V,250
+1810,azure,westus,USA,San Francisco,240.6,TITAN X Pascal,250
+1811,azure,westus,USA,San Francisco,240.6,Titan Xp,250
+1812,azure,westus,USA,San Francisco,240.6,TPUv2 Chip,221
+1813,azure,westus,USA,San Francisco,240.6,TPUv3 Chip,283
+1814,azure,westus,USA,San Francisco,240.6,RTX 3080,320
+1815,azure,westus,USA,San Francisco,240.6,RTX 3080 TI,350
+1816,azure,westus,USA,San Francisco,240.6,RTX 3090,350
+1817,azure,westus,USA,San Francisco,240.6,RTX A6000,300
+1818,azure,westus,USA,San Francisco,240.6,Intel Xeon E5-2699,145
+1819,azure,westus,USA,San Francisco,240.6,Intel Xeon E5-2630v4,85
+1820,azure,westus,USA,San Francisco,240.6,Intel Xeon E5-2650,105
+1821,azure,westus,USA,San Francisco,240.6,Intel Xeon Gold 5220,125
+1822,azure,westus,USA,San Francisco,240.6,Intel Xeon Gold 6148,150
+1823,azure,westus,USA,San Francisco,240.6,AMD EPYC 7763,280
+1824,azure,northcentralus,USA,Chicago,568.2,A100 PCIe 40/80GB,250
+1825,azure,northcentralus,USA,Chicago,568.2,A100 SXM4 80 GB,400
+1826,azure,northcentralus,USA,Chicago,568.2,AGX Xavier,30
+1827,azure,northcentralus,USA,Chicago,568.2,AMD RX480,150
+1828,azure,northcentralus,USA,Chicago,568.2,GTX 1080 Ti,250
+1829,azure,northcentralus,USA,Chicago,568.2,GTX 1080,180
+1830,azure,northcentralus,USA,Chicago,568.2,GTX 750,250
+1831,azure,northcentralus,USA,Chicago,568.2,GTX TITAN X,250
+1832,azure,northcentralus,USA,Chicago,568.2,Quadro K6000,225
+1833,azure,northcentralus,USA,Chicago,568.2,Quadro P6000,250
+1834,azure,northcentralus,USA,Chicago,568.2,RTX 2080 Ti,250
+1835,azure,northcentralus,USA,Chicago,568.2,RTX 2080,215
+1836,azure,northcentralus,USA,Chicago,568.2,RTX 8000,260
+1837,azure,northcentralus,USA,Chicago,568.2,T4,70
+1838,azure,northcentralus,USA,Chicago,568.2,Tesla K40c,245
+1839,azure,northcentralus,USA,Chicago,568.2,Tesla K80,300
+1840,azure,northcentralus,USA,Chicago,568.2,Tesla M40 24GB,250
+1841,azure,northcentralus,USA,Chicago,568.2,Tesla P100,250
+1842,azure,northcentralus,USA,Chicago,568.2,Tesla P40,250
+1843,azure,northcentralus,USA,Chicago,568.2,Tesla V100-PCIE-16GB,300
+1844,azure,northcentralus,USA,Chicago,568.2,Tesla V100-SXM2-16GB,250
+1845,azure,northcentralus,USA,Chicago,568.2,Tesla V100-SXM2-32GB,300
+1846,azure,northcentralus,USA,Chicago,568.2,Titan RTX,280
+1847,azure,northcentralus,USA,Chicago,568.2,Titan V,250
+1848,azure,northcentralus,USA,Chicago,568.2,TITAN X Pascal,250
+1849,azure,northcentralus,USA,Chicago,568.2,Titan Xp,250
+1850,azure,northcentralus,USA,Chicago,568.2,TPUv2 Chip,221
+1851,azure,northcentralus,USA,Chicago,568.2,TPUv3 Chip,283
+1852,azure,northcentralus,USA,Chicago,568.2,RTX 3080,320
+1853,azure,northcentralus,USA,Chicago,568.2,RTX 3080 TI,350
+1854,azure,northcentralus,USA,Chicago,568.2,RTX 3090,350
+1855,azure,northcentralus,USA,Chicago,568.2,RTX A6000,300
+1856,azure,northcentralus,USA,Chicago,568.2,Intel Xeon E5-2699,145
+1857,azure,northcentralus,USA,Chicago,568.2,Intel Xeon E5-2630v4,85
+1858,azure,northcentralus,USA,Chicago,568.2,Intel Xeon E5-2650,105
+1859,azure,northcentralus,USA,Chicago,568.2,Intel Xeon Gold 5220,125
+1860,azure,northcentralus,USA,Chicago,568.2,Intel Xeon Gold 6148,150
+1861,azure,northcentralus,USA,Chicago,568.2,AMD EPYC 7763,280
+1862,azure,southcentralus,USA,San Antonio,460.4,A100 PCIe 40/80GB,250
+1863,azure,southcentralus,USA,San Antonio,460.4,A100 SXM4 80 GB,400
+1864,azure,southcentralus,USA,San Antonio,460.4,AGX Xavier,30
+1865,azure,southcentralus,USA,San Antonio,460.4,AMD RX480,150
+1866,azure,southcentralus,USA,San Antonio,460.4,GTX 1080 Ti,250
+1867,azure,southcentralus,USA,San Antonio,460.4,GTX 1080,180
+1868,azure,southcentralus,USA,San Antonio,460.4,GTX 750,250
+1869,azure,southcentralus,USA,San Antonio,460.4,GTX TITAN X,250
+1870,azure,southcentralus,USA,San Antonio,460.4,Quadro K6000,225
+1871,azure,southcentralus,USA,San Antonio,460.4,Quadro P6000,250
+1872,azure,southcentralus,USA,San Antonio,460.4,RTX 2080 Ti,250
+1873,azure,southcentralus,USA,San Antonio,460.4,RTX 2080,215
+1874,azure,southcentralus,USA,San Antonio,460.4,RTX 8000,260
+1875,azure,southcentralus,USA,San Antonio,460.4,T4,70
+1876,azure,southcentralus,USA,San Antonio,460.4,Tesla K40c,245
+1877,azure,southcentralus,USA,San Antonio,460.4,Tesla K80,300
+1878,azure,southcentralus,USA,San Antonio,460.4,Tesla M40 24GB,250
+1879,azure,southcentralus,USA,San Antonio,460.4,Tesla P100,250
+1880,azure,southcentralus,USA,San Antonio,460.4,Tesla P40,250
+1881,azure,southcentralus,USA,San Antonio,460.4,Tesla V100-PCIE-16GB,300
+1882,azure,southcentralus,USA,San Antonio,460.4,Tesla V100-SXM2-16GB,250
+1883,azure,southcentralus,USA,San Antonio,460.4,Tesla V100-SXM2-32GB,300
+1884,azure,southcentralus,USA,San Antonio,460.4,Titan RTX,280
+1885,azure,southcentralus,USA,San Antonio,460.4,Titan V,250
+1886,azure,southcentralus,USA,San Antonio,460.4,TITAN X Pascal,250
+1887,azure,southcentralus,USA,San Antonio,460.4,Titan Xp,250
+1888,azure,southcentralus,USA,San Antonio,460.4,TPUv2 Chip,221
+1889,azure,southcentralus,USA,San Antonio,460.4,TPUv3 Chip,283
+1890,azure,southcentralus,USA,San Antonio,460.4,RTX 3080,320
+1891,azure,southcentralus,USA,San Antonio,460.4,RTX 3080 TI,350
+1892,azure,southcentralus,USA,San Antonio,460.4,RTX 3090,350
+1893,azure,southcentralus,USA,San Antonio,460.4,RTX A6000,300
+1894,azure,southcentralus,USA,San Antonio,460.4,Intel Xeon E5-2699,145
+1895,azure,southcentralus,USA,San Antonio,460.4,Intel Xeon E5-2630v4,85
+1896,azure,southcentralus,USA,San Antonio,460.4,Intel Xeon E5-2650,105
+1897,azure,southcentralus,USA,San Antonio,460.4,Intel Xeon Gold 5220,125
+1898,azure,southcentralus,USA,San Antonio,460.4,Intel Xeon Gold 6148,150
+1899,azure,southcentralus,USA,San Antonio,460.4,AMD EPYC 7763,280
+1900,azure,northeurope,Ireland,Dublin,617.0,A100 PCIe 40/80GB,250
+1901,azure,northeurope,Ireland,Dublin,617.0,A100 SXM4 80 GB,400
+1902,azure,northeurope,Ireland,Dublin,617.0,AGX Xavier,30
+1903,azure,northeurope,Ireland,Dublin,617.0,AMD RX480,150
+1904,azure,northeurope,Ireland,Dublin,617.0,GTX 1080 Ti,250
+1905,azure,northeurope,Ireland,Dublin,617.0,GTX 1080,180
+1906,azure,northeurope,Ireland,Dublin,617.0,GTX 750,250
+1907,azure,northeurope,Ireland,Dublin,617.0,GTX TITAN X,250
+1908,azure,northeurope,Ireland,Dublin,617.0,Quadro K6000,225
+1909,azure,northeurope,Ireland,Dublin,617.0,Quadro P6000,250
+1910,azure,northeurope,Ireland,Dublin,617.0,RTX 2080 Ti,250
+1911,azure,northeurope,Ireland,Dublin,617.0,RTX 2080,215
+1912,azure,northeurope,Ireland,Dublin,617.0,RTX 8000,260
+1913,azure,northeurope,Ireland,Dublin,617.0,T4,70
+1914,azure,northeurope,Ireland,Dublin,617.0,Tesla K40c,245
+1915,azure,northeurope,Ireland,Dublin,617.0,Tesla K80,300
+1916,azure,northeurope,Ireland,Dublin,617.0,Tesla M40 24GB,250
+1917,azure,northeurope,Ireland,Dublin,617.0,Tesla P100,250
+1918,azure,northeurope,Ireland,Dublin,617.0,Tesla P40,250
+1919,azure,northeurope,Ireland,Dublin,617.0,Tesla V100-PCIE-16GB,300
+1920,azure,northeurope,Ireland,Dublin,617.0,Tesla V100-SXM2-16GB,250
+1921,azure,northeurope,Ireland,Dublin,617.0,Tesla V100-SXM2-32GB,300
+1922,azure,northeurope,Ireland,Dublin,617.0,Titan RTX,280
+1923,azure,northeurope,Ireland,Dublin,617.0,Titan V,250
+1924,azure,northeurope,Ireland,Dublin,617.0,TITAN X Pascal,250
+1925,azure,northeurope,Ireland,Dublin,617.0,Titan Xp,250
+1926,azure,northeurope,Ireland,Dublin,617.0,TPUv2 Chip,221
+1927,azure,northeurope,Ireland,Dublin,617.0,TPUv3 Chip,283
+1928,azure,northeurope,Ireland,Dublin,617.0,RTX 3080,320
+1929,azure,northeurope,Ireland,Dublin,617.0,RTX 3080 TI,350
+1930,azure,northeurope,Ireland,Dublin,617.0,RTX 3090,350
+1931,azure,northeurope,Ireland,Dublin,617.0,RTX A6000,300
+1932,azure,northeurope,Ireland,Dublin,617.0,Intel Xeon E5-2699,145
+1933,azure,northeurope,Ireland,Dublin,617.0,Intel Xeon E5-2630v4,85
+1934,azure,northeurope,Ireland,Dublin,617.0,Intel Xeon E5-2650,105
+1935,azure,northeurope,Ireland,Dublin,617.0,Intel Xeon Gold 5220,125
+1936,azure,northeurope,Ireland,Dublin,617.0,Intel Xeon Gold 6148,150
+1937,azure,northeurope,Ireland,Dublin,617.0,AMD EPYC 7763,280
+1938,azure,westeurope,Netherlands,Amsterdam,569.0,A100 PCIe 40/80GB,250
+1939,azure,westeurope,Netherlands,Amsterdam,569.0,A100 SXM4 80 GB,400
+1940,azure,westeurope,Netherlands,Amsterdam,569.0,AGX Xavier,30
+1941,azure,westeurope,Netherlands,Amsterdam,569.0,AMD RX480,150
+1942,azure,westeurope,Netherlands,Amsterdam,569.0,GTX 1080 Ti,250
+1943,azure,westeurope,Netherlands,Amsterdam,569.0,GTX 1080,180
+1944,azure,westeurope,Netherlands,Amsterdam,569.0,GTX 750,250
+1945,azure,westeurope,Netherlands,Amsterdam,569.0,GTX TITAN X,250
+1946,azure,westeurope,Netherlands,Amsterdam,569.0,Quadro K6000,225
+1947,azure,westeurope,Netherlands,Amsterdam,569.0,Quadro P6000,250
+1948,azure,westeurope,Netherlands,Amsterdam,569.0,RTX 2080 Ti,250
+1949,azure,westeurope,Netherlands,Amsterdam,569.0,RTX 2080,215
+1950,azure,westeurope,Netherlands,Amsterdam,569.0,RTX 8000,260
+1951,azure,westeurope,Netherlands,Amsterdam,569.0,T4,70
+1952,azure,westeurope,Netherlands,Amsterdam,569.0,Tesla K40c,245
+1953,azure,westeurope,Netherlands,Amsterdam,569.0,Tesla K80,300
+1954,azure,westeurope,Netherlands,Amsterdam,569.0,Tesla M40 24GB,250
+1955,azure,westeurope,Netherlands,Amsterdam,569.0,Tesla P100,250
+1956,azure,westeurope,Netherlands,Amsterdam,569.0,Tesla P40,250
+1957,azure,westeurope,Netherlands,Amsterdam,569.0,Tesla V100-PCIE-16GB,300
+1958,azure,westeurope,Netherlands,Amsterdam,569.0,Tesla V100-SXM2-16GB,250
+1959,azure,westeurope,Netherlands,Amsterdam,569.0,Tesla V100-SXM2-32GB,300
+1960,azure,westeurope,Netherlands,Amsterdam,569.0,Titan RTX,280
+1961,azure,westeurope,Netherlands,Amsterdam,569.0,Titan V,250
+1962,azure,westeurope,Netherlands,Amsterdam,569.0,TITAN X Pascal,250
+1963,azure,westeurope,Netherlands,Amsterdam,569.0,Titan Xp,250
+1964,azure,westeurope,Netherlands,Amsterdam,569.0,TPUv2 Chip,221
+1965,azure,westeurope,Netherlands,Amsterdam,569.0,TPUv3 Chip,283
+1966,azure,westeurope,Netherlands,Amsterdam,569.0,RTX 3080,320
+1967,azure,westeurope,Netherlands,Amsterdam,569.0,RTX 3080 TI,350
+1968,azure,westeurope,Netherlands,Amsterdam,569.0,RTX 3090,350
+1969,azure,westeurope,Netherlands,Amsterdam,569.0,RTX A6000,300
+1970,azure,westeurope,Netherlands,Amsterdam,569.0,Intel Xeon E5-2699,145
+1971,azure,westeurope,Netherlands,Amsterdam,569.0,Intel Xeon E5-2630v4,85
+1972,azure,westeurope,Netherlands,Amsterdam,569.0,Intel Xeon E5-2650,105
+1973,azure,westeurope,Netherlands,Amsterdam,569.0,Intel Xeon Gold 5220,125
+1974,azure,westeurope,Netherlands,Amsterdam,569.0,Intel Xeon Gold 6148,150
+1975,azure,westeurope,Netherlands,Amsterdam,569.0,AMD EPYC 7763,280
+1976,azure,japanwest,Japan,Osaka-shi,516.0,A100 PCIe 40/80GB,250
+1977,azure,japanwest,Japan,Osaka-shi,516.0,A100 SXM4 80 GB,400
+1978,azure,japanwest,Japan,Osaka-shi,516.0,AGX Xavier,30
+1979,azure,japanwest,Japan,Osaka-shi,516.0,AMD RX480,150
+1980,azure,japanwest,Japan,Osaka-shi,516.0,GTX 1080 Ti,250
+1981,azure,japanwest,Japan,Osaka-shi,516.0,GTX 1080,180
+1982,azure,japanwest,Japan,Osaka-shi,516.0,GTX 750,250
+1983,azure,japanwest,Japan,Osaka-shi,516.0,GTX TITAN X,250
+1984,azure,japanwest,Japan,Osaka-shi,516.0,Quadro K6000,225
+1985,azure,japanwest,Japan,Osaka-shi,516.0,Quadro P6000,250
+1986,azure,japanwest,Japan,Osaka-shi,516.0,RTX 2080 Ti,250
+1987,azure,japanwest,Japan,Osaka-shi,516.0,RTX 2080,215
+1988,azure,japanwest,Japan,Osaka-shi,516.0,RTX 8000,260
+1989,azure,japanwest,Japan,Osaka-shi,516.0,T4,70
+1990,azure,japanwest,Japan,Osaka-shi,516.0,Tesla K40c,245
+1991,azure,japanwest,Japan,Osaka-shi,516.0,Tesla K80,300
+1992,azure,japanwest,Japan,Osaka-shi,516.0,Tesla M40 24GB,250
+1993,azure,japanwest,Japan,Osaka-shi,516.0,Tesla P100,250
+1994,azure,japanwest,Japan,Osaka-shi,516.0,Tesla P40,250
+1995,azure,japanwest,Japan,Osaka-shi,516.0,Tesla V100-PCIE-16GB,300
+1996,azure,japanwest,Japan,Osaka-shi,516.0,Tesla V100-SXM2-16GB,250
+1997,azure,japanwest,Japan,Osaka-shi,516.0,Tesla V100-SXM2-32GB,300
+1998,azure,japanwest,Japan,Osaka-shi,516.0,Titan RTX,280
+1999,azure,japanwest,Japan,Osaka-shi,516.0,Titan V,250
+2000,azure,japanwest,Japan,Osaka-shi,516.0,TITAN X Pascal,250
+2001,azure,japanwest,Japan,Osaka-shi,516.0,Titan Xp,250
+2002,azure,japanwest,Japan,Osaka-shi,516.0,TPUv2 Chip,221
+2003,azure,japanwest,Japan,Osaka-shi,516.0,TPUv3 Chip,283
+2004,azure,japanwest,Japan,Osaka-shi,516.0,RTX 3080,320
+2005,azure,japanwest,Japan,Osaka-shi,516.0,RTX 3080 TI,350
+2006,azure,japanwest,Japan,Osaka-shi,516.0,RTX 3090,350
+2007,azure,japanwest,Japan,Osaka-shi,516.0,RTX A6000,300
+2008,azure,japanwest,Japan,Osaka-shi,516.0,Intel Xeon E5-2699,145
+2009,azure,japanwest,Japan,Osaka-shi,516.0,Intel Xeon E5-2630v4,85
+2010,azure,japanwest,Japan,Osaka-shi,516.0,Intel Xeon E5-2650,105
+2011,azure,japanwest,Japan,Osaka-shi,516.0,Intel Xeon Gold 5220,125
+2012,azure,japanwest,Japan,Osaka-shi,516.0,Intel Xeon Gold 6148,150
+2013,azure,japanwest,Japan,Osaka-shi,516.0,AMD EPYC 7763,280
+2014,azure,japaneast,Japan,Tokyo,516.0,A100 PCIe 40/80GB,250
+2015,azure,japaneast,Japan,Tokyo,516.0,A100 SXM4 80 GB,400
+2016,azure,japaneast,Japan,Tokyo,516.0,AGX Xavier,30
+2017,azure,japaneast,Japan,Tokyo,516.0,AMD RX480,150
+2018,azure,japaneast,Japan,Tokyo,516.0,GTX 1080 Ti,250
+2019,azure,japaneast,Japan,Tokyo,516.0,GTX 1080,180
+2020,azure,japaneast,Japan,Tokyo,516.0,GTX 750,250
+2021,azure,japaneast,Japan,Tokyo,516.0,GTX TITAN X,250
+2022,azure,japaneast,Japan,Tokyo,516.0,Quadro K6000,225
+2023,azure,japaneast,Japan,Tokyo,516.0,Quadro P6000,250
+2024,azure,japaneast,Japan,Tokyo,516.0,RTX 2080 Ti,250
+2025,azure,japaneast,Japan,Tokyo,516.0,RTX 2080,215
+2026,azure,japaneast,Japan,Tokyo,516.0,RTX 8000,260
+2027,azure,japaneast,Japan,Tokyo,516.0,T4,70
+2028,azure,japaneast,Japan,Tokyo,516.0,Tesla K40c,245
+2029,azure,japaneast,Japan,Tokyo,516.0,Tesla K80,300
+2030,azure,japaneast,Japan,Tokyo,516.0,Tesla M40 24GB,250
+2031,azure,japaneast,Japan,Tokyo,516.0,Tesla P100,250
+2032,azure,japaneast,Japan,Tokyo,516.0,Tesla P40,250
+2033,azure,japaneast,Japan,Tokyo,516.0,Tesla V100-PCIE-16GB,300
+2034,azure,japaneast,Japan,Tokyo,516.0,Tesla V100-SXM2-16GB,250
+2035,azure,japaneast,Japan,Tokyo,516.0,Tesla V100-SXM2-32GB,300
+2036,azure,japaneast,Japan,Tokyo,516.0,Titan RTX,280
+2037,azure,japaneast,Japan,Tokyo,516.0,Titan V,250
+2038,azure,japaneast,Japan,Tokyo,516.0,TITAN X Pascal,250
+2039,azure,japaneast,Japan,Tokyo,516.0,Titan Xp,250
+2040,azure,japaneast,Japan,Tokyo,516.0,TPUv2 Chip,221
+2041,azure,japaneast,Japan,Tokyo,516.0,TPUv3 Chip,283
+2042,azure,japaneast,Japan,Tokyo,516.0,RTX 3080,320
+2043,azure,japaneast,Japan,Tokyo,516.0,RTX 3080 TI,350
+2044,azure,japaneast,Japan,Tokyo,516.0,RTX 3090,350
+2045,azure,japaneast,Japan,Tokyo,516.0,RTX A6000,300
+2046,azure,japaneast,Japan,Tokyo,516.0,Intel Xeon E5-2699,145
+2047,azure,japaneast,Japan,Tokyo,516.0,Intel Xeon E5-2630v4,85
+2048,azure,japaneast,Japan,Tokyo,516.0,Intel Xeon E5-2650,105
+2049,azure,japaneast,Japan,Tokyo,516.0,Intel Xeon Gold 5220,125
+2050,azure,japaneast,Japan,Tokyo,516.0,Intel Xeon Gold 6148,150
+2051,azure,japaneast,Japan,Tokyo,516.0,AMD EPYC 7763,280
+2052,azure,brazilsouth,Brazil,Sao Paulo,205.0,A100 PCIe 40/80GB,250
+2053,azure,brazilsouth,Brazil,Sao Paulo,205.0,A100 SXM4 80 GB,400
+2054,azure,brazilsouth,Brazil,Sao Paulo,205.0,AGX Xavier,30
+2055,azure,brazilsouth,Brazil,Sao Paulo,205.0,AMD RX480,150
+2056,azure,brazilsouth,Brazil,Sao Paulo,205.0,GTX 1080 Ti,250
+2057,azure,brazilsouth,Brazil,Sao Paulo,205.0,GTX 1080,180
+2058,azure,brazilsouth,Brazil,Sao Paulo,205.0,GTX 750,250
+2059,azure,brazilsouth,Brazil,Sao Paulo,205.0,GTX TITAN X,250
+2060,azure,brazilsouth,Brazil,Sao Paulo,205.0,Quadro K6000,225
+2061,azure,brazilsouth,Brazil,Sao Paulo,205.0,Quadro P6000,250
+2062,azure,brazilsouth,Brazil,Sao Paulo,205.0,RTX 2080 Ti,250
+2063,azure,brazilsouth,Brazil,Sao Paulo,205.0,RTX 2080,215
+2064,azure,brazilsouth,Brazil,Sao Paulo,205.0,RTX 8000,260
+2065,azure,brazilsouth,Brazil,Sao Paulo,205.0,T4,70
+2066,azure,brazilsouth,Brazil,Sao Paulo,205.0,Tesla K40c,245
+2067,azure,brazilsouth,Brazil,Sao Paulo,205.0,Tesla K80,300
+2068,azure,brazilsouth,Brazil,Sao Paulo,205.0,Tesla M40 24GB,250
+2069,azure,brazilsouth,Brazil,Sao Paulo,205.0,Tesla P100,250
+2070,azure,brazilsouth,Brazil,Sao Paulo,205.0,Tesla P40,250
+2071,azure,brazilsouth,Brazil,Sao Paulo,205.0,Tesla V100-PCIE-16GB,300
+2072,azure,brazilsouth,Brazil,Sao Paulo,205.0,Tesla V100-SXM2-16GB,250
+2073,azure,brazilsouth,Brazil,Sao Paulo,205.0,Tesla V100-SXM2-32GB,300
+2074,azure,brazilsouth,Brazil,Sao Paulo,205.0,Titan RTX,280
+2075,azure,brazilsouth,Brazil,Sao Paulo,205.0,Titan V,250
+2076,azure,brazilsouth,Brazil,Sao Paulo,205.0,TITAN X Pascal,250
+2077,azure,brazilsouth,Brazil,Sao Paulo,205.0,Titan Xp,250
+2078,azure,brazilsouth,Brazil,Sao Paulo,205.0,TPUv2 Chip,221
+2079,azure,brazilsouth,Brazil,Sao Paulo,205.0,TPUv3 Chip,283
+2080,azure,brazilsouth,Brazil,Sao Paulo,205.0,RTX 3080,320
+2081,azure,brazilsouth,Brazil,Sao Paulo,205.0,RTX 3080 TI,350
+2082,azure,brazilsouth,Brazil,Sao Paulo,205.0,RTX 3090,350
+2083,azure,brazilsouth,Brazil,Sao Paulo,205.0,RTX A6000,300
+2084,azure,brazilsouth,Brazil,Sao Paulo,205.0,Intel Xeon E5-2699,145
+2085,azure,brazilsouth,Brazil,Sao Paulo,205.0,Intel Xeon E5-2630v4,85
+2086,azure,brazilsouth,Brazil,Sao Paulo,205.0,Intel Xeon E5-2650,105
+2087,azure,brazilsouth,Brazil,Sao Paulo,205.0,Intel Xeon Gold 5220,125
+2088,azure,brazilsouth,Brazil,Sao Paulo,205.0,Intel Xeon Gold 6148,150
+2089,azure,brazilsouth,Brazil,Sao Paulo,205.0,AMD EPYC 7763,280
+2090,azure,australiaeast,Australia,Sydney,802.0,A100 PCIe 40/80GB,250
+2091,azure,australiaeast,Australia,Sydney,802.0,A100 SXM4 80 GB,400
+2092,azure,australiaeast,Australia,Sydney,802.0,AGX Xavier,30
+2093,azure,australiaeast,Australia,Sydney,802.0,AMD RX480,150
+2094,azure,australiaeast,Australia,Sydney,802.0,GTX 1080 Ti,250
+2095,azure,australiaeast,Australia,Sydney,802.0,GTX 1080,180
+2096,azure,australiaeast,Australia,Sydney,802.0,GTX 750,250
+2097,azure,australiaeast,Australia,Sydney,802.0,GTX TITAN X,250
+2098,azure,australiaeast,Australia,Sydney,802.0,Quadro K6000,225
+2099,azure,australiaeast,Australia,Sydney,802.0,Quadro P6000,250
+2100,azure,australiaeast,Australia,Sydney,802.0,RTX 2080 Ti,250
+2101,azure,australiaeast,Australia,Sydney,802.0,RTX 2080,215
+2102,azure,australiaeast,Australia,Sydney,802.0,RTX 8000,260
+2103,azure,australiaeast,Australia,Sydney,802.0,T4,70
+2104,azure,australiaeast,Australia,Sydney,802.0,Tesla K40c,245
+2105,azure,australiaeast,Australia,Sydney,802.0,Tesla K80,300
+2106,azure,australiaeast,Australia,Sydney,802.0,Tesla M40 24GB,250
+2107,azure,australiaeast,Australia,Sydney,802.0,Tesla P100,250
+2108,azure,australiaeast,Australia,Sydney,802.0,Tesla P40,250
+2109,azure,australiaeast,Australia,Sydney,802.0,Tesla V100-PCIE-16GB,300
+2110,azure,australiaeast,Australia,Sydney,802.0,Tesla V100-SXM2-16GB,250
+2111,azure,australiaeast,Australia,Sydney,802.0,Tesla V100-SXM2-32GB,300
+2112,azure,australiaeast,Australia,Sydney,802.0,Titan RTX,280
+2113,azure,australiaeast,Australia,Sydney,802.0,Titan V,250
+2114,azure,australiaeast,Australia,Sydney,802.0,TITAN X Pascal,250
+2115,azure,australiaeast,Australia,Sydney,802.0,Titan Xp,250
+2116,azure,australiaeast,Australia,Sydney,802.0,TPUv2 Chip,221
+2117,azure,australiaeast,Australia,Sydney,802.0,TPUv3 Chip,283
+2118,azure,australiaeast,Australia,Sydney,802.0,RTX 3080,320
+2119,azure,australiaeast,Australia,Sydney,802.0,RTX 3080 TI,350
+2120,azure,australiaeast,Australia,Sydney,802.0,RTX 3090,350
+2121,azure,australiaeast,Australia,Sydney,802.0,RTX A6000,300
+2122,azure,australiaeast,Australia,Sydney,802.0,Intel Xeon E5-2699,145
+2123,azure,australiaeast,Australia,Sydney,802.0,Intel Xeon E5-2630v4,85
+2124,azure,australiaeast,Australia,Sydney,802.0,Intel Xeon E5-2650,105
+2125,azure,australiaeast,Australia,Sydney,802.0,Intel Xeon Gold 5220,125
+2126,azure,australiaeast,Australia,Sydney,802.0,Intel Xeon Gold 6148,150
+2127,azure,australiaeast,Australia,Sydney,802.0,AMD EPYC 7763,280
+2128,azure,australiasoutheast,Australia,Melbourne,805.0,A100 PCIe 40/80GB,250
+2129,azure,australiasoutheast,Australia,Melbourne,805.0,A100 SXM4 80 GB,400
+2130,azure,australiasoutheast,Australia,Melbourne,805.0,AGX Xavier,30
+2131,azure,australiasoutheast,Australia,Melbourne,805.0,AMD RX480,150
+2132,azure,australiasoutheast,Australia,Melbourne,805.0,GTX 1080 Ti,250
+2133,azure,australiasoutheast,Australia,Melbourne,805.0,GTX 1080,180
+2134,azure,australiasoutheast,Australia,Melbourne,805.0,GTX 750,250
+2135,azure,australiasoutheast,Australia,Melbourne,805.0,GTX TITAN X,250
+2136,azure,australiasoutheast,Australia,Melbourne,805.0,Quadro K6000,225
+2137,azure,australiasoutheast,Australia,Melbourne,805.0,Quadro P6000,250
+2138,azure,australiasoutheast,Australia,Melbourne,805.0,RTX 2080 Ti,250
+2139,azure,australiasoutheast,Australia,Melbourne,805.0,RTX 2080,215
+2140,azure,australiasoutheast,Australia,Melbourne,805.0,RTX 8000,260
+2141,azure,australiasoutheast,Australia,Melbourne,805.0,T4,70
+2142,azure,australiasoutheast,Australia,Melbourne,805.0,Tesla K40c,245
+2143,azure,australiasoutheast,Australia,Melbourne,805.0,Tesla K80,300
+2144,azure,australiasoutheast,Australia,Melbourne,805.0,Tesla M40 24GB,250
+2145,azure,australiasoutheast,Australia,Melbourne,805.0,Tesla P100,250
+2146,azure,australiasoutheast,Australia,Melbourne,805.0,Tesla P40,250
+2147,azure,australiasoutheast,Australia,Melbourne,805.0,Tesla V100-PCIE-16GB,300
+2148,azure,australiasoutheast,Australia,Melbourne,805.0,Tesla V100-SXM2-16GB,250
+2149,azure,australiasoutheast,Australia,Melbourne,805.0,Tesla V100-SXM2-32GB,300
+2150,azure,australiasoutheast,Australia,Melbourne,805.0,Titan RTX,280
+2151,azure,australiasoutheast,Australia,Melbourne,805.0,Titan V,250
+2152,azure,australiasoutheast,Australia,Melbourne,805.0,TITAN X Pascal,250
+2153,azure,australiasoutheast,Australia,Melbourne,805.0,Titan Xp,250
+2154,azure,australiasoutheast,Australia,Melbourne,805.0,TPUv2 Chip,221
+2155,azure,australiasoutheast,Australia,Melbourne,805.0,TPUv3 Chip,283
+2156,azure,australiasoutheast,Australia,Melbourne,805.0,RTX 3080,320
+2157,azure,australiasoutheast,Australia,Melbourne,805.0,RTX 3080 TI,350
+2158,azure,australiasoutheast,Australia,Melbourne,805.0,RTX 3090,350
+2159,azure,australiasoutheast,Australia,Melbourne,805.0,RTX A6000,300
+2160,azure,australiasoutheast,Australia,Melbourne,805.0,Intel Xeon E5-2699,145
+2161,azure,australiasoutheast,Australia,Melbourne,805.0,Intel Xeon E5-2630v4,85
+2162,azure,australiasoutheast,Australia,Melbourne,805.0,Intel Xeon E5-2650,105
+2163,azure,australiasoutheast,Australia,Melbourne,805.0,Intel Xeon Gold 5220,125
+2164,azure,australiasoutheast,Australia,Melbourne,805.0,Intel Xeon Gold 6148,150
+2165,azure,australiasoutheast,Australia,Melbourne,805.0,AMD EPYC 7763,280
+2166,azure,southindia,India,Pallavaram,920.0,A100 PCIe 40/80GB,250
+2167,azure,southindia,India,Pallavaram,920.0,A100 SXM4 80 GB,400
+2168,azure,southindia,India,Pallavaram,920.0,AGX Xavier,30
+2169,azure,southindia,India,Pallavaram,920.0,AMD RX480,150
+2170,azure,southindia,India,Pallavaram,920.0,GTX 1080 Ti,250
+2171,azure,southindia,India,Pallavaram,920.0,GTX 1080,180
+2172,azure,southindia,India,Pallavaram,920.0,GTX 750,250
+2173,azure,southindia,India,Pallavaram,920.0,GTX TITAN X,250
+2174,azure,southindia,India,Pallavaram,920.0,Quadro K6000,225
+2175,azure,southindia,India,Pallavaram,920.0,Quadro P6000,250
+2176,azure,southindia,India,Pallavaram,920.0,RTX 2080 Ti,250
+2177,azure,southindia,India,Pallavaram,920.0,RTX 2080,215
+2178,azure,southindia,India,Pallavaram,920.0,RTX 8000,260
+2179,azure,southindia,India,Pallavaram,920.0,T4,70
+2180,azure,southindia,India,Pallavaram,920.0,Tesla K40c,245
+2181,azure,southindia,India,Pallavaram,920.0,Tesla K80,300
+2182,azure,southindia,India,Pallavaram,920.0,Tesla M40 24GB,250
+2183,azure,southindia,India,Pallavaram,920.0,Tesla P100,250
+2184,azure,southindia,India,Pallavaram,920.0,Tesla P40,250
+2185,azure,southindia,India,Pallavaram,920.0,Tesla V100-PCIE-16GB,300
+2186,azure,southindia,India,Pallavaram,920.0,Tesla V100-SXM2-16GB,250
+2187,azure,southindia,India,Pallavaram,920.0,Tesla V100-SXM2-32GB,300
+2188,azure,southindia,India,Pallavaram,920.0,Titan RTX,280
+2189,azure,southindia,India,Pallavaram,920.0,Titan V,250
+2190,azure,southindia,India,Pallavaram,920.0,TITAN X Pascal,250
+2191,azure,southindia,India,Pallavaram,920.0,Titan Xp,250
+2192,azure,southindia,India,Pallavaram,920.0,TPUv2 Chip,221
+2193,azure,southindia,India,Pallavaram,920.0,TPUv3 Chip,283
+2194,azure,southindia,India,Pallavaram,920.0,RTX 3080,320
+2195,azure,southindia,India,Pallavaram,920.0,RTX 3080 TI,350
+2196,azure,southindia,India,Pallavaram,920.0,RTX 3090,350
+2197,azure,southindia,India,Pallavaram,920.0,RTX A6000,300
+2198,azure,southindia,India,Pallavaram,920.0,Intel Xeon E5-2699,145
+2199,azure,southindia,India,Pallavaram,920.0,Intel Xeon E5-2630v4,85
+2200,azure,southindia,India,Pallavaram,920.0,Intel Xeon E5-2650,105
+2201,azure,southindia,India,Pallavaram,920.0,Intel Xeon Gold 5220,125
+2202,azure,southindia,India,Pallavaram,920.0,Intel Xeon Gold 6148,150
+2203,azure,southindia,India,Pallavaram,920.0,AMD EPYC 7763,280
+2204,azure,centralindia,India,Lohogaon,920.0,A100 PCIe 40/80GB,250
+2205,azure,centralindia,India,Lohogaon,920.0,A100 SXM4 80 GB,400
+2206,azure,centralindia,India,Lohogaon,920.0,AGX Xavier,30
+2207,azure,centralindia,India,Lohogaon,920.0,AMD RX480,150
+2208,azure,centralindia,India,Lohogaon,920.0,GTX 1080 Ti,250
+2209,azure,centralindia,India,Lohogaon,920.0,GTX 1080,180
+2210,azure,centralindia,India,Lohogaon,920.0,GTX 750,250
+2211,azure,centralindia,India,Lohogaon,920.0,GTX TITAN X,250
+2212,azure,centralindia,India,Lohogaon,920.0,Quadro K6000,225
+2213,azure,centralindia,India,Lohogaon,920.0,Quadro P6000,250
+2214,azure,centralindia,India,Lohogaon,920.0,RTX 2080 Ti,250
+2215,azure,centralindia,India,Lohogaon,920.0,RTX 2080,215
+2216,azure,centralindia,India,Lohogaon,920.0,RTX 8000,260
+2217,azure,centralindia,India,Lohogaon,920.0,T4,70
+2218,azure,centralindia,India,Lohogaon,920.0,Tesla K40c,245
+2219,azure,centralindia,India,Lohogaon,920.0,Tesla K80,300
+2220,azure,centralindia,India,Lohogaon,920.0,Tesla M40 24GB,250
+2221,azure,centralindia,India,Lohogaon,920.0,Tesla P100,250
+2222,azure,centralindia,India,Lohogaon,920.0,Tesla P40,250
+2223,azure,centralindia,India,Lohogaon,920.0,Tesla V100-PCIE-16GB,300
+2224,azure,centralindia,India,Lohogaon,920.0,Tesla V100-SXM2-16GB,250
+2225,azure,centralindia,India,Lohogaon,920.0,Tesla V100-SXM2-32GB,300
+2226,azure,centralindia,India,Lohogaon,920.0,Titan RTX,280
+2227,azure,centralindia,India,Lohogaon,920.0,Titan V,250
+2228,azure,centralindia,India,Lohogaon,920.0,TITAN X Pascal,250
+2229,azure,centralindia,India,Lohogaon,920.0,Titan Xp,250
+2230,azure,centralindia,India,Lohogaon,920.0,TPUv2 Chip,221
+2231,azure,centralindia,India,Lohogaon,920.0,TPUv3 Chip,283
+2232,azure,centralindia,India,Lohogaon,920.0,RTX 3080,320
+2233,azure,centralindia,India,Lohogaon,920.0,RTX 3080 TI,350
+2234,azure,centralindia,India,Lohogaon,920.0,RTX 3090,350
+2235,azure,centralindia,India,Lohogaon,920.0,RTX A6000,300
+2236,azure,centralindia,India,Lohogaon,920.0,Intel Xeon E5-2699,145
+2237,azure,centralindia,India,Lohogaon,920.0,Intel Xeon E5-2630v4,85
+2238,azure,centralindia,India,Lohogaon,920.0,Intel Xeon E5-2650,105
+2239,azure,centralindia,India,Lohogaon,920.0,Intel Xeon Gold 5220,125
+2240,azure,centralindia,India,Lohogaon,920.0,Intel Xeon Gold 6148,150
+2241,azure,centralindia,India,Lohogaon,920.0,AMD EPYC 7763,280
+2242,azure,westindia,India,Mumbai,920.0,A100 PCIe 40/80GB,250
+2243,azure,westindia,India,Mumbai,920.0,A100 SXM4 80 GB,400
+2244,azure,westindia,India,Mumbai,920.0,AGX Xavier,30
+2245,azure,westindia,India,Mumbai,920.0,AMD RX480,150
+2246,azure,westindia,India,Mumbai,920.0,GTX 1080 Ti,250
+2247,azure,westindia,India,Mumbai,920.0,GTX 1080,180
+2248,azure,westindia,India,Mumbai,920.0,GTX 750,250
+2249,azure,westindia,India,Mumbai,920.0,GTX TITAN X,250
+2250,azure,westindia,India,Mumbai,920.0,Quadro K6000,225
+2251,azure,westindia,India,Mumbai,920.0,Quadro P6000,250
+2252,azure,westindia,India,Mumbai,920.0,RTX 2080 Ti,250
+2253,azure,westindia,India,Mumbai,920.0,RTX 2080,215
+2254,azure,westindia,India,Mumbai,920.0,RTX 8000,260
+2255,azure,westindia,India,Mumbai,920.0,T4,70
+2256,azure,westindia,India,Mumbai,920.0,Tesla K40c,245
+2257,azure,westindia,India,Mumbai,920.0,Tesla K80,300
+2258,azure,westindia,India,Mumbai,920.0,Tesla M40 24GB,250
+2259,azure,westindia,India,Mumbai,920.0,Tesla P100,250
+2260,azure,westindia,India,Mumbai,920.0,Tesla P40,250
+2261,azure,westindia,India,Mumbai,920.0,Tesla V100-PCIE-16GB,300
+2262,azure,westindia,India,Mumbai,920.0,Tesla V100-SXM2-16GB,250
+2263,azure,westindia,India,Mumbai,920.0,Tesla V100-SXM2-32GB,300
+2264,azure,westindia,India,Mumbai,920.0,Titan RTX,280
+2265,azure,westindia,India,Mumbai,920.0,Titan V,250
+2266,azure,westindia,India,Mumbai,920.0,TITAN X Pascal,250
+2267,azure,westindia,India,Mumbai,920.0,Titan Xp,250
+2268,azure,westindia,India,Mumbai,920.0,TPUv2 Chip,221
+2269,azure,westindia,India,Mumbai,920.0,TPUv3 Chip,283
+2270,azure,westindia,India,Mumbai,920.0,RTX 3080,320
+2271,azure,westindia,India,Mumbai,920.0,RTX 3080 TI,350
+2272,azure,westindia,India,Mumbai,920.0,RTX 3090,350
+2273,azure,westindia,India,Mumbai,920.0,RTX A6000,300
+2274,azure,westindia,India,Mumbai,920.0,Intel Xeon E5-2699,145
+2275,azure,westindia,India,Mumbai,920.0,Intel Xeon E5-2630v4,85
+2276,azure,westindia,India,Mumbai,920.0,Intel Xeon E5-2650,105
+2277,azure,westindia,India,Mumbai,920.0,Intel Xeon Gold 5220,125
+2278,azure,westindia,India,Mumbai,920.0,Intel Xeon Gold 6148,150
+2279,azure,westindia,India,Mumbai,920.0,AMD EPYC 7763,280
+2280,azure,canadacentral,Canada,Toronto,69.3,A100 PCIe 40/80GB,250
+2281,azure,canadacentral,Canada,Toronto,69.3,A100 SXM4 80 GB,400
+2282,azure,canadacentral,Canada,Toronto,69.3,AGX Xavier,30
+2283,azure,canadacentral,Canada,Toronto,69.3,AMD RX480,150
+2284,azure,canadacentral,Canada,Toronto,69.3,GTX 1080 Ti,250
+2285,azure,canadacentral,Canada,Toronto,69.3,GTX 1080,180
+2286,azure,canadacentral,Canada,Toronto,69.3,GTX 750,250
+2287,azure,canadacentral,Canada,Toronto,69.3,GTX TITAN X,250
+2288,azure,canadacentral,Canada,Toronto,69.3,Quadro K6000,225
+2289,azure,canadacentral,Canada,Toronto,69.3,Quadro P6000,250
+2290,azure,canadacentral,Canada,Toronto,69.3,RTX 2080 Ti,250
+2291,azure,canadacentral,Canada,Toronto,69.3,RTX 2080,215
+2292,azure,canadacentral,Canada,Toronto,69.3,RTX 8000,260
+2293,azure,canadacentral,Canada,Toronto,69.3,T4,70
+2294,azure,canadacentral,Canada,Toronto,69.3,Tesla K40c,245
+2295,azure,canadacentral,Canada,Toronto,69.3,Tesla K80,300
+2296,azure,canadacentral,Canada,Toronto,69.3,Tesla M40 24GB,250
+2297,azure,canadacentral,Canada,Toronto,69.3,Tesla P100,250
+2298,azure,canadacentral,Canada,Toronto,69.3,Tesla P40,250
+2299,azure,canadacentral,Canada,Toronto,69.3,Tesla V100-PCIE-16GB,300
+2300,azure,canadacentral,Canada,Toronto,69.3,Tesla V100-SXM2-16GB,250
+2301,azure,canadacentral,Canada,Toronto,69.3,Tesla V100-SXM2-32GB,300
+2302,azure,canadacentral,Canada,Toronto,69.3,Titan RTX,280
+2303,azure,canadacentral,Canada,Toronto,69.3,Titan V,250
+2304,azure,canadacentral,Canada,Toronto,69.3,TITAN X Pascal,250
+2305,azure,canadacentral,Canada,Toronto,69.3,Titan Xp,250
+2306,azure,canadacentral,Canada,Toronto,69.3,TPUv2 Chip,221
+2307,azure,canadacentral,Canada,Toronto,69.3,TPUv3 Chip,283
+2308,azure,canadacentral,Canada,Toronto,69.3,RTX 3080,320
+2309,azure,canadacentral,Canada,Toronto,69.3,RTX 3080 TI,350
+2310,azure,canadacentral,Canada,Toronto,69.3,RTX 3090,350
+2311,azure,canadacentral,Canada,Toronto,69.3,RTX A6000,300
+2312,azure,canadacentral,Canada,Toronto,69.3,Intel Xeon E5-2699,145
+2313,azure,canadacentral,Canada,Toronto,69.3,Intel Xeon E5-2630v4,85
+2314,azure,canadacentral,Canada,Toronto,69.3,Intel Xeon E5-2650,105
+2315,azure,canadacentral,Canada,Toronto,69.3,Intel Xeon Gold 5220,125
+2316,azure,canadacentral,Canada,Toronto,69.3,Intel Xeon Gold 6148,150
+2317,azure,canadacentral,Canada,Toronto,69.3,AMD EPYC 7763,280
+2318,azure,canadaeast,Canada,Quebec,20.0,A100 PCIe 40/80GB,250
+2319,azure,canadaeast,Canada,Quebec,20.0,A100 SXM4 80 GB,400
+2320,azure,canadaeast,Canada,Quebec,20.0,AGX Xavier,30
+2321,azure,canadaeast,Canada,Quebec,20.0,AMD RX480,150
+2322,azure,canadaeast,Canada,Quebec,20.0,GTX 1080 Ti,250
+2323,azure,canadaeast,Canada,Quebec,20.0,GTX 1080,180
+2324,azure,canadaeast,Canada,Quebec,20.0,GTX 750,250
+2325,azure,canadaeast,Canada,Quebec,20.0,GTX TITAN X,250
+2326,azure,canadaeast,Canada,Quebec,20.0,Quadro K6000,225
+2327,azure,canadaeast,Canada,Quebec,20.0,Quadro P6000,250
+2328,azure,canadaeast,Canada,Quebec,20.0,RTX 2080 Ti,250
+2329,azure,canadaeast,Canada,Quebec,20.0,RTX 2080,215
+2330,azure,canadaeast,Canada,Quebec,20.0,RTX 8000,260
+2331,azure,canadaeast,Canada,Quebec,20.0,T4,70
+2332,azure,canadaeast,Canada,Quebec,20.0,Tesla K40c,245
+2333,azure,canadaeast,Canada,Quebec,20.0,Tesla K80,300
+2334,azure,canadaeast,Canada,Quebec,20.0,Tesla M40 24GB,250
+2335,azure,canadaeast,Canada,Quebec,20.0,Tesla P100,250
+2336,azure,canadaeast,Canada,Quebec,20.0,Tesla P40,250
+2337,azure,canadaeast,Canada,Quebec,20.0,Tesla V100-PCIE-16GB,300
+2338,azure,canadaeast,Canada,Quebec,20.0,Tesla V100-SXM2-16GB,250
+2339,azure,canadaeast,Canada,Quebec,20.0,Tesla V100-SXM2-32GB,300
+2340,azure,canadaeast,Canada,Quebec,20.0,Titan RTX,280
+2341,azure,canadaeast,Canada,Quebec,20.0,Titan V,250
+2342,azure,canadaeast,Canada,Quebec,20.0,TITAN X Pascal,250
+2343,azure,canadaeast,Canada,Quebec,20.0,Titan Xp,250
+2344,azure,canadaeast,Canada,Quebec,20.0,TPUv2 Chip,221
+2345,azure,canadaeast,Canada,Quebec,20.0,TPUv3 Chip,283
+2346,azure,canadaeast,Canada,Quebec,20.0,RTX 3080,320
+2347,azure,canadaeast,Canada,Quebec,20.0,RTX 3080 TI,350
+2348,azure,canadaeast,Canada,Quebec,20.0,RTX 3090,350
+2349,azure,canadaeast,Canada,Quebec,20.0,RTX A6000,300
+2350,azure,canadaeast,Canada,Quebec,20.0,Intel Xeon E5-2699,145
+2351,azure,canadaeast,Canada,Quebec,20.0,Intel Xeon E5-2630v4,85
+2352,azure,canadaeast,Canada,Quebec,20.0,Intel Xeon E5-2650,105
+2353,azure,canadaeast,Canada,Quebec,20.0,Intel Xeon Gold 5220,125
+2354,azure,canadaeast,Canada,Quebec,20.0,Intel Xeon Gold 6148,150
+2355,azure,canadaeast,Canada,Quebec,20.0,AMD EPYC 7763,280
+2356,azure,uksouth,United Kingdom,Midhurst,623.0,A100 PCIe 40/80GB,250
+2357,azure,uksouth,United Kingdom,Midhurst,623.0,A100 SXM4 80 GB,400
+2358,azure,uksouth,United Kingdom,Midhurst,623.0,AGX Xavier,30
+2359,azure,uksouth,United Kingdom,Midhurst,623.0,AMD RX480,150
+2360,azure,uksouth,United Kingdom,Midhurst,623.0,GTX 1080 Ti,250
+2361,azure,uksouth,United Kingdom,Midhurst,623.0,GTX 1080,180
+2362,azure,uksouth,United Kingdom,Midhurst,623.0,GTX 750,250
+2363,azure,uksouth,United Kingdom,Midhurst,623.0,GTX TITAN X,250
+2364,azure,uksouth,United Kingdom,Midhurst,623.0,Quadro K6000,225
+2365,azure,uksouth,United Kingdom,Midhurst,623.0,Quadro P6000,250
+2366,azure,uksouth,United Kingdom,Midhurst,623.0,RTX 2080 Ti,250
+2367,azure,uksouth,United Kingdom,Midhurst,623.0,RTX 2080,215
+2368,azure,uksouth,United Kingdom,Midhurst,623.0,RTX 8000,260
+2369,azure,uksouth,United Kingdom,Midhurst,623.0,T4,70
+2370,azure,uksouth,United Kingdom,Midhurst,623.0,Tesla K40c,245
+2371,azure,uksouth,United Kingdom,Midhurst,623.0,Tesla K80,300
+2372,azure,uksouth,United Kingdom,Midhurst,623.0,Tesla M40 24GB,250
+2373,azure,uksouth,United Kingdom,Midhurst,623.0,Tesla P100,250
+2374,azure,uksouth,United Kingdom,Midhurst,623.0,Tesla P40,250
+2375,azure,uksouth,United Kingdom,Midhurst,623.0,Tesla V100-PCIE-16GB,300
+2376,azure,uksouth,United Kingdom,Midhurst,623.0,Tesla V100-SXM2-16GB,250
+2377,azure,uksouth,United Kingdom,Midhurst,623.0,Tesla V100-SXM2-32GB,300
+2378,azure,uksouth,United Kingdom,Midhurst,623.0,Titan RTX,280
+2379,azure,uksouth,United Kingdom,Midhurst,623.0,Titan V,250
+2380,azure,uksouth,United Kingdom,Midhurst,623.0,TITAN X Pascal,250
+2381,azure,uksouth,United Kingdom,Midhurst,623.0,Titan Xp,250
+2382,azure,uksouth,United Kingdom,Midhurst,623.0,TPUv2 Chip,221
+2383,azure,uksouth,United Kingdom,Midhurst,623.0,TPUv3 Chip,283
+2384,azure,uksouth,United Kingdom,Midhurst,623.0,RTX 3080,320
+2385,azure,uksouth,United Kingdom,Midhurst,623.0,RTX 3080 TI,350
+2386,azure,uksouth,United Kingdom,Midhurst,623.0,RTX 3090,350
+2387,azure,uksouth,United Kingdom,Midhurst,623.0,RTX A6000,300
+2388,azure,uksouth,United Kingdom,Midhurst,623.0,Intel Xeon E5-2699,145
+2389,azure,uksouth,United Kingdom,Midhurst,623.0,Intel Xeon E5-2630v4,85
+2390,azure,uksouth,United Kingdom,Midhurst,623.0,Intel Xeon E5-2650,105
+2391,azure,uksouth,United Kingdom,Midhurst,623.0,Intel Xeon Gold 5220,125
+2392,azure,uksouth,United Kingdom,Midhurst,623.0,Intel Xeon Gold 6148,150
+2393,azure,uksouth,United Kingdom,Midhurst,623.0,AMD EPYC 7763,280
+2394,azure,ukwest,United Kingdom,Wallasey,623.0,A100 PCIe 40/80GB,250
+2395,azure,ukwest,United Kingdom,Wallasey,623.0,A100 SXM4 80 GB,400
+2396,azure,ukwest,United Kingdom,Wallasey,623.0,AGX Xavier,30
+2397,azure,ukwest,United Kingdom,Wallasey,623.0,AMD RX480,150
+2398,azure,ukwest,United Kingdom,Wallasey,623.0,GTX 1080 Ti,250
+2399,azure,ukwest,United Kingdom,Wallasey,623.0,GTX 1080,180
+2400,azure,ukwest,United Kingdom,Wallasey,623.0,GTX 750,250
+2401,azure,ukwest,United Kingdom,Wallasey,623.0,GTX TITAN X,250
+2402,azure,ukwest,United Kingdom,Wallasey,623.0,Quadro K6000,225
+2403,azure,ukwest,United Kingdom,Wallasey,623.0,Quadro P6000,250
+2404,azure,ukwest,United Kingdom,Wallasey,623.0,RTX 2080 Ti,250
+2405,azure,ukwest,United Kingdom,Wallasey,623.0,RTX 2080,215
+2406,azure,ukwest,United Kingdom,Wallasey,623.0,RTX 8000,260
+2407,azure,ukwest,United Kingdom,Wallasey,623.0,T4,70
+2408,azure,ukwest,United Kingdom,Wallasey,623.0,Tesla K40c,245
+2409,azure,ukwest,United Kingdom,Wallasey,623.0,Tesla K80,300
+2410,azure,ukwest,United Kingdom,Wallasey,623.0,Tesla M40 24GB,250
+2411,azure,ukwest,United Kingdom,Wallasey,623.0,Tesla P100,250
+2412,azure,ukwest,United Kingdom,Wallasey,623.0,Tesla P40,250
+2413,azure,ukwest,United Kingdom,Wallasey,623.0,Tesla V100-PCIE-16GB,300
+2414,azure,ukwest,United Kingdom,Wallasey,623.0,Tesla V100-SXM2-16GB,250
+2415,azure,ukwest,United Kingdom,Wallasey,623.0,Tesla V100-SXM2-32GB,300
+2416,azure,ukwest,United Kingdom,Wallasey,623.0,Titan RTX,280
+2417,azure,ukwest,United Kingdom,Wallasey,623.0,Titan V,250
+2418,azure,ukwest,United Kingdom,Wallasey,623.0,TITAN X Pascal,250
+2419,azure,ukwest,United Kingdom,Wallasey,623.0,Titan Xp,250
+2420,azure,ukwest,United Kingdom,Wallasey,623.0,TPUv2 Chip,221
+2421,azure,ukwest,United Kingdom,Wallasey,623.0,TPUv3 Chip,283
+2422,azure,ukwest,United Kingdom,Wallasey,623.0,RTX 3080,320
+2423,azure,ukwest,United Kingdom,Wallasey,623.0,RTX 3080 TI,350
+2424,azure,ukwest,United Kingdom,Wallasey,623.0,RTX 3090,350
+2425,azure,ukwest,United Kingdom,Wallasey,623.0,RTX A6000,300
+2426,azure,ukwest,United Kingdom,Wallasey,623.0,Intel Xeon E5-2699,145
+2427,azure,ukwest,United Kingdom,Wallasey,623.0,Intel Xeon E5-2630v4,85
+2428,azure,ukwest,United Kingdom,Wallasey,623.0,Intel Xeon E5-2650,105
+2429,azure,ukwest,United Kingdom,Wallasey,623.0,Intel Xeon Gold 5220,125
+2430,azure,ukwest,United Kingdom,Wallasey,623.0,Intel Xeon Gold 6148,150
+2431,azure,ukwest,United Kingdom,Wallasey,623.0,AMD EPYC 7763,280
+2432,azure,westcentralus,USA,Mountain View,297.6,A100 PCIe 40/80GB,250
+2433,azure,westcentralus,USA,Mountain View,297.6,A100 SXM4 80 GB,400
+2434,azure,westcentralus,USA,Mountain View,297.6,AGX Xavier,30
+2435,azure,westcentralus,USA,Mountain View,297.6,AMD RX480,150
+2436,azure,westcentralus,USA,Mountain View,297.6,GTX 1080 Ti,250
+2437,azure,westcentralus,USA,Mountain View,297.6,GTX 1080,180
+2438,azure,westcentralus,USA,Mountain View,297.6,GTX 750,250
+2439,azure,westcentralus,USA,Mountain View,297.6,GTX TITAN X,250
+2440,azure,westcentralus,USA,Mountain View,297.6,Quadro K6000,225
+2441,azure,westcentralus,USA,Mountain View,297.6,Quadro P6000,250
+2442,azure,westcentralus,USA,Mountain View,297.6,RTX 2080 Ti,250
+2443,azure,westcentralus,USA,Mountain View,297.6,RTX 2080,215
+2444,azure,westcentralus,USA,Mountain View,297.6,RTX 8000,260
+2445,azure,westcentralus,USA,Mountain View,297.6,T4,70
+2446,azure,westcentralus,USA,Mountain View,297.6,Tesla K40c,245
+2447,azure,westcentralus,USA,Mountain View,297.6,Tesla K80,300
+2448,azure,westcentralus,USA,Mountain View,297.6,Tesla M40 24GB,250
+2449,azure,westcentralus,USA,Mountain View,297.6,Tesla P100,250
+2450,azure,westcentralus,USA,Mountain View,297.6,Tesla P40,250
+2451,azure,westcentralus,USA,Mountain View,297.6,Tesla V100-PCIE-16GB,300
+2452,azure,westcentralus,USA,Mountain View,297.6,Tesla V100-SXM2-16GB,250
+2453,azure,westcentralus,USA,Mountain View,297.6,Tesla V100-SXM2-32GB,300
+2454,azure,westcentralus,USA,Mountain View,297.6,Titan RTX,280
+2455,azure,westcentralus,USA,Mountain View,297.6,Titan V,250
+2456,azure,westcentralus,USA,Mountain View,297.6,TITAN X Pascal,250
+2457,azure,westcentralus,USA,Mountain View,297.6,Titan Xp,250
+2458,azure,westcentralus,USA,Mountain View,297.6,TPUv2 Chip,221
+2459,azure,westcentralus,USA,Mountain View,297.6,TPUv3 Chip,283
+2460,azure,westcentralus,USA,Mountain View,297.6,RTX 3080,320
+2461,azure,westcentralus,USA,Mountain View,297.6,RTX 3080 TI,350
+2462,azure,westcentralus,USA,Mountain View,297.6,RTX 3090,350
+2463,azure,westcentralus,USA,Mountain View,297.6,RTX A6000,300
+2464,azure,westcentralus,USA,Mountain View,297.6,Intel Xeon E5-2699,145
+2465,azure,westcentralus,USA,Mountain View,297.6,Intel Xeon E5-2630v4,85
+2466,azure,westcentralus,USA,Mountain View,297.6,Intel Xeon E5-2650,105
+2467,azure,westcentralus,USA,Mountain View,297.6,Intel Xeon Gold 5220,125
+2468,azure,westcentralus,USA,Mountain View,297.6,Intel Xeon Gold 6148,150
+2469,azure,westcentralus,USA,Mountain View,297.6,AMD EPYC 7763,280
+2470,azure,westus2,USA,Quincy,297.6,A100 PCIe 40/80GB,250
+2471,azure,westus2,USA,Quincy,297.6,A100 SXM4 80 GB,400
+2472,azure,westus2,USA,Quincy,297.6,AGX Xavier,30
+2473,azure,westus2,USA,Quincy,297.6,AMD RX480,150
+2474,azure,westus2,USA,Quincy,297.6,GTX 1080 Ti,250
+2475,azure,westus2,USA,Quincy,297.6,GTX 1080,180
+2476,azure,westus2,USA,Quincy,297.6,GTX 750,250
+2477,azure,westus2,USA,Quincy,297.6,GTX TITAN X,250
+2478,azure,westus2,USA,Quincy,297.6,Quadro K6000,225
+2479,azure,westus2,USA,Quincy,297.6,Quadro P6000,250
+2480,azure,westus2,USA,Quincy,297.6,RTX 2080 Ti,250
+2481,azure,westus2,USA,Quincy,297.6,RTX 2080,215
+2482,azure,westus2,USA,Quincy,297.6,RTX 8000,260
+2483,azure,westus2,USA,Quincy,297.6,T4,70
+2484,azure,westus2,USA,Quincy,297.6,Tesla K40c,245
+2485,azure,westus2,USA,Quincy,297.6,Tesla K80,300
+2486,azure,westus2,USA,Quincy,297.6,Tesla M40 24GB,250
+2487,azure,westus2,USA,Quincy,297.6,Tesla P100,250
+2488,azure,westus2,USA,Quincy,297.6,Tesla P40,250
+2489,azure,westus2,USA,Quincy,297.6,Tesla V100-PCIE-16GB,300
+2490,azure,westus2,USA,Quincy,297.6,Tesla V100-SXM2-16GB,250
+2491,azure,westus2,USA,Quincy,297.6,Tesla V100-SXM2-32GB,300
+2492,azure,westus2,USA,Quincy,297.6,Titan RTX,280
+2493,azure,westus2,USA,Quincy,297.6,Titan V,250
+2494,azure,westus2,USA,Quincy,297.6,TITAN X Pascal,250
+2495,azure,westus2,USA,Quincy,297.6,Titan Xp,250
+2496,azure,westus2,USA,Quincy,297.6,TPUv2 Chip,221
+2497,azure,westus2,USA,Quincy,297.6,TPUv3 Chip,283
+2498,azure,westus2,USA,Quincy,297.6,RTX 3080,320
+2499,azure,westus2,USA,Quincy,297.6,RTX 3080 TI,350
+2500,azure,westus2,USA,Quincy,297.6,RTX 3090,350
+2501,azure,westus2,USA,Quincy,297.6,RTX A6000,300
+2502,azure,westus2,USA,Quincy,297.6,Intel Xeon E5-2699,145
+2503,azure,westus2,USA,Quincy,297.6,Intel Xeon E5-2630v4,85
+2504,azure,westus2,USA,Quincy,297.6,Intel Xeon E5-2650,105
+2505,azure,westus2,USA,Quincy,297.6,Intel Xeon Gold 5220,125
+2506,azure,westus2,USA,Quincy,297.6,Intel Xeon Gold 6148,150
+2507,azure,westus2,USA,Quincy,297.6,AMD EPYC 7763,280
+2508,azure,koreacentral,South Korea,Seoul,517.0,A100 PCIe 40/80GB,250
+2509,azure,koreacentral,South Korea,Seoul,517.0,A100 SXM4 80 GB,400
+2510,azure,koreacentral,South Korea,Seoul,517.0,AGX Xavier,30
+2511,azure,koreacentral,South Korea,Seoul,517.0,AMD RX480,150
+2512,azure,koreacentral,South Korea,Seoul,517.0,GTX 1080 Ti,250
+2513,azure,koreacentral,South Korea,Seoul,517.0,GTX 1080,180
+2514,azure,koreacentral,South Korea,Seoul,517.0,GTX 750,250
+2515,azure,koreacentral,South Korea,Seoul,517.0,GTX TITAN X,250
+2516,azure,koreacentral,South Korea,Seoul,517.0,Quadro K6000,225
+2517,azure,koreacentral,South Korea,Seoul,517.0,Quadro P6000,250
+2518,azure,koreacentral,South Korea,Seoul,517.0,RTX 2080 Ti,250
+2519,azure,koreacentral,South Korea,Seoul,517.0,RTX 2080,215
+2520,azure,koreacentral,South Korea,Seoul,517.0,RTX 8000,260
+2521,azure,koreacentral,South Korea,Seoul,517.0,T4,70
+2522,azure,koreacentral,South Korea,Seoul,517.0,Tesla K40c,245
+2523,azure,koreacentral,South Korea,Seoul,517.0,Tesla K80,300
+2524,azure,koreacentral,South Korea,Seoul,517.0,Tesla M40 24GB,250
+2525,azure,koreacentral,South Korea,Seoul,517.0,Tesla P100,250
+2526,azure,koreacentral,South Korea,Seoul,517.0,Tesla P40,250
+2527,azure,koreacentral,South Korea,Seoul,517.0,Tesla V100-PCIE-16GB,300
+2528,azure,koreacentral,South Korea,Seoul,517.0,Tesla V100-SXM2-16GB,250
+2529,azure,koreacentral,South Korea,Seoul,517.0,Tesla V100-SXM2-32GB,300
+2530,azure,koreacentral,South Korea,Seoul,517.0,Titan RTX,280
+2531,azure,koreacentral,South Korea,Seoul,517.0,Titan V,250
+2532,azure,koreacentral,South Korea,Seoul,517.0,TITAN X Pascal,250
+2533,azure,koreacentral,South Korea,Seoul,517.0,Titan Xp,250
+2534,azure,koreacentral,South Korea,Seoul,517.0,TPUv2 Chip,221
+2535,azure,koreacentral,South Korea,Seoul,517.0,TPUv3 Chip,283
+2536,azure,koreacentral,South Korea,Seoul,517.0,RTX 3080,320
+2537,azure,koreacentral,South Korea,Seoul,517.0,RTX 3080 TI,350
+2538,azure,koreacentral,South Korea,Seoul,517.0,RTX 3090,350
+2539,azure,koreacentral,South Korea,Seoul,517.0,RTX A6000,300
+2540,azure,koreacentral,South Korea,Seoul,517.0,Intel Xeon E5-2699,145
+2541,azure,koreacentral,South Korea,Seoul,517.0,Intel Xeon E5-2630v4,85
+2542,azure,koreacentral,South Korea,Seoul,517.0,Intel Xeon E5-2650,105
+2543,azure,koreacentral,South Korea,Seoul,517.0,Intel Xeon Gold 5220,125
+2544,azure,koreacentral,South Korea,Seoul,517.0,Intel Xeon Gold 6148,150
+2545,azure,koreacentral,South Korea,Seoul,517.0,AMD EPYC 7763,280
+2546,azure,koreasouth,South Korea,Busan,517.0,A100 PCIe 40/80GB,250
+2547,azure,koreasouth,South Korea,Busan,517.0,A100 SXM4 80 GB,400
+2548,azure,koreasouth,South Korea,Busan,517.0,AGX Xavier,30
+2549,azure,koreasouth,South Korea,Busan,517.0,AMD RX480,150
+2550,azure,koreasouth,South Korea,Busan,517.0,GTX 1080 Ti,250
+2551,azure,koreasouth,South Korea,Busan,517.0,GTX 1080,180
+2552,azure,koreasouth,South Korea,Busan,517.0,GTX 750,250
+2553,azure,koreasouth,South Korea,Busan,517.0,GTX TITAN X,250
+2554,azure,koreasouth,South Korea,Busan,517.0,Quadro K6000,225
+2555,azure,koreasouth,South Korea,Busan,517.0,Quadro P6000,250
+2556,azure,koreasouth,South Korea,Busan,517.0,RTX 2080 Ti,250
+2557,azure,koreasouth,South Korea,Busan,517.0,RTX 2080,215
+2558,azure,koreasouth,South Korea,Busan,517.0,RTX 8000,260
+2559,azure,koreasouth,South Korea,Busan,517.0,T4,70
+2560,azure,koreasouth,South Korea,Busan,517.0,Tesla K40c,245
+2561,azure,koreasouth,South Korea,Busan,517.0,Tesla K80,300
+2562,azure,koreasouth,South Korea,Busan,517.0,Tesla M40 24GB,250
+2563,azure,koreasouth,South Korea,Busan,517.0,Tesla P100,250
+2564,azure,koreasouth,South Korea,Busan,517.0,Tesla P40,250
+2565,azure,koreasouth,South Korea,Busan,517.0,Tesla V100-PCIE-16GB,300
+2566,azure,koreasouth,South Korea,Busan,517.0,Tesla V100-SXM2-16GB,250
+2567,azure,koreasouth,South Korea,Busan,517.0,Tesla V100-SXM2-32GB,300
+2568,azure,koreasouth,South Korea,Busan,517.0,Titan RTX,280
+2569,azure,koreasouth,South Korea,Busan,517.0,Titan V,250
+2570,azure,koreasouth,South Korea,Busan,517.0,TITAN X Pascal,250
+2571,azure,koreasouth,South Korea,Busan,517.0,Titan Xp,250
+2572,azure,koreasouth,South Korea,Busan,517.0,TPUv2 Chip,221
+2573,azure,koreasouth,South Korea,Busan,517.0,TPUv3 Chip,283
+2574,azure,koreasouth,South Korea,Busan,517.0,RTX 3080,320
+2575,azure,koreasouth,South Korea,Busan,517.0,RTX 3080 TI,350
+2576,azure,koreasouth,South Korea,Busan,517.0,RTX 3090,350
+2577,azure,koreasouth,South Korea,Busan,517.0,RTX A6000,300
+2578,azure,koreasouth,South Korea,Busan,517.0,Intel Xeon E5-2699,145
+2579,azure,koreasouth,South Korea,Busan,517.0,Intel Xeon E5-2630v4,85
+2580,azure,koreasouth,South Korea,Busan,517.0,Intel Xeon E5-2650,105
+2581,azure,koreasouth,South Korea,Busan,517.0,Intel Xeon Gold 5220,125
+2582,azure,koreasouth,South Korea,Busan,517.0,Intel Xeon Gold 6148,150
+2583,azure,koreasouth,South Korea,Busan,517.0,AMD EPYC 7763,280
+2584,azure,francecentral,France,Huriel,105.0,A100 PCIe 40/80GB,250
+2585,azure,francecentral,France,Huriel,105.0,A100 SXM4 80 GB,400
+2586,azure,francecentral,France,Huriel,105.0,AGX Xavier,30
+2587,azure,francecentral,France,Huriel,105.0,AMD RX480,150
+2588,azure,francecentral,France,Huriel,105.0,GTX 1080 Ti,250
+2589,azure,francecentral,France,Huriel,105.0,GTX 1080,180
+2590,azure,francecentral,France,Huriel,105.0,GTX 750,250
+2591,azure,francecentral,France,Huriel,105.0,GTX TITAN X,250
+2592,azure,francecentral,France,Huriel,105.0,Quadro K6000,225
+2593,azure,francecentral,France,Huriel,105.0,Quadro P6000,250
+2594,azure,francecentral,France,Huriel,105.0,RTX 2080 Ti,250
+2595,azure,francecentral,France,Huriel,105.0,RTX 2080,215
+2596,azure,francecentral,France,Huriel,105.0,RTX 8000,260
+2597,azure,francecentral,France,Huriel,105.0,T4,70
+2598,azure,francecentral,France,Huriel,105.0,Tesla K40c,245
+2599,azure,francecentral,France,Huriel,105.0,Tesla K80,300
+2600,azure,francecentral,France,Huriel,105.0,Tesla M40 24GB,250
+2601,azure,francecentral,France,Huriel,105.0,Tesla P100,250
+2602,azure,francecentral,France,Huriel,105.0,Tesla P40,250
+2603,azure,francecentral,France,Huriel,105.0,Tesla V100-PCIE-16GB,300
+2604,azure,francecentral,France,Huriel,105.0,Tesla V100-SXM2-16GB,250
+2605,azure,francecentral,France,Huriel,105.0,Tesla V100-SXM2-32GB,300
+2606,azure,francecentral,France,Huriel,105.0,Titan RTX,280
+2607,azure,francecentral,France,Huriel,105.0,Titan V,250
+2608,azure,francecentral,France,Huriel,105.0,TITAN X Pascal,250
+2609,azure,francecentral,France,Huriel,105.0,Titan Xp,250
+2610,azure,francecentral,France,Huriel,105.0,TPUv2 Chip,221
+2611,azure,francecentral,France,Huriel,105.0,TPUv3 Chip,283
+2612,azure,francecentral,France,Huriel,105.0,RTX 3080,320
+2613,azure,francecentral,France,Huriel,105.0,RTX 3080 TI,350
+2614,azure,francecentral,France,Huriel,105.0,RTX 3090,350
+2615,azure,francecentral,France,Huriel,105.0,RTX A6000,300
+2616,azure,francecentral,France,Huriel,105.0,Intel Xeon E5-2699,145
+2617,azure,francecentral,France,Huriel,105.0,Intel Xeon E5-2630v4,85
+2618,azure,francecentral,France,Huriel,105.0,Intel Xeon E5-2650,105
+2619,azure,francecentral,France,Huriel,105.0,Intel Xeon Gold 5220,125
+2620,azure,francecentral,France,Huriel,105.0,Intel Xeon Gold 6148,150
+2621,azure,francecentral,France,Huriel,105.0,AMD EPYC 7763,280
+2622,azure,francesouth,France,Realmont,105.0,A100 PCIe 40/80GB,250
+2623,azure,francesouth,France,Realmont,105.0,A100 SXM4 80 GB,400
+2624,azure,francesouth,France,Realmont,105.0,AGX Xavier,30
+2625,azure,francesouth,France,Realmont,105.0,AMD RX480,150
+2626,azure,francesouth,France,Realmont,105.0,GTX 1080 Ti,250
+2627,azure,francesouth,France,Realmont,105.0,GTX 1080,180
+2628,azure,francesouth,France,Realmont,105.0,GTX 750,250
+2629,azure,francesouth,France,Realmont,105.0,GTX TITAN X,250
+2630,azure,francesouth,France,Realmont,105.0,Quadro K6000,225
+2631,azure,francesouth,France,Realmont,105.0,Quadro P6000,250
+2632,azure,francesouth,France,Realmont,105.0,RTX 2080 Ti,250
+2633,azure,francesouth,France,Realmont,105.0,RTX 2080,215
+2634,azure,francesouth,France,Realmont,105.0,RTX 8000,260
+2635,azure,francesouth,France,Realmont,105.0,T4,70
+2636,azure,francesouth,France,Realmont,105.0,Tesla K40c,245
+2637,azure,francesouth,France,Realmont,105.0,Tesla K80,300
+2638,azure,francesouth,France,Realmont,105.0,Tesla M40 24GB,250
+2639,azure,francesouth,France,Realmont,105.0,Tesla P100,250
+2640,azure,francesouth,France,Realmont,105.0,Tesla P40,250
+2641,azure,francesouth,France,Realmont,105.0,Tesla V100-PCIE-16GB,300
+2642,azure,francesouth,France,Realmont,105.0,Tesla V100-SXM2-16GB,250
+2643,azure,francesouth,France,Realmont,105.0,Tesla V100-SXM2-32GB,300
+2644,azure,francesouth,France,Realmont,105.0,Titan RTX,280
+2645,azure,francesouth,France,Realmont,105.0,Titan V,250
+2646,azure,francesouth,France,Realmont,105.0,TITAN X Pascal,250
+2647,azure,francesouth,France,Realmont,105.0,Titan Xp,250
+2648,azure,francesouth,France,Realmont,105.0,TPUv2 Chip,221
+2649,azure,francesouth,France,Realmont,105.0,TPUv3 Chip,283
+2650,azure,francesouth,France,Realmont,105.0,RTX 3080,320
+2651,azure,francesouth,France,Realmont,105.0,RTX 3080 TI,350
+2652,azure,francesouth,France,Realmont,105.0,RTX 3090,350
+2653,azure,francesouth,France,Realmont,105.0,RTX A6000,300
+2654,azure,francesouth,France,Realmont,105.0,Intel Xeon E5-2699,145
+2655,azure,francesouth,France,Realmont,105.0,Intel Xeon E5-2630v4,85
+2656,azure,francesouth,France,Realmont,105.0,Intel Xeon E5-2650,105
+2657,azure,francesouth,France,Realmont,105.0,Intel Xeon Gold 5220,125
+2658,azure,francesouth,France,Realmont,105.0,Intel Xeon Gold 6148,150
+2659,azure,francesouth,France,Realmont,105.0,AMD EPYC 7763,280
+2660,azure,australiacentral,Australia,Forrest,900.0,A100 PCIe 40/80GB,250
+2661,azure,australiacentral,Australia,Forrest,900.0,A100 SXM4 80 GB,400
+2662,azure,australiacentral,Australia,Forrest,900.0,AGX Xavier,30
+2663,azure,australiacentral,Australia,Forrest,900.0,AMD RX480,150
+2664,azure,australiacentral,Australia,Forrest,900.0,GTX 1080 Ti,250
+2665,azure,australiacentral,Australia,Forrest,900.0,GTX 1080,180
+2666,azure,australiacentral,Australia,Forrest,900.0,GTX 750,250
+2667,azure,australiacentral,Australia,Forrest,900.0,GTX TITAN X,250
+2668,azure,australiacentral,Australia,Forrest,900.0,Quadro K6000,225
+2669,azure,australiacentral,Australia,Forrest,900.0,Quadro P6000,250
+2670,azure,australiacentral,Australia,Forrest,900.0,RTX 2080 Ti,250
+2671,azure,australiacentral,Australia,Forrest,900.0,RTX 2080,215
+2672,azure,australiacentral,Australia,Forrest,900.0,RTX 8000,260
+2673,azure,australiacentral,Australia,Forrest,900.0,T4,70
+2674,azure,australiacentral,Australia,Forrest,900.0,Tesla K40c,245
+2675,azure,australiacentral,Australia,Forrest,900.0,Tesla K80,300
+2676,azure,australiacentral,Australia,Forrest,900.0,Tesla M40 24GB,250
+2677,azure,australiacentral,Australia,Forrest,900.0,Tesla P100,250
+2678,azure,australiacentral,Australia,Forrest,900.0,Tesla P40,250
+2679,azure,australiacentral,Australia,Forrest,900.0,Tesla V100-PCIE-16GB,300
+2680,azure,australiacentral,Australia,Forrest,900.0,Tesla V100-SXM2-16GB,250
+2681,azure,australiacentral,Australia,Forrest,900.0,Tesla V100-SXM2-32GB,300
+2682,azure,australiacentral,Australia,Forrest,900.0,Titan RTX,280
+2683,azure,australiacentral,Australia,Forrest,900.0,Titan V,250
+2684,azure,australiacentral,Australia,Forrest,900.0,TITAN X Pascal,250
+2685,azure,australiacentral,Australia,Forrest,900.0,Titan Xp,250
+2686,azure,australiacentral,Australia,Forrest,900.0,TPUv2 Chip,221
+2687,azure,australiacentral,Australia,Forrest,900.0,TPUv3 Chip,283
+2688,azure,australiacentral,Australia,Forrest,900.0,RTX 3080,320
+2689,azure,australiacentral,Australia,Forrest,900.0,RTX 3080 TI,350
+2690,azure,australiacentral,Australia,Forrest,900.0,RTX 3090,350
+2691,azure,australiacentral,Australia,Forrest,900.0,RTX A6000,300
+2692,azure,australiacentral,Australia,Forrest,900.0,Intel Xeon E5-2699,145
+2693,azure,australiacentral,Australia,Forrest,900.0,Intel Xeon E5-2630v4,85
+2694,azure,australiacentral,Australia,Forrest,900.0,Intel Xeon E5-2650,105
+2695,azure,australiacentral,Australia,Forrest,900.0,Intel Xeon Gold 5220,125
+2696,azure,australiacentral,Australia,Forrest,900.0,Intel Xeon Gold 6148,150
+2697,azure,australiacentral,Australia,Forrest,900.0,AMD EPYC 7763,280
+2698,azure,australiacentral2,Australia,Forrest,900.0,A100 PCIe 40/80GB,250
+2699,azure,australiacentral2,Australia,Forrest,900.0,A100 SXM4 80 GB,400
+2700,azure,australiacentral2,Australia,Forrest,900.0,AGX Xavier,30
+2701,azure,australiacentral2,Australia,Forrest,900.0,AMD RX480,150
+2702,azure,australiacentral2,Australia,Forrest,900.0,GTX 1080 Ti,250
+2703,azure,australiacentral2,Australia,Forrest,900.0,GTX 1080,180
+2704,azure,australiacentral2,Australia,Forrest,900.0,GTX 750,250
+2705,azure,australiacentral2,Australia,Forrest,900.0,GTX TITAN X,250
+2706,azure,australiacentral2,Australia,Forrest,900.0,Quadro K6000,225
+2707,azure,australiacentral2,Australia,Forrest,900.0,Quadro P6000,250
+2708,azure,australiacentral2,Australia,Forrest,900.0,RTX 2080 Ti,250
+2709,azure,australiacentral2,Australia,Forrest,900.0,RTX 2080,215
+2710,azure,australiacentral2,Australia,Forrest,900.0,RTX 8000,260
+2711,azure,australiacentral2,Australia,Forrest,900.0,T4,70
+2712,azure,australiacentral2,Australia,Forrest,900.0,Tesla K40c,245
+2713,azure,australiacentral2,Australia,Forrest,900.0,Tesla K80,300
+2714,azure,australiacentral2,Australia,Forrest,900.0,Tesla M40 24GB,250
+2715,azure,australiacentral2,Australia,Forrest,900.0,Tesla P100,250
+2716,azure,australiacentral2,Australia,Forrest,900.0,Tesla P40,250
+2717,azure,australiacentral2,Australia,Forrest,900.0,Tesla V100-PCIE-16GB,300
+2718,azure,australiacentral2,Australia,Forrest,900.0,Tesla V100-SXM2-16GB,250
+2719,azure,australiacentral2,Australia,Forrest,900.0,Tesla V100-SXM2-32GB,300
+2720,azure,australiacentral2,Australia,Forrest,900.0,Titan RTX,280
+2721,azure,australiacentral2,Australia,Forrest,900.0,Titan V,250
+2722,azure,australiacentral2,Australia,Forrest,900.0,TITAN X Pascal,250
+2723,azure,australiacentral2,Australia,Forrest,900.0,Titan Xp,250
+2724,azure,australiacentral2,Australia,Forrest,900.0,TPUv2 Chip,221
+2725,azure,australiacentral2,Australia,Forrest,900.0,TPUv3 Chip,283
+2726,azure,australiacentral2,Australia,Forrest,900.0,RTX 3080,320
+2727,azure,australiacentral2,Australia,Forrest,900.0,RTX 3080 TI,350
+2728,azure,australiacentral2,Australia,Forrest,900.0,RTX 3090,350
+2729,azure,australiacentral2,Australia,Forrest,900.0,RTX A6000,300
+2730,azure,australiacentral2,Australia,Forrest,900.0,Intel Xeon E5-2699,145
+2731,azure,australiacentral2,Australia,Forrest,900.0,Intel Xeon E5-2630v4,85
+2732,azure,australiacentral2,Australia,Forrest,900.0,Intel Xeon E5-2650,105
+2733,azure,australiacentral2,Australia,Forrest,900.0,Intel Xeon Gold 5220,125
+2734,azure,australiacentral2,Australia,Forrest,900.0,Intel Xeon Gold 6148,150
+2735,azure,australiacentral2,Australia,Forrest,900.0,AMD EPYC 7763,280
+2736,azure,southafricanorth,South Africa,Pretoria,1009.0,A100 PCIe 40/80GB,250
+2737,azure,southafricanorth,South Africa,Pretoria,1009.0,A100 SXM4 80 GB,400
+2738,azure,southafricanorth,South Africa,Pretoria,1009.0,AGX Xavier,30
+2739,azure,southafricanorth,South Africa,Pretoria,1009.0,AMD RX480,150
+2740,azure,southafricanorth,South Africa,Pretoria,1009.0,GTX 1080 Ti,250
+2741,azure,southafricanorth,South Africa,Pretoria,1009.0,GTX 1080,180
+2742,azure,southafricanorth,South Africa,Pretoria,1009.0,GTX 750,250
+2743,azure,southafricanorth,South Africa,Pretoria,1009.0,GTX TITAN X,250
+2744,azure,southafricanorth,South Africa,Pretoria,1009.0,Quadro K6000,225
+2745,azure,southafricanorth,South Africa,Pretoria,1009.0,Quadro P6000,250
+2746,azure,southafricanorth,South Africa,Pretoria,1009.0,RTX 2080 Ti,250
+2747,azure,southafricanorth,South Africa,Pretoria,1009.0,RTX 2080,215
+2748,azure,southafricanorth,South Africa,Pretoria,1009.0,RTX 8000,260
+2749,azure,southafricanorth,South Africa,Pretoria,1009.0,T4,70
+2750,azure,southafricanorth,South Africa,Pretoria,1009.0,Tesla K40c,245
+2751,azure,southafricanorth,South Africa,Pretoria,1009.0,Tesla K80,300
+2752,azure,southafricanorth,South Africa,Pretoria,1009.0,Tesla M40 24GB,250
+2753,azure,southafricanorth,South Africa,Pretoria,1009.0,Tesla P100,250
+2754,azure,southafricanorth,South Africa,Pretoria,1009.0,Tesla P40,250
+2755,azure,southafricanorth,South Africa,Pretoria,1009.0,Tesla V100-PCIE-16GB,300
+2756,azure,southafricanorth,South Africa,Pretoria,1009.0,Tesla V100-SXM2-16GB,250
+2757,azure,southafricanorth,South Africa,Pretoria,1009.0,Tesla V100-SXM2-32GB,300
+2758,azure,southafricanorth,South Africa,Pretoria,1009.0,Titan RTX,280
+2759,azure,southafricanorth,South Africa,Pretoria,1009.0,Titan V,250
+2760,azure,southafricanorth,South Africa,Pretoria,1009.0,TITAN X Pascal,250
+2761,azure,southafricanorth,South Africa,Pretoria,1009.0,Titan Xp,250
+2762,azure,southafricanorth,South Africa,Pretoria,1009.0,TPUv2 Chip,221
+2763,azure,southafricanorth,South Africa,Pretoria,1009.0,TPUv3 Chip,283
+2764,azure,southafricanorth,South Africa,Pretoria,1009.0,RTX 3080,320
+2765,azure,southafricanorth,South Africa,Pretoria,1009.0,RTX 3080 TI,350
+2766,azure,southafricanorth,South Africa,Pretoria,1009.0,RTX 3090,350
+2767,azure,southafricanorth,South Africa,Pretoria,1009.0,RTX A6000,300
+2768,azure,southafricanorth,South Africa,Pretoria,1009.0,Intel Xeon E5-2699,145
+2769,azure,southafricanorth,South Africa,Pretoria,1009.0,Intel Xeon E5-2630v4,85
+2770,azure,southafricanorth,South Africa,Pretoria,1009.0,Intel Xeon E5-2650,105
+2771,azure,southafricanorth,South Africa,Pretoria,1009.0,Intel Xeon Gold 5220,125
+2772,azure,southafricanorth,South Africa,Pretoria,1009.0,Intel Xeon Gold 6148,150
+2773,azure,southafricanorth,South Africa,Pretoria,1009.0,AMD EPYC 7763,280
+2774,azure,southafricawest,South Africa,Stellenbosch,1009.0,A100 PCIe 40/80GB,250
+2775,azure,southafricawest,South Africa,Stellenbosch,1009.0,A100 SXM4 80 GB,400
+2776,azure,southafricawest,South Africa,Stellenbosch,1009.0,AGX Xavier,30
+2777,azure,southafricawest,South Africa,Stellenbosch,1009.0,AMD RX480,150
+2778,azure,southafricawest,South Africa,Stellenbosch,1009.0,GTX 1080 Ti,250
+2779,azure,southafricawest,South Africa,Stellenbosch,1009.0,GTX 1080,180
+2780,azure,southafricawest,South Africa,Stellenbosch,1009.0,GTX 750,250
+2781,azure,southafricawest,South Africa,Stellenbosch,1009.0,GTX TITAN X,250
+2782,azure,southafricawest,South Africa,Stellenbosch,1009.0,Quadro K6000,225
+2783,azure,southafricawest,South Africa,Stellenbosch,1009.0,Quadro P6000,250
+2784,azure,southafricawest,South Africa,Stellenbosch,1009.0,RTX 2080 Ti,250
+2785,azure,southafricawest,South Africa,Stellenbosch,1009.0,RTX 2080,215
+2786,azure,southafricawest,South Africa,Stellenbosch,1009.0,RTX 8000,260
+2787,azure,southafricawest,South Africa,Stellenbosch,1009.0,T4,70
+2788,azure,southafricawest,South Africa,Stellenbosch,1009.0,Tesla K40c,245
+2789,azure,southafricawest,South Africa,Stellenbosch,1009.0,Tesla K80,300
+2790,azure,southafricawest,South Africa,Stellenbosch,1009.0,Tesla M40 24GB,250
+2791,azure,southafricawest,South Africa,Stellenbosch,1009.0,Tesla P100,250
+2792,azure,southafricawest,South Africa,Stellenbosch,1009.0,Tesla P40,250
+2793,azure,southafricawest,South Africa,Stellenbosch,1009.0,Tesla V100-PCIE-16GB,300
+2794,azure,southafricawest,South Africa,Stellenbosch,1009.0,Tesla V100-SXM2-16GB,250
+2795,azure,southafricawest,South Africa,Stellenbosch,1009.0,Tesla V100-SXM2-32GB,300
+2796,azure,southafricawest,South Africa,Stellenbosch,1009.0,Titan RTX,280
+2797,azure,southafricawest,South Africa,Stellenbosch,1009.0,Titan V,250
+2798,azure,southafricawest,South Africa,Stellenbosch,1009.0,TITAN X Pascal,250
+2799,azure,southafricawest,South Africa,Stellenbosch,1009.0,Titan Xp,250
+2800,azure,southafricawest,South Africa,Stellenbosch,1009.0,TPUv2 Chip,221
+2801,azure,southafricawest,South Africa,Stellenbosch,1009.0,TPUv3 Chip,283
+2802,azure,southafricawest,South Africa,Stellenbosch,1009.0,RTX 3080,320
+2803,azure,southafricawest,South Africa,Stellenbosch,1009.0,RTX 3080 TI,350
+2804,azure,southafricawest,South Africa,Stellenbosch,1009.0,RTX 3090,350
+2805,azure,southafricawest,South Africa,Stellenbosch,1009.0,RTX A6000,300
+2806,azure,southafricawest,South Africa,Stellenbosch,1009.0,Intel Xeon E5-2699,145
+2807,azure,southafricawest,South Africa,Stellenbosch,1009.0,Intel Xeon E5-2630v4,85
+2808,azure,southafricawest,South Africa,Stellenbosch,1009.0,Intel Xeon E5-2650,105
+2809,azure,southafricawest,South Africa,Stellenbosch,1009.0,Intel Xeon Gold 5220,125
+2810,azure,southafricawest,South Africa,Stellenbosch,1009.0,Intel Xeon Gold 6148,150
+2811,azure,southafricawest,South Africa,Stellenbosch,1009.0,AMD EPYC 7763,280
